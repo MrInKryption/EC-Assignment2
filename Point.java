@@ -50,13 +50,26 @@ public class Point
     }
     
     // If this point is A, and the other point is B,
-    // Returns a new point C = A - B
+    // Returns a new point C = A - B.
+    // Returns a new point so doesn't change parents.
     public Point subtract(Point other)
     {
         x_diff = x - other.x;
         y_diff = y - other.y;
         
         Point result = new Point(x_diff, y_diff);
+        return result;
+    }
+    
+    // If this point is A, and the other point is B,
+    // Returns a new point C = A + B.
+    // Returns a new point so doesn't change parents.
+    public Point add(Point other)
+    {
+        x_new = x + other.x;
+        y_new = y + other.y;
+        
+        Point result = new Point(x_new, y_new);
         return result;
     }
     
