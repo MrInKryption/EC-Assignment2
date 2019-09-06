@@ -59,4 +59,12 @@ public class Point
         Point result = new Point(x_diff, y_diff);
         return result;
     }
+    
+    // Multiplies this point by the scalar factor. 
+    // Warning: Modifies the original point!
+    public void scalar_factor(float factor)
+    {
+        x = x * factor;
+        y = y * factor;
+    }
 }
