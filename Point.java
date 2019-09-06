@@ -38,14 +38,14 @@ public class Point
     
     // Returns the distance between this point and the
     // other point.
-    public int distance(Point other)
+    public double distance(Point other)
     {
-        x_dist = Math.abs(x - other.x);
-        y_dist = Math.abs(y - other.y);
+        double x_dist = Math.abs(x - other.x);
+        double y_dist = Math.abs(y - other.y);
         x_dist = Math.pow(x_dist, 2);
         y_dist = Math.pow(y_dist, 2);
         
-        dist = Math.sqrt(x_dist, y_dist);
+        double dist = Math.sqrt(x_dist + y_dist);
         return dist;
     }
     
@@ -54,8 +54,8 @@ public class Point
     // Returns a new point so doesn't change parents.
     public Point subtract(Point other)
     {
-        x_diff = x - other.x;
-        y_diff = y - other.y;
+        double x_diff = x - other.x;
+        double y_diff = y - other.y;
         
         Point result = new Point(x_diff, y_diff);
         return result;
@@ -66,8 +66,8 @@ public class Point
     // Returns a new point so doesn't change parents.
     public Point add(Point other)
     {
-        x_new = x + other.x;
-        y_new = y + other.y;
+        double x_new = x + other.x;
+        double y_new = y + other.y;
         
         Point result = new Point(x_new, y_new);
         return result;
@@ -75,7 +75,7 @@ public class Point
     
     // Multiplies this point by the scalar factor. 
     // Warning: Modifies the original point!
-    public void scalar_factor(float factor)
+    public void scalar_factor(double factor)
     {
         x = x * factor;
         y = y * factor;
