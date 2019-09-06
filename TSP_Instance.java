@@ -116,4 +116,15 @@ public class TSP_Instance
         Collections.shuffle(permutation, rand);
         return permutation;
     }
+    
+    // Prints the point out. 
+    public void print()
+    {
+        for (Point point : coordinates)
+        {
+            System.out.print("(" + point.getX() + ", " + point.getY() + ")");
+            System.out.print(",");        
+        }
+        System.out.println("\n--------------");
+    }
 }
