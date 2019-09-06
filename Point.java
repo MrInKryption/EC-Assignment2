@@ -35,4 +35,15 @@ public class Point
         x = y;
         y = temp;
     }
+    
+    public int distance(Point other)
+    {
+        x_dist = Math.abs(x - other.x);
+        y_dist = Math.abs(y - other.y);
+        x_dist = Math.pow(x_dist, 2);
+        y_dist = Math.pow(y_dist, 2);
+        
+        dist = Math.sqrt(x_dist, y_dist);
+        return dist;
+    }
 }
