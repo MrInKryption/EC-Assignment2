@@ -36,6 +36,8 @@ public class Point
         y = temp;
     }
     
+    // Returns the distance between this point and the
+    // other point.
     public int distance(Point other)
     {
         x_dist = Math.abs(x - other.x);
@@ -45,5 +47,16 @@ public class Point
         
         dist = Math.sqrt(x_dist, y_dist);
         return dist;
+    }
+    
+    // If this point is A, and the other point is B,
+    // Returns a new point C = A - B
+    public Point subtract(Point other)
+    {
+        x_diff = x - other.x;
+        y_diff = y - other.y;
+        
+        Point result = new Point(x_diff, y_diff);
+        return result;
     }
 }
