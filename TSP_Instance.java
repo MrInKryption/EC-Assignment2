@@ -61,6 +61,22 @@ public class TSP_Instance
         dimension = coordinates.size();
         this.coordinates = coordinates;
     }
+    
+    // Randomly generates a TSP_Instance of the specified size,
+    // with the points sampled between min and max. 
+    public TSP_Instance(int problem_size, double min, double max)
+    {
+        this.coordinates = new ArrayList<Point>();
+        Random rand = RandomNumberGenerator.getRandom();
+        for (int i = 0; i < problem_size; i++)
+        {
+            double x = min + ((max - min) * rand.nextDouble());
+            double y = min + ((max - min) * rand.nextDouble());
+            
+            Point new_point = new Point(x, y);
+            this.coordinates.add(new_point);
+        }
+    }
 
     // Gets the dimension of the TSP Instance.
     public int getDimension()
