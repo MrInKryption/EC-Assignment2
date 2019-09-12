@@ -120,6 +120,11 @@ public class TSP_Instance
         return total;
     }
     
+    public double getScore()
+    {
+        return 0;
+    }
+    
     // Generates a random permutation based on the TSP Instance.
     public ArrayList<Integer> initPermutation()
     {
