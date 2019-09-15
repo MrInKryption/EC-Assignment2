@@ -13,13 +13,13 @@ public class ElitismSelectionTSP implements ITSPSelection
         // Find elites and seperate from population
         for (int i = 0; i < numElites; i++)
         {
-            double best = population.get(0).getScore();
+            double best = population.get(0).getFitness();
             int indexBest = 0;
             for (int j = 1; j < population.size(); j++)
             {
-                if (population.get(j).getScore() < best)
+                if (population.get(j).getFitness() < best)
                 {
-                    best = population.get(j).getScore();
+                    best = population.get(j).getFitness();
                     indexBest = j;  
                 }
             }
