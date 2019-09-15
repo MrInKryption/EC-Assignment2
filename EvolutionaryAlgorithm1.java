@@ -23,23 +23,16 @@ public class EvolutionaryAlgorithm1 implements IEvolutionary
         TSP_Instance currentTsp = new TSP_Instance(tsp.getCoordinates());
         TSP_Instance childTsp;
 
+        // Mutation method for parent TSP Instances.
+        SuperNovaMutation snm = new SuperNovaMutation(0, 0, 100, 100);
+
         // Calculate fitness of the current TSP Instance as well as create
         // a variable to store the fitness of any children.
         double currentFitness = calculateFitness(currentTsp);
         double childFitness;
 
-        // Determine base probability based on number of cities as well as
-        // create a variable to store the random probability generated.
-        double baseProbability = 1.0 / (double)currentTsp.getDimension();
-        double randomProbability;
-
-        // Create a variable to be used to determine the city to mutate in the
-        // TSP Instance as well as create a variable to be used as the stop case.
-        int count;
+        // Create a variable to be used as the stop case.
         int repeatCount = 0;
-
-        // Initialise random object.
-        Random rand = RandomNumberGenerator.getRandom();
 
         // Loop until stop condition is met (repeatCount == 10000).
         while (true)
@@ -47,39 +40,8 @@ public class EvolutionaryAlgorithm1 implements IEvolutionary
             repeatCount++;
             System.out.println(LocalTime.now() + ": " + repeatCount);
 
-            // Reset counter to prepare for finding next city to mutate.
-            count = 0;
-
-            // Generate new random probability.
-            randomProbability = rand.nextDouble();
-
-            // Loop by taking the base probability away from the random
-            // probability until equal to or less than 0. Depending on
-            // case, uses count to determine city to mutate.
-            while (true)
-            {
-                if (randomProbability > 0)
-                {
-                    randomProbability -= baseProbability;
-                    count++;
-                }
-                else if(randomProbability == 0)
-                {
-                    break;
-                }
-                else if(randomProbability < 0)
-                {
-                    count--;
-                    break;
-                }
-            }
-
-            // Copy current TSP Instance for mutation.
-            childTsp = new TSP_Instance(currentTsp.getCoordinates());
-
-            // Mutate child TSP Instance by swapping the specific cities
-            // X and Y coordinates.
-            childTsp.getCoordinates().get(count).swapXY();
+            // Mutate child TSP Instance
+            childTsp = snm.mutate(currentTsp);
 
             // Calculate the childs fitness and compare against the
             // current parents fitness. Choose the TSP Instance with
