@@ -6,8 +6,11 @@ import java.util.Random;
 
 public class TSP_Instance
 {
+    // Determines how the fitness of this TSP_Instance is calculated. 
+    private static ITSPFitnessFunction fitnessCalculator; 
     private int dimension; // Number of cities in the TSP Instance.
     private ArrayList<Point> coordinates; // Coordinates for each city in the TSP Instance.
+    private double fitness; // The fitness of this TSP Instance, from fitness calculator. 
 
     public TSP_Instance(String file_path)
     {
@@ -54,12 +57,15 @@ public class TSP_Instance
         {
             System.out.println(e);
         }
+        
+        recalculateFitness();
     }
 
     public TSP_Instance(ArrayList<Point> coordinates)
     {
         dimension = coordinates.size();
-        this.coordinates = coordinates;
+        this.coordinates = coordinates; 
+        recalculateFitness();
     }
     
     // Randomly generates a TSP_Instance of the specified size,
@@ -76,6 +82,20 @@ public class TSP_Instance
             Point new_point = new Point(x, y);
             this.coordinates.add(new_point);
         }
+        
+        recalculateFitness();
+    }
+    
+    // All TSP_Instances created after a call to this function
+    // will use function to calculate the fitness which they return
+    // with getFitness(). 
+    // This will not update the function of existing instances. 
+    // If this is not called, all instances will have 0 fitness. 
+    // To update a existing instance to the new fitness function,
+    // call recalculateFitness(). 
+    public static void setFitnessFunction(ITSPFitnessFunction function)
+    {
+        fitnessCalculator = function;
     }
 
     // Gets the dimension of the TSP Instance.
@@ -120,9 +140,28 @@ public class TSP_Instance
         return total;
     }
     
-    public double getScore()
+    // Recalculates the fitness of this instance using fitnessCalculator.
+    // May give slightly different results even if fitnessCalculator is not used. 
+    public double recalculateFitness()
     {
-        return 0;
+        // Calculate the fitness of this instance. 
+        if (fitnessCalculator == null)
+        {
+            // If no fitness calculator,
+            // fitness is zero. 
+            fitness = 0;
+        }
+        else
+        {
+            fitness = fitnessCalculator.fitness(this);
+        }
+        return fitness;
+    }
+    
+    // Returns the fitness of this TSP instance, as set by fitness calculator. 
+    public double getFitness()
+    {
+        return fitness;
     }
     
     // Generates a random permutation based on the TSP Instance.
