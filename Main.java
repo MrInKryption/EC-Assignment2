@@ -13,9 +13,23 @@ public class Main
         }
         else
         {
-            tsp = new TSP_Instance(args[0]);
+            tsp = new TSP_Instance(10, 0, 10);
             EvolutionaryAlgorithm1 ea = new EvolutionaryAlgorithm1();
-            ea.EvolutionaryAlgorithm(tsp);
+            //ea.EvolutionaryAlgorithm(tsp);
+            
+            TSPEvolutionaryAlgorithm alg = new TSPEvolutionaryAlgorithm(0.05, 4, 1000);
+            ArrayList<TSP_Instance> population = new ArrayList<TSP_Instance>();
+            int population_size = 10;
+            for (int i = 0; i < population_size; i++)
+            {
+                population.add(new TSP_Instance(50, 0, 10));
+            }
+            
+            TwoOptFitnessFunction fitness = new TwoOptFitnessFunction();
+            SuperNovaMutation mutator = new SuperNovaMutation(0, 10, 0, 10);
+            MeanTSPCrossover crossover = new MeanTSPCrossover();
+            
+            alg.evolutionaryAlgorithm(population, fitness, mutator, crossover);
             return;
         }
     }
