@@ -32,13 +32,13 @@ public class TournamentSelectionTSP implements ITSPSelection
             }
 
             // Keep the individual with best fitness score
-            double best = competitors.get(0).getScore();
+            double best = competitors.get(0).getFitness();
             int indexBest = 0;
             for (int i = 1; i < competitors.size(); i++)
             {
-                if (best > competitors.get(i).getScore())
+                if (best > competitors.get(i).getFitness())
                 {
-                    best = competitors.get(i).getScore();
+                    best = competitors.get(i).getFitness();
                     indexBest = i;
                 }
             }
