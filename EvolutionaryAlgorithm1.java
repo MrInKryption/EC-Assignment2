@@ -1,3 +1,4 @@
+import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.Random;
 
@@ -44,7 +45,7 @@ public class EvolutionaryAlgorithm1 implements IEvolutionary
         while (true)
         {
             repeatCount++;
-            System.out.println(repeatCount);
+            System.out.println(LocalTime.now() + ": " + repeatCount);
 
             // Reset counter to prepare for finding next city to mutate.
             count = 0;

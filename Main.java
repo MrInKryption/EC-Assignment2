@@ -8,7 +8,9 @@ public class Main
     public static void main(String[] args) {
         if(args.length == 0)
         {
-            System.out.println("You have provided no arguments.");
+            tsp = new TSP_Instance(50, 0, 100);
+            EvolutionaryAlgorithm1 ea = new EvolutionaryAlgorithm1();
+            ea.EvolutionaryAlgorithm(tsp);
             return;
         }
         else
