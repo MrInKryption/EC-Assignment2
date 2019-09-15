@@ -17,7 +17,7 @@ public class ElitismSelectionTSP implements ITSPSelection
             int indexBest = 0;
             for (int j = 1; j < population.size(); j++)
             {
-                if (population.get(j).getFitness() < best)
+                if (population.get(j).getFitness() > best)
                 {
                     best = population.get(j).getFitness();
                     indexBest = j;  

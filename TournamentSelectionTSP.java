@@ -36,7 +36,7 @@ public class TournamentSelectionTSP implements ITSPSelection
             int indexBest = 0;
             for (int i = 1; i < competitors.size(); i++)
             {
-                if (best > competitors.get(i).getFitness())
+                if (best < competitors.get(i).getFitness())
                 {
                     best = competitors.get(i).getFitness();
                     indexBest = i;
