@@ -37,6 +37,7 @@ public class EvolutionaryAlgorithm1 implements IEvolutionary
         // Loop until stop condition is met (repeatCount == 10000).
         while (true)
         {
+            System.out.println(repeatCount);
             repeatCount++;
             System.out.println(LocalTime.now() + ": " + repeatCount);
 
@@ -52,7 +53,7 @@ public class EvolutionaryAlgorithm1 implements IEvolutionary
                 currentTsp = childTsp;
                 currentFitness = childFitness;
             }
-
+            System.out.println(currentFitness);
             // Stop condition for while loop.
             if (repeatCount == 10000)
             {

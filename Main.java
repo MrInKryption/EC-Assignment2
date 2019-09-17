@@ -8,7 +8,7 @@ public class Main
     public static void main(String[] args) {
         if(args.length == 0)
         {
-            tsp = new TSP_Instance(50, 0, 100);
+            tsp = new TSP_Instance(500, 0, 100);
             EvolutionaryAlgorithm1 ea = new EvolutionaryAlgorithm1();
             ea.EvolutionaryAlgorithm(tsp);
             return;
