@@ -22,15 +22,16 @@ public class Main
             ArrayList<TSP_Instance> population = new ArrayList<TSP_Instance>();
             ArrayList<TSP_Instance> populationB = new ArrayList<TSP_Instance>();
             int population_size = 10;
+            int instance_size = 100;
             for (int i = 0; i < population_size; i++)
             {
-                population.add(new TSP_Instance(100, 0, 10));
-                populationB.add(new TSP_Instance(100, 0, 10));
+                population.add(new TSP_Instance(instance_size, 0, 100));
+                populationB.add(new TSP_Instance(instance_size, 0, 100));
             }
             
             TwoOptFitnessFunction fitness = new TwoOptFitnessFunction();
-            FastNovaMutation mutator = new FastNovaMutation();
-            SuperNovaMutation superMutator = new SuperNovaMutation(0, 10, 0, 10);
+            FastNovaMutation mutator = new FastNovaMutation(3);
+            SuperNovaMutation superMutator = new SuperNovaMutation(0, 0, 100, 100);
             MeanTSPCrossover crossover = new MeanTSPCrossover();
             
             long startTimeA = System.nanoTime();
