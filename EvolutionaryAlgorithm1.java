@@ -4,19 +4,15 @@ import java.util.Random;
 // Evolutionary Algorithm class
 public class EvolutionaryAlgorithm1 implements IEvolutionary
 {
-    private LocalSearch ls;
-    private TwoOptOperator twoOpt;
-
     public EvolutionaryAlgorithm1()
     {
-        ls = new LocalSearch();
-        twoOpt = new TwoOptOperator();
     }
 
     // Evolutionary Algorithm to produce TSP Instances maximising
     // while loops taken for Two Opt to reach local optima.
     public void EvolutionaryAlgorithm(TSP_Instance tsp)
     {
+        TSP_Instance.setFitnessFunction(new TwoOptFitnessFunction());
         // Create copy of initial TSP Instance as well as create
         // a variable to store the child TSP Instance after mutation.
         TSP_Instance currentTsp = new TSP_Instance(tsp.getCoordinates());
@@ -24,7 +20,7 @@ public class EvolutionaryAlgorithm1 implements IEvolutionary
 
         // Calculate fitness of the current TSP Instance as well as create
         // a variable to store the fitness of any children.
-        double currentFitness = calculateFitness(currentTsp);
+        double currentFitness = currentTsp.getFitness();
         double childFitness;
 
         // Determine base probability based on number of cities as well as
@@ -83,7 +79,7 @@ public class EvolutionaryAlgorithm1 implements IEvolutionary
             // Calculate the childs fitness and compare against the
             // current parents fitness. Choose the TSP Instance with
             // the best fitness.
-            childFitness = calculateFitness(childTsp);
+            childFitness = childTsp.getFitness();
             if (childFitness > currentFitness)
             {
                 currentTsp = childTsp;
@@ -97,21 +93,5 @@ public class EvolutionaryAlgorithm1 implements IEvolutionary
             }
         }
         System.out.println(currentFitness);
-    }
-
-    // Calculate fitness of a TSP Instance based on the average time
-    // it takes to find local optima using Two Opt local search over
-    // 5 iterations. Time is defined as the number of while loop
-    // iterations required to reach local optima. More time required
-    // equals higher fitness.
-    public double calculateFitness(TSP_Instance tsp)
-    {
-        int sum = 0;
-        for (int i = 0; i < 5; i++)
-        {
-            ls.search(tsp, twoOpt);
-            sum += ls.getCount();
-        }
-        return (double)sum / 5.0;
     }
 }
