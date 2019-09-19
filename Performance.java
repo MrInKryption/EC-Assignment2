@@ -1,9 +1,12 @@
 import java.util.ArrayList;
+import java.util.Collections;
 
 
 public class Performance
 {
     private InverOver inver; //inverOver algorithm
+    //private 2op two; this will be used when we have it
+    //private algorithm3 alg3; this will be used when we have it
 
     //Populations for - comparison
     private ArrayList<TSP_Instance> inver_2op_1;  //population for inver vs 2op
@@ -16,6 +19,7 @@ public class Performance
     private ArrayList<TSP_Instance> alg_2op_2;    //population for our alg vs 2op
 
 
+    //sets up all populations with an initial selection of instances
     public Performance(int problem_size, double min, double max, int population_size)
     {
         for(int i = 0; i < population_size; i++)
@@ -34,27 +38,25 @@ public class Performance
 
     }
 
-    public void print() { System.out.println("hey yall");}
+    //create a population of paths of size pop_size from an instance
+    public ArrayList<ArrayList<Point>> create_population(TSP_Instance instance, int pop_size)
+    {
+        ArrayList<ArrayList<Point>> pop = new  ArrayList<ArrayList<Point>>();
+        ArrayList<Point> points = instance.getCoordinates();
+        ArrayList<Point> points_copy;
 
-    //not sure what I am doing here
-    //a runnable function interface should allow the first and second tasks in 3
-    /*public static void main(String[] args) {
-		
-		Runnable first = () -> {
-            //run the  - comparison
-            System.out.println("running first thread");
-            
-        };
-        
-        Runnable second = () -> {
-            //run the / comparison
-            System.out.println("running second thread");
-        };
-		
-		Thread t1 = new Thread(first);
-		Thread t2 = new Thread(second);
-		
-		t1.start();
-		t2.start();
-	}*/
+        for(int i = 0; i < pop_size; i++)
+        {
+            Collections.shuffle(points);
+            points_copy = new ArrayList<Point>(points);
+            pop.add(points_copy);
+        }
+
+        return pop;
+    }
+
+    public void fitnessPairInverTwoOp(TSP_Instance instance)
+    {
+        //run EA with InverTwoOptFitnessFunction 
+    }
 }
