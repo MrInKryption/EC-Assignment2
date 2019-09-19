@@ -21,6 +21,7 @@ public class InverOver
     //takes in size of a permutation and index of point chosen for inverOver
     public int getRandPoint(int index, int size)
     {
+        Random rand = RandomNumberGenerator.getRandom();
         int random;
         do
         {
@@ -35,15 +36,15 @@ public class InverOver
     public int findIndex(Point point, ArrayList<Point> list2)
     {
         //get x and y of point
-        int px = point.getX();
-        int py = point.getY();
+        double px = point.getX();
+        double py = point.getY();
         int size = list2.size();
 
         //find point in list2
         for(int i = 0; i < size; i++)
         {
-            int lx = list2.get(i).getX();
-            int ly = list2.get(i).getY();
+            double lx = list2.get(i).getX();
+            double ly = list2.get(i).getY();
 
             if((Double.compare(px, lx) == 0) & (Double.compare(py, ly) == 0))
             {
@@ -100,6 +101,7 @@ public class InverOver
         int size = pop.size();
         ArrayList<Point> individual;
         ArrayList<Point> individual_copy;
+        Random rand = RandomNumberGenerator.getRandom();
 
         int loop_times = 0;
         while(loop_times < while_cond)

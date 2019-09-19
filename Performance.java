@@ -3,17 +3,17 @@ import java.util.ArrayList;
 
 public class Performance
 {
-    InverOver inver; //inverOver algorithm
+    private InverOver inver; //inverOver algorithm
 
     //Populations for - comparison
-    ArrayList<TSP_Instance> inver_2op_1;  //population for inver vs 2op
-    ArrayList<TSP_Instance> inver_alg_1;  //population for inver vs our algorithm
-    ArrayList<TSP_Instance> alg_2op_1;    //population for our alg vs 2op
-
+    private ArrayList<TSP_Instance> inver_2op_1;  //population for inver vs 2op
+    private ArrayList<TSP_Instance> inver_alg_1;  //population for inver vs our algorithm
+    private ArrayList<TSP_Instance> alg_2op_1;    //population for our alg vs 2op
+    
     //Populations for / comparison
-    ArrayList<TSP_Instance> inver_2op_2;  //population for inver vs 2op
-    ArrayList<TSP_Instance> inver_alg_2;  //population for inver vs our algorithm
-    ArrayList<TSP_Instance> alg_2op_2;    //population for our alg vs 2op
+    private ArrayList<TSP_Instance> inver_2op_2;  //population for inver vs 2op
+    private ArrayList<TSP_Instance> inver_alg_2;  //population for inver vs our algorithm
+    private ArrayList<TSP_Instance> alg_2op_2;    //population for our alg vs 2op
 
 
     public Performance(int problem_size, double min, double max, int population_size)
@@ -34,16 +34,21 @@ public class Performance
 
     }
 
+    public void print() { System.out.println("hey yall");}
+
     //not sure what I am doing here
     //a runnable function interface should allow the first and second tasks in 3
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
 		
 		Runnable first = () -> {
-			//run the  - comparison
+            //run the  - comparison
+            System.out.println("running first thread");
+            
         };
         
         Runnable second = () -> {
             //run the / comparison
+            System.out.println("running second thread");
         };
 		
 		Thread t1 = new Thread(first);
@@ -51,5 +56,5 @@ public class Performance
 		
 		t1.start();
 		t2.start();
-	}
+	}*/
 }
