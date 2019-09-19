@@ -73,7 +73,7 @@ public class InverOver
 
         for(int i = start + 1; i <= end; i++)
         {
-            list.set(i, temp.get(i%size));
+            list.set(i%size, temp.get(i%size));
         }
 
         return list;
@@ -137,7 +137,7 @@ public class InverOver
                         int found = findIndex(new_point, other_individual);
 
                         //get point next to it in random Individual
-                        Point random_individual_point = other_individual.get(found + 1);
+                        Point random_individual_point = other_individual.get((found + 1)%size);
 
                         //find that point in the current individual
                         found = findIndex(random_individual_point, individual_copy);
@@ -155,7 +155,7 @@ public class InverOver
                     //invert from p to p'
                     individual_copy = invertor(individual_copy, new_point_index, p_dash_index);
                     //p = p'
-                    new_point_index = p_dash_index + 1;
+                    new_point_index = (p_dash_index + 1)%size;
                     new_point = individual_copy.get(new_point_index);
 
                 }

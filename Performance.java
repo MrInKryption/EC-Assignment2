@@ -33,6 +33,7 @@ public class Performance
         evolution = new TSPEvolutionaryAlgorithm(0.05, 4, 1000);
         supa = new SuperNovaMutation(0, 10, 0, 10);
         crossover = new MeanTSPCrossover();   
+        inver_two_op = new InverTwoOpFitnessFunction();
     }
 
     public void fitnessPairInverTwoOp()

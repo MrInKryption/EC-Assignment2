@@ -7,6 +7,14 @@ public class InverTwoOpFitnessFunction implements ITSPFitnessFunction
     private TwoOptOperator twoOpt;
     private General create_pop; //population creator
 
+    public InverTwoOpFitnessFunction()
+    {
+        inver = new InverOver();
+        ls = new LocalSearch();
+        twoOpt = new TwoOptOperator();
+        create_pop = new General();
+    }
+
     public double fitness(TSP_Instance instance)
     {
         double overall_inver_best = -1;
