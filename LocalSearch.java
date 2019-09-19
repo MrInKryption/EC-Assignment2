@@ -1,90 +1,66 @@
 import java.util.ArrayList;
 
-// Generic class which implements local search. 
+// Generic class for local search.
 public class LocalSearch
 {
-    private int count;
-
-    // Function performs local search on the traveling salesperson problem,
-    // using operator to define the neighbourhood. 
-    public Double search(TSP_Instance problem, ILocalSearchOperator operator)
+    // Function performs local traveling salesman problem,
+    // using operator to define the neighbourhood.
+    public int search(TSP_Instance tsp, ILocalSearchOperator operator)
     {
-        // Generate an initial permutation.
-        ArrayList<Integer> current = problem.initPermutation();
-        
-        // Create arrayLists to keep track of next and best solutions. 
+        // Create random permutation based on the TSP and calculate
+        // its total trip distance.
+        ArrayList<Integer> current = tsp.initPermutation();
+        double currentDistance = tsp.getTotalDistance(current);
+
+        // Declare list and number to store the child permutations and
+        // total trip distance.
         ArrayList<Integer> next;
-        ArrayList<Integer> nextBest = new ArrayList<Integer>();
+        double nextDistance;
 
-        // Create doubles to keep track of distance. 
-        Double currentDistance = problem.getTotalDistance(current);
-        Double nextDistance;
-        Double tempDistance;
+        // Initialise the size of the permutations and variable
+        // to count the number of while loop iterations.
+        int size = current.size();
+        int count = 0;
 
-        // Create boolean to track when the local optima is found.
-        boolean optimal = false;
-
-        // Create integer to store the size of the permutations.
-        int bounds = current.size();
-
-        // Set count to 0 to prepare counting the number of times the while
-        // loop is repeated.
-        count = 0;
-        
-        // Loop until an optimal solution is found. 
-        while (!optimal)
+        finish:
+        while (true)
         {
-            // Increment count.
+            // Increment count every while loop.
             count++;
 
-            // Set best distance for this permutation as the current best distance found.
-            nextDistance = currentDistance;
-            
-            // For each dimension
-            for (int i = 0; i < bounds; i++)
+            repeat:
+            for (int i = 0; i < size - 1; i++)
             {
-                // For each dimension
-                for (int j = i+1; j < bounds; j++)
+                for (int j = i + 1; j < size; j++)
                 {
-                    // The next permutation starts as a duplicate of the current. 
+                    // Clone current best permutation.
                     next = new ArrayList<Integer>(current);
-                    
-                    // Mutate the next permutation. 
+
+                    // Mutate clone to produce child.
                     operator.mutate(next, i, j);
 
-                    // Calculate total euclidean distance of the mutated permutation.
-                    tempDistance = problem.getTotalDistance(next);
-                    
-                    // If the mutated permutation gives a shorter length
-                    // than the previous permutation, keep it as current best. 
-                    if (nextDistance > tempDistance)
+                    // Calculate total trip distance of child.
+                    nextDistance = tsp.getTotalDistance(next);
+
+                    // Compare parent and child.
+                    if (nextDistance < currentDistance)
                     {
-                        nextBest = new ArrayList<Integer>(next);
-                        nextDistance = tempDistance;
+                        // If child is more fit than parent, use child as new best
+                        // and repeat the while loop.
+                        current = new ArrayList<Integer>(next);
+                        currentDistance = nextDistance;
+                        break repeat;
                     }
                 }
-            }
-            
-            // This condition will be true if nothing in the neighbourhood 
-            // has shorter distance than the current distance.
-            // If so we have our optimal solution. 
-            if (nextDistance == currentDistance)
-            {
-                optimal = true;
-            }
-            else
-            {
-                // Update the current solution to be the best solution found
-                // in the neighbourhood. 
-                current = new ArrayList<Integer>(nextBest);
-                currentDistance = nextDistance;
+                // Optimal condition.
+                if (i == size - 2)
+                {
+                    break finish;
+                }
             }
         }
-        return currentDistance;
-    }
 
-    public int getCount()
-    {
+        // Return number of iterations required to meet local optimum.
         return count;
     }
 }
