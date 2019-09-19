@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class InverAlgFitnessFunction implements ITSPFitnessFunction
 {
     private InverOver inver; //inverOver algorithm
@@ -19,7 +21,7 @@ public class InverAlgFitnessFunction implements ITSPFitnessFunction
             if(fitness_result < inver_best_fitness)
             {
                 inver_best = inver_pop.get(i);
-                inver_best_result = fitness_result;
+                inver_best_fitness = fitness_result;
             }
         }
 

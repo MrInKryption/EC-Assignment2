@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.Collections;
+
 public class General
 {
     public ArrayList<ArrayList<Point>> create_population(TSP_Instance instance, int pop_size)

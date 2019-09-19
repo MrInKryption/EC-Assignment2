@@ -3,7 +3,8 @@ import java.util.ArrayList;
 // Main class
 public class Main
 {
-    private static TSP_Instance tsp;
+    //private static TSP_Instance tsp;
+    private static Performance perform;
     
     public static void main(String[] args) {
         if(args.length == 0)
@@ -13,7 +14,7 @@ public class Main
         }
         else
         {
-            tsp = new TSP_Instance(10, 0, 10);
+            /*tsp = new TSP_Instance(10, 0, 10);
             EvolutionaryAlgorithm1 ea = new EvolutionaryAlgorithm1();
             //ea.EvolutionaryAlgorithm(tsp);
             
@@ -29,7 +30,10 @@ public class Main
             SuperNovaMutation mutator = new SuperNovaMutation(0, 10, 0, 10);
             MeanTSPCrossover crossover = new MeanTSPCrossover();
             
-            alg.evolutionaryAlgorithm(population, fitness, mutator, crossover);
+            alg.evolutionaryAlgorithm(population, fitness, mutator, crossover);*/
+
+            perform = new Performance(100, 10, 0, 10);
+            perform.fitnessPairInverTwoOp();
             return;
         }
     }

@@ -34,7 +34,7 @@ public class TSPEvolutionaryAlgorithm
         }
         
         // Ensure generations is non-zero. 
-        if (generations < 1)
+        if (numberGenerations < 1)
         {
             generations = 1;
         }

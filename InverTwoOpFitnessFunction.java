@@ -5,7 +5,7 @@ public class InverTwoOpFitnessFunction implements ITSPFitnessFunction
     private InverOver inver; //inverOver algorithm
     private LocalSearch ls;
     private TwoOptOperator twoOpt;
-    private Performance create_pop; //population creator
+    private General create_pop; //population creator
 
     public double fitness(TSP_Instance instance)
     {
