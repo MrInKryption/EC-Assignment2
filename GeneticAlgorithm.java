@@ -30,4 +30,29 @@ public class GeneticAlgorithm
         }
         return pop;
     }
+
+    // Gets fitness of a tsp instance
+    public double calcFitness(TSP_Instance tsp) {
+        ArrayList<Point> instance = tsp.getCoordinates();
+        double distance = 0;
+        for (int i = 0; i < instance.size() - 1; i++) {
+            distance += instance.get(i).distance(instance.get(i + 1));
+        }
+        return distance;
+    }
+
+    // Gets best fitness of all tsp instances
+    public double getBestFitness(ArrayList<TSP_Instance> pop) {
+        ArrayList<TSP_Instance> instances = new ArrayList<TSP_Instance>();
+        for (int i = 0; i < pop.size(); i++){
+            instances.set(i, pop.get(i));
+        }
+        double fitness = calcFitness(instances.get(0));
+        for (int i = 1; i < instances.size(); i++) {
+            if(calcFitness(instances.get(i)) < fitness){
+                fitness = calcFitness(instances.get(i));
+            }
+        }
+        return fitness;
+    }
 }
