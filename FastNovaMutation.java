@@ -62,7 +62,7 @@ public class FastNovaMutation implements ITSPMutation
             Point explodeTarget = points.get(explodeIndex);
             Point implodeTarget = points.get(implodeIndex);
             points.set(explodeIndex, explode(explodeTarget, center, explodeTarget.distance(center) * 1.1));
-            points.set(implodeIndex, explode(implodeTarget, center, implodeTarget.distance(center) * 1.1));
+            points.set(implodeIndex, implode(implodeTarget, center, implodeTarget.distance(center) * 1.1));
         }
         
         return new TSP_Instance(points);
