@@ -8,6 +8,8 @@ public class Performance
     //private 2op two; this will be used when we have it
     //private algorithm3 alg3; this will be used when we have it
 
+    //----------------------------------------------this section is probably not needed-----------
+
     //Populations for - comparison
     private ArrayList<TSP_Instance> inver_2op_1;  //population for inver vs 2op
     private ArrayList<TSP_Instance> inver_alg_1;  //population for inver vs our algorithm
@@ -38,6 +40,9 @@ public class Performance
 
     }
 
+    //--------------------------------------------------------------------------------------------
+
+
     //create a population of paths of size pop_size from an instance
     public ArrayList<ArrayList<Point>> create_population(TSP_Instance instance, int pop_size)
     {
@@ -59,4 +64,20 @@ public class Performance
     {
         //run EA with InverTwoOptFitnessFunction 
     }
+
+    public void fitnessPairInverTwoOp2(TSP_Instance instance)
+    {
+        //run EA with InverTwoOptFitnessFunction2 
+    }
+
+    public void fitnessPairInverAlg(TSP_Instance instance)
+    {
+        //run EA with InverAlgFitnessFunction 
+    }
+
+    public void fitnessPairInverAlg2(TSP_Instance instance)
+    {
+        //run EA with InverAlgFitnessFunction2 
+    }
+
 }

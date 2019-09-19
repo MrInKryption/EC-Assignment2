@@ -1,14 +1,12 @@
-
-
-public class InverTwoOpFitnessFunction implements ITSPFitnessFunction
+public class InverTwoOpFitnessFunction2 implements ITSPFitnessFunction
 {
     private InverOver inver; //inverOver algorithm
     //private TwoOpt two; use whatever name was used for the two opt algorithm
-    private General create_pop; //population creator
+    private General create_pop;
 
     public double fitness(TSP_Instance instance)
     {
-        ArrayList<ArrayList<Point>> pop = create_pop.create_population(instance, 10);
+        ArrayList<ArrayList<Point>> pop = create_pop.create_population(instance, 10); //get a random population
         ArrayList<ArrayList<Point>> inver_pop = inver.InverOverAlg(pop, 10, 0.02); //get invers result
         ArrayList<ArrayList<Point>> two_opt_pop;  //this will get twoOpt result
 
@@ -39,7 +37,7 @@ public class InverTwoOpFitnessFunction implements ITSPFitnessFunction
             }
         }
 
-        double result = Math.abs(inver_best_fitness - two_opt_best_fitness);
+        double result = Math.abs(inver_best_fitness/two_opt_best_fitness);
 
 
         return result;
