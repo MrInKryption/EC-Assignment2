@@ -19,32 +19,42 @@ public class Main
             
             TSPEvolutionaryAlgorithm alg = new TSPEvolutionaryAlgorithm(0.05, 4, 1000);
             TSPEvolutionaryAlgorithm algB = new TSPEvolutionaryAlgorithm(0.05, 4, 1000);
+            TSPEvolutionaryAlgorithm algC = new TSPEvolutionaryAlgorithm(0.05, 4, 1000);
             ArrayList<TSP_Instance> population = new ArrayList<TSP_Instance>();
             ArrayList<TSP_Instance> populationB = new ArrayList<TSP_Instance>();
+            ArrayList<TSP_Instance> populationC = new ArrayList<TSP_Instance>();
             int population_size = 10;
             int instance_size = 100;
             for (int i = 0; i < population_size; i++)
             {
                 population.add(new TSP_Instance(instance_size, 0, 100));
                 populationB.add(new TSP_Instance(instance_size, 0, 100));
+                populationC.add(new TSP_Instance(instance_size, 0, 100));
             }
             
             TwoOptFitnessFunction fitness = new TwoOptFitnessFunction();
             FastNovaMutation mutator = new FastNovaMutation(3);
             SuperNovaMutation superMutator = new SuperNovaMutation(0, 0, 100, 100);
-            MeanTSPCrossover crossover = new MeanTSPCrossover();
+            OffsetMutation offsetMutator = new OffsetMutation();
+            MeanTSPCrossover meanCrossover = new MeanTSPCrossover();
             
             long startTimeA = System.nanoTime();
-            alg.evolutionaryAlgorithm(population, fitness, mutator, crossover);
+            alg.evolutionaryAlgorithm(population, fitness, mutator, meanCrossover);
             long endTimeA = System.nanoTime();
             
             System.out.println("FastNova run time: " + (endTimeA - startTimeA));
             
             long startTimeB = System.nanoTime();
-            algB.evolutionaryAlgorithm(populationB, fitness, superMutator, crossover);
+            algB.evolutionaryAlgorithm(populationB, fitness, superMutator, meanCrossover);
             long endTimeB = System.nanoTime();
             
             System.out.println("SuperNova run time: " + (endTimeB - startTimeB));
+
+            long startTimeC = System.nanoTime();
+            algC.evolutionaryAlgorithm(populationC, fitness, offsetMutator, meanCrossover);
+            long endTimeC = System.nanoTime();
+            
+            System.out.println("OffsetMutation run time: " + (endTimeC - startTimeC));
             
             return;
         }
