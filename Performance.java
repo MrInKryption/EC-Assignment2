@@ -58,7 +58,7 @@ public class Performance
     }
 
     public void fitnessPairTwoOptAlg() {
-        evolution.evolutionaryAlgorithm(pop, initital, supa, crossover);
+        evolution.evolutionaryAlgorithm(pop, two_opt_alg, supa, crossover);
     }
 
 }
