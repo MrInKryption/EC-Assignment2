@@ -34,7 +34,7 @@ public class GeneticAlgorithm
         double lowestScore = population.get(0).getScore();
         for (Individual solution : population) {
             sum += solution.getScore();
-            if (solution.getScore() < lowestScore) {lowestScore=solution.getScore()}
+            if (solution.getScore() < lowestScore) {lowestScore=solution.getScore();}
         }
         double mean = sum / (double) population.size();
         System.out.println("Mean Fitness Score: " + mean);
