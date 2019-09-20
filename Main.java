@@ -40,13 +40,13 @@ public class Main
             SchoolyardTeamsTSPCrossover schoolCrossover = new SchoolyardTeamsTSPCrossover();
             
             long startTimeA = System.nanoTime();
-            // alg.evolutionaryAlgorithm(population, fitness, mutator, meanCrossover);
+            alg.evolutionaryAlgorithm(population, fitness, mutator, meanCrossover);
             long endTimeA = System.nanoTime();
             
             System.out.println("FastNova run time: " + (endTimeA - startTimeA));
             
             long startTimeB = System.nanoTime();
-            // algB.evolutionaryAlgorithm(populationB, fitness, superMutator, meanCrossover);
+            algB.evolutionaryAlgorithm(populationB, fitness, superMutator, meanCrossover);
             long endTimeB = System.nanoTime();
             
             System.out.println("SuperNova run time: " + (endTimeB - startTimeB));
