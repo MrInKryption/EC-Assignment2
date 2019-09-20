@@ -38,7 +38,6 @@ public class GeneticAlgorithm
         }
         //double mean = sum / (double) population.size();
         //System.out.println("Mean Fitness Score: " + mean);
-        System.out.println("Fitness Score: " + lowestScore);
         return lowestScore;
     }
 }

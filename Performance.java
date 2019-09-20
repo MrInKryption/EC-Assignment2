@@ -33,7 +33,7 @@ public class Performance
             pop.add(new_tsp);
         }
 
-        evolution = new TSPEvolutionaryAlgorithm(0.05, 4, 2); // 2 = 10000
+        evolution = new TSPEvolutionaryAlgorithm(0.05, 4, 20); // 2 = 10000
         supa = new SuperNovaMutation(0, 10, 0, 10);
         crossover = new MeanTSPCrossover();   
         inver_two_op = new InverTwoOpFitnessFunction();

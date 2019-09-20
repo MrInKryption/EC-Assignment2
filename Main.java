@@ -33,7 +33,7 @@ public class Main
             alg.evolutionaryAlgorithm(population, fitness, mutator, crossover);*/
 
             perform = new Performance(100, 10, 0, 10);
-            perform.fitnessPairInverAlg2();
+            perform.fitnessPairInverTwoOp();
             return;
         //}
     }

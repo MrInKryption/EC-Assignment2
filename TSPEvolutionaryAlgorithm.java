@@ -7,6 +7,11 @@ public class TSPEvolutionaryAlgorithm
     private ElitismSelectionTSP elitism;
     private double mutationRate;
     private int generations;
+    private double best_fitness;
+    private double generation_fitness_average;
+    private double overall_fitness_total;
+    private double overall_fitness_average;
+    private double number_generations_completed;
     
     // Constructor for this family of genetic algorithms.
     // Mutation rate is the chance of mutation, between 0 and 1.0.
@@ -18,6 +23,12 @@ public class TSPEvolutionaryAlgorithm
     {
         tournament = new TournamentSelectionTSP(tournamentSize);
         elitism = new ElitismSelectionTSP();
+
+        best_fitness = 100000000;
+        generation_fitness_average = 0;
+        overall_fitness_total = 0;
+        overall_fitness_average = 0;
+        number_generations_completed = 0;
         
         // Ensure mutation rate is between 0 and 1.
         if (newMutationRate < 0)
@@ -42,6 +53,22 @@ public class TSPEvolutionaryAlgorithm
         {
             generations = numberGenerations;
         }
+    }
+
+    public void fitnessGrabber(ArrayList<TSP_Instance> pop)
+    {
+        int size = pop.size();
+        int sum = 0;
+        generation_fitness_average = 0;
+        for(int i = 0; i < size; i++)
+        {
+            double fit = pop.get(i).getFitness();
+            sum += fit;
+
+            if(fit < best_fitness) {best_fitness = fit;}
+        }
+
+        generation_fitness_average = sum/size;   
     }
     
     public void evolutionaryAlgorithm(ArrayList<TSP_Instance> population, ITSPFitnessFunction fitness, ITSPMutation mutator, ITSPCrossover crossover)
@@ -98,6 +125,18 @@ public class TSPEvolutionaryAlgorithm
             // Use elitism to select the populationSize best individuals to add to the next
             // generation.
             currentPopulation = elitism.select(nextPopulation, populationSize);
+
+            //calculations
+            number_generations_completed ++; //increment number of generations completed
+            fitnessGrabber(currentPopulation); //run fitness grabber which updates generation_fitness_average and best_fitness
+            overall_fitness_total += generation_fitness_average; //add to overall fitness total
+            overall_fitness_average = overall_fitness_total/number_generations_completed; //calculate overall average
+
+            System.out.println("Generations Run: " + number_generations_completed);
+            System.out.println("Generation fitness average: " + generation_fitness_average);
+            System.out.println("Overall fitness Average: " + overall_fitness_average);
+            System.out.println("Best Fitness: " + best_fitness);
+
         }
         
         // Print out the final fitness. 
