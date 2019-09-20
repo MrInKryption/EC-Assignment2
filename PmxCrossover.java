@@ -3,25 +3,18 @@ import java.util.HashSet;
 import java.util.Random;
 import java.util.Arrays;
 
-public class PmxCrossover implements ITSPCrossover
+public class PmxCrossover
 {
-    public ArrayList<TSP_Instance> crossover(TSP_Instance first_parent, TSP_Instance second_parent)
-    {
-        // Extract the points from the parents.
-        ArrayList<Point> first_points = first_parent.getCoordinates();
-        ArrayList<Point> second_points = second_parent.getCoordinates();
-
-        // Create new arraylists to represent the children.
-        ArrayList<Point> resultA = new ArrayList<Point>();
-        ArrayList<Point> resultB = new ArrayList<Point>();
-        int length = first_points.size();
-
-        // Get the random number generator.
+    public ArrayList<Individual> crossover(Individual firstParent, Individual secondParent)
+    {    
+        int length = firstParent.size();
         Random rand = RandomNumberGenerator.getRandom();
         int start = rand.nextInt(length);
         int end = rand.nextInt(length);
         int temp;
-
+        int current;
+        
+        ArrayList<Individual> children = new ArrayList<Individual>();
         // If start is before end, swap start and end. 
         if (start > end)
         {
@@ -30,24 +23,21 @@ public class PmxCrossover implements ITSPCrossover
             end = temp;
         }
         
-        // EDIT THESE
-        resultA = crossoverhelper(first_points, second_points, start, end);
-        resultB = crossoverhelper(second_points, first_points, start, end);
+        children.add(crossoverhelper(firstParent, secondParent, start, end));
+        children.add(crossoverhelper(secondParent, firstParent, start, end));
         
-        // Place the children in an arraylist and return them.
-        ArrayList<TSP_Instance> finalResult = new ArrayList<TSP_Instance>();
-        finalResult.add(new TSP_Instance(resultA));
-        finalResult.add(new TSP_Instance(resultB));
-        return finalResult;
+        return children;
+         
     }
     
-    private ArrayList<Point> crossoverhelper(ArrayList<Point> firstParent, ArrayList<Point> secondParent, int start, int end)
+    private Individual crossoverhelper(Individual firstParent, Individual secondParent, int start, int end)
     {
-        ArrayList<Point> child = new ArrayList<Point>();
-        HashSet<Point> points_in_child = new HashSet<Point>();
+        ArrayList<Integer> child = new ArrayList<Integer>();
+        HashSet<Integer> points_in_child = new HashSet<Integer>();
         int size = firstParent.size();
         int child_size = 0;
-        int parent_index, child_index;
+        int parent_index;
+        int child_index;
         
         // Child starts off filled with null points    
         for (int i = 0; i < size; i++)
@@ -71,11 +61,11 @@ public class PmxCrossover implements ITSPCrossover
             if (points_in_child.contains(secondParent.get(k)) == false)
             {
                 // Get the point we want to add. 
-                Point point_to_add = secondParent.get(k);
+                int point_to_add = secondParent.get(k);
                 // Find the point at that position in the parent, as
                 // that is the point whose position in sequence we want to place
                 // the above point in. 
-                Point point_to_replace = child.get(k);
+                int point_to_replace = child.get(k);
                 
                 // Find the position of point_to_replace. 
                 for (int l = 0; l < size; l++)
@@ -123,6 +113,9 @@ public class PmxCrossover implements ITSPCrossover
             child_index = (child_index + 1) % size;
             child_size += 1;
         }
-        return child;
-    }
+        
+        Individual result = new Individual(child);
+        
+        return result;
+    } 
 }

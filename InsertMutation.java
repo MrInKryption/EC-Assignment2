@@ -1,15 +1,13 @@
 import java.util.Random;
-import java.util.ArrayList;
 
-public class InsertMutation implements ITSPMutation
+public class InsertMutation
 {
-	public TSP_Instance mutate(TSP_Instance parent)
+	public Individual mutate(Individual permutation)
 	{
 		// Copy permutation to avoid changing the orignal. 
-		ArrayList<Point> points = new ArrayList<Point>(parent.getCoordinates());
-		ArrayList<Point> result = new ArrayList<Point>();
+		Individual mutated = new Individual(permutation.getPermutation());
 		
-		int length = points.size();
+		int length = mutated.size();
 		Random rand = RandomNumberGenerator.getRandom();
 		int start = rand.nextInt(length);
 		int end = rand.nextInt(length);
@@ -26,18 +24,17 @@ public class InsertMutation implements ITSPMutation
 		
 		// Start at the item before end
 		current = end - 1;
-		double nextPoint;
-
+		
 		// Until we reach start
 		while (current > start)
 		{
-			// Move the x coord which started at end
-			// one space back to the next point in the sequence.
-			nextPoint = points.get(current-1).getX();
-			points.get(current-1).setX(points.get(current).getX());
-			points.get(current).setX(nextPoint);
+			// Move the value which started at end
+			// one space back in the sequence. 
+			mutated.swap(current, current + 1);
 			current -= 1;
 		}
-		return new TSP_Instance(points);
+		
+		return mutated;
 	}
 }
+

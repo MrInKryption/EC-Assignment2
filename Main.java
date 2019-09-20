@@ -7,13 +7,13 @@ public class Main
     private static Performance perform;
     
     public static void main(String[] args) {
-        if(args.length == 0)
-        {
-            System.out.println("You have provided no arguments.");
-            return;
-        }
-        else
-        {
+        // if(args.length == 0)
+        // {
+        //     System.out.println("You have provided no arguments.");
+        //     return;
+        // }
+        // else
+        // {
             /*tsp = new TSP_Instance(10, 0, 10);
             EvolutionaryAlgorithm1 ea = new EvolutionaryAlgorithm1();
             //ea.EvolutionaryAlgorithm(tsp);
@@ -33,8 +33,8 @@ public class Main
             alg.evolutionaryAlgorithm(population, fitness, mutator, crossover);*/
 
             perform = new Performance(100, 10, 0, 10);
-            perform.fitnessPairInverTwoOp();
+            perform.fitnessPairTwoOptAlg();
             return;
-        }
+        //}
     }
 }

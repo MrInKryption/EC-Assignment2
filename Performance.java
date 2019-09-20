@@ -1,6 +1,4 @@
 import java.util.ArrayList;
-import java.util.Collections;
-
 
 public class Performance
 {
@@ -10,6 +8,7 @@ public class Performance
 
     //fitness implementaitons
     private InverTwoOpFitnessFunction inver_two_op;
+    private TwoOptAlgFitnessFunction two_opt_alg;
 
     //mutators
     private SuperNovaMutation supa;
@@ -30,10 +29,11 @@ public class Performance
             pop.add(new_tsp);
         }
 
-        evolution = new TSPEvolutionaryAlgorithm(0.05, 4, 1000);
+        evolution = new TSPEvolutionaryAlgorithm(0.05, 4, 2); // 2 = 10000
         supa = new SuperNovaMutation(0, 10, 0, 10);
         crossover = new MeanTSPCrossover();   
         inver_two_op = new InverTwoOpFitnessFunction();
+        two_opt_alg = new TwoOptAlgFitnessFunction();
     }
 
     public void fitnessPairInverTwoOp()
@@ -55,6 +55,10 @@ public class Performance
     public void fitnessPairInverAlg2(TSP_Instance instance)
     {
         //run EA with InverAlgFitnessFunction2 
+    }
+
+    public void fitnessPairTwoOptAlg() {
+        evolution.evolutionaryAlgorithm(pop, initital, supa, crossover);
     }
 
 }
