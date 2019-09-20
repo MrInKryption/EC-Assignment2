@@ -27,8 +27,7 @@ public class TwoOptAlgFitnessFunction implements ITSPFitnessFunction
         for(int j = 0; j < 3; j++)
         {
             // 2-Opt Local Search: Finds best score across all instances
-            double lsScore = 10000;
-            lsScore = ls.search(instance, twoOpt);
+            double lsScore = ls.search(instance, twoOpt);
             if (lsScore < lsBestScore) {
                 lsBestScore = lsScore;
             }
