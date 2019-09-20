@@ -2,52 +2,34 @@ import java.util.ArrayList;
 
 public class InverAlgFitnessFunction implements ITSPFitnessFunction
 {
-    private InverOver inver; //inverOver algorithm
-    private LocalSearch ls;  //stuff for alg three here
-    private TwoOptOperator twoOpt;
-    private General create_pop; //population creator
-
-    public InverTwoOpFitnessFunction()
-    {
-        inver = new InverOver();
-        ls = new LocalSearch(); //alg3 stuff here instead
-        twoOpt = new TwoOptOperator(); //alg3 stuff here instead
-        create_pop = new General();
-    }
+    private InverOver inver;
+    private Population pop;
+    private GeneticAlgorithm alg3;
 
     public double fitness(TSP_Instance instance)
     {
-        double overall_inver_best = -1;
-        double overall_two_opt_best = 10000;
-        double fitnessLS;
+        inver = new InverOver();
+        pop = new Population(instance, 20);
+        alg3 = new GeneticAlgorithm();
+
+        double alg3BestScore = 10000;
+        double inverBestScore = 10000;
         for(int j = 0; j < 3; j++)
         {
-            ArrayList<ArrayList<Point>> pop = create_pop.create_population(instance, 20);
-            ArrayList<ArrayList<Point>> inver_pop = inver.InverOverAlg(pop, 10, 0.02); //get invers result
-            double lowestScore = 10000;
-            // Finds the best score across all instances
-            for (int i = 0; i < 20; i++)
-            {
-                fitnessLS = ls.search(new TSP_Instance(pop.get(i)), twoOpt);
-                if (fitnessLS < lowestScore) {lowestScore = fitnessLS;}
+            // Genetic Algorithm: 10000 generations, tournament and elitism selection, pmx crossover, insert mutation
+            pop = alg3.GeneticAlgorithmSearch(instance, pop, 20);
+            double alg3Score = alg3.stats(pop.getParents());
+            if (alg3Score < alg3BestScore) {
+                alg3BestScore = alg3Score;
             }
-            if (lowestScore < overall_two_opt_best) {overall_two_opt_best = lowestScore;}
-            
-            int size = inver_pop.size();
-            ArrayList<Point> inver_best = inver_pop.get(0);
-            double inver_best_fitness = inver.calcFitness(inver_best);
-            for(int i = 1; i < size; i++)
-            {
-                double fitness_result = inver.calcFitness(inver_pop.get(i));
-                if(fitness_result < inver_best_fitness)
-                {
-                    inver_best = inver_pop.get(i);
-                    inver_best_fitness = fitness_result;
-                }
-            }
-            if(overall_inver_best < 0 || inver_best_fitness < overall_inver_best) {overall_inver_best = inver_best_fitness;}
-        }
 
-        return Math.abs(overall_inver_best - overall_two_opt_best);
+            // Genetic Algorithm: 10000 generations, tournament and elitism selection, pmx crossover, insert mutation
+            pop = inver.InverOver(instance, pop, 10, 0.02);
+            double inverScore = alg3.stats(pop.getParents());
+            if (inverScore < inverBestScore) {
+                inverBestScore = inverScore;
+            }
+        }
+        return Math.abs(alg3BestScore - inverBestScore);
     }
 }

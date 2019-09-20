@@ -8,8 +8,11 @@ public class Performance
 
     //fitness implementaitons
     private InverTwoOpFitnessFunction inver_two_op;
+    private InverTwoOpFitnessFunction2 inver_two_op_2;
     private TwoOptAlgFitnessFunction two_opt_alg;
     private TwoOptAlgFitnessFunction2 two_opt_alg2;
+    private InverAlgFitnessFunction inver_alg;
+    //private InverAlgFitnessFunction2 inver_alg_2;
 
     //mutators
     private SuperNovaMutation supa;
@@ -34,8 +37,10 @@ public class Performance
         supa = new SuperNovaMutation(0, 10, 0, 10);
         crossover = new MeanTSPCrossover();   
         inver_two_op = new InverTwoOpFitnessFunction();
+        inver_two_op_2 = new InverTwoOpFitnessFunction2();
         two_opt_alg = new TwoOptAlgFitnessFunction();
         two_opt_alg2 = new TwoOptAlgFitnessFunction2();
+        inver_alg = new InverAlgFitnessFunction();
     }
 
     public void fitnessPairInverTwoOp()
@@ -44,19 +49,20 @@ public class Performance
         evolution.evolutionaryAlgorithm(pop, inver_two_op, supa, crossover);
     }
 
-    public void fitnessPairInverTwoOp2(TSP_Instance instance)
+    public void fitnessPairInverTwoOp2()
     {
         //run EA with InverTwoOptFitnessFunction2 
+        evolution.evolutionaryAlgorithm(pop, inver_two_op_2, supa, crossover);
     }
 
-    public void fitnessPairInverAlg(TSP_Instance instance)
+    public void fitnessPairInverAlg()
     {
-        //run EA with InverAlgFitnessFunction 
+        evolution.evolutionaryAlgorithm(pop, inver_alg, supa, crossover); 
     }
 
-    public void fitnessPairInverAlg2(TSP_Instance instance)
+    public void fitnessPairInverAlg2()
     {
-        //run EA with InverAlgFitnessFunction2 
+        evolution.evolutionaryAlgorithm(pop, inver_alg_2, supa, crossover); 
     }
 
     public void fitnessPairTwoOptAlg() {

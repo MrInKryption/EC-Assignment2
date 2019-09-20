@@ -8,14 +8,6 @@ public class InverTwoOpFitnessFunction implements ITSPFitnessFunction
     private Population pop;
     private GeneticAlgorithm alg3;
 
-    //public TwoOptAlgFitnessFunction()
-    //{
-        // ls = new LocalSearch();
-        // twoOpt = new TwoOptOperator();
-        // alg3 = new GeneticAlgorithm();
-        // create_pop = new General();
-    //}
-
     public double fitness(TSP_Instance instance)
     {
         ls = new LocalSearch();
