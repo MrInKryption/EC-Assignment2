@@ -23,7 +23,7 @@ public class InverAlgFitnessFunction implements ITSPFitnessFunction
                 alg3BestScore = alg3Score;
             }
 
-            // Genetic Algorithm: 10000 generations, tournament and elitism selection, pmx crossover, insert mutation
+            // InverOver Algorithm
             pop = inver.InverOver(instance, pop, 10, 0.02);
             double inverScore = alg3.stats(pop.getParents());
             if (inverScore < inverBestScore) {
