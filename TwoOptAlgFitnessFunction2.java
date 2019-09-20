@@ -1,4 +1,4 @@
-public class TwoOptAlgFitnessFunction implements ITSPFitnessFunction
+public class TwoOptAlgFitnessFunction2 implements ITSPFitnessFunction
 {
     private LocalSearch ls;
     private TwoOptOperator twoOpt;
@@ -29,6 +29,6 @@ public class TwoOptAlgFitnessFunction implements ITSPFitnessFunction
                 alg3BestScore = alg3Score;
             }
         }
-        return Math.abs(lsBestScore - alg3BestScore);
+        return Math.abs(lsBestScore / alg3BestScore);
     }
 }

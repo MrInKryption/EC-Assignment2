@@ -9,6 +9,7 @@ public class Performance
     //fitness implementaitons
     private InverTwoOpFitnessFunction inver_two_op;
     private TwoOptAlgFitnessFunction two_opt_alg;
+    private TwoOptAlgFitnessFunction2 two_opt_alg2;
 
     //mutators
     private SuperNovaMutation supa;
@@ -34,6 +35,7 @@ public class Performance
         crossover = new MeanTSPCrossover();   
         inver_two_op = new InverTwoOpFitnessFunction();
         two_opt_alg = new TwoOptAlgFitnessFunction();
+        two_opt_alg2 = new TwoOptAlgFitnessFunction2();
     }
 
     public void fitnessPairInverTwoOp()
@@ -59,6 +61,10 @@ public class Performance
 
     public void fitnessPairTwoOptAlg() {
         evolution.evolutionaryAlgorithm(pop, two_opt_alg, supa, crossover);
+    }
+
+    public void fitnessPairTwoOptAlg2() {
+        evolution.evolutionaryAlgorithm(pop, two_opt_alg2, supa, crossover);
     }
 
 }
