@@ -35,7 +35,7 @@ public class TwoOptAlgFitnessFunction implements ITSPFitnessFunction
 
             // Genetic Algorithm: 10000 generations, tournament and elitism selection, pmx crossover, insert mutation
             pop = alg3.GeneticAlgorithmSearch(instance, pop, 20);
-            alg3Score = alg3.stats(pop.getParents());
+            double alg3Score = alg3.stats(pop.getParents());
             if (alg3Score < alg3BestScore) {
                 alg3BestScore = alg3Score;
             }
