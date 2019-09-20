@@ -12,7 +12,7 @@ public class Performance
     private TwoOptAlgFitnessFunction two_opt_alg;
     private TwoOptAlgFitnessFunction2 two_opt_alg2;
     private InverAlgFitnessFunction inver_alg;
-    //private InverAlgFitnessFunction2 inver_alg_2;
+    private InverAlgFitnessFunction2 inver_alg_2;
 
     //mutators
     private SuperNovaMutation supa;
@@ -41,6 +41,7 @@ public class Performance
         two_opt_alg = new TwoOptAlgFitnessFunction();
         two_opt_alg2 = new TwoOptAlgFitnessFunction2();
         inver_alg = new InverAlgFitnessFunction();
+        inver_alg_2 = new InverAlgFitnessFunction2();
     }
 
     public void fitnessPairInverTwoOp()
