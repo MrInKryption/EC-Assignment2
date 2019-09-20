@@ -1,179 +1,101 @@
 import java.util.ArrayList;
 import java.util.Random;
-import java.util.Collections;
-
-/* 
-InverOver function
-
-Arguments: 
-ArrayList<ArrayList<Point>> : which is your population
-int while_cond              : sets the number of iterations over the population -> recommended 10
-int prob                    : inner probability -> recommended 0.02
-
-
-*/
 
 public class InverOver
 {
-    //------------------helper functions---------------------//
-
-    //gets a random int that is not the same as the input index
-    //takes in size of a permutation and index of point chosen for inverOver
-    public int getRandPoint(int index, int size)
+    private int takeCity(Individual individual, Random rand)
     {
+        int new_city_index = rand.nextInt(individual.size());
+        int city = individual.get(new_city_index);  //Get a new random city from our individual
+        return city;
+    }
+
+    //NOTE this is just pseudo code right now
+        //Its recommended that `while_cond` is 10 and prob is `0.02`
+    public Population InverOver(TSP_Instance tsp, Population pop, int while_cond, double prob)
+    {
+        General shifter = new General();
         Random rand = RandomNumberGenerator.getRandom();
-        int random;
-        do
-        {
-            random = rand.nextInt(size);
-        }
-        while(random == index);
+        ArrayList<Individual> parents = pop.getParents();
+        int num_parents = parents.size();
+ 
+        //Our inverter mutator
+        InvertMutation invertor = new InvertMutation();
 
-        return random;
-    }
+        //Initialising these vars
+        Individual individual_1;
+        Individual individual;
+        int city_1 = 0;
+        int city = 0;
+        int previous_city = 0;
+        int next_city = 0;
 
-    //finds the index of a points location in another permutation/individual
-    public int findIndex(Point point, ArrayList<Point> list2)
-    {
-        //get x and y of point
-        double px = point.getX();
-        double py = point.getY();
-        int size = list2.size();
-
-        //find point in list2
-        for(int i = 0; i < size; i++)
-        {
-            double lx = list2.get(i).getX();
-            double ly = list2.get(i).getY();
-
-            if((Double.compare(px, lx) == 0) & (Double.compare(py, ly) == 0))
-            {
-                return i;
-            }
-        }
-        //if not found return false (shouldn't ever happen)
-        return -1;
-    }
-
-    //inverts section of arrayList<Point> from start (p) + 1 to end (p')
-    //returns the new inverted arraylist
-    public ArrayList<Point> invertor(ArrayList<Point> list, int start, int end)
-    {
-        int size = list.size();
-        if(start < end) { end += size;}
-
-        ArrayList<Point> temp = new ArrayList<Point>();
-
-        for(int i = start + 1; i <= end; i++) //add parts for inversion
-        {
-            temp.add(list.get(i%size));
-        }
-
-        Collections.reverse(temp);
-
-        for(int i = start + 1; i <= end; i++)
-        {
-            list.set(i%size, temp.get(i%size));
-        }
-
-        return list;
-    }
-
-    //get fitness of a permutation/path
-    public int calcFitness(ArrayList<Point> list)
-    {
-        int size = list.size();
-        int distance = 0;
-        for(int i = 0; i < size-1; i++)
-        {
-            distance += list.get(i).distance(list.get(i+1));
-        }
-
-        return distance;
-    }
-
-    
-
-    //------------------------------InverOver Algorithm--------------------------------//
-
-    public ArrayList<ArrayList<Point>> InverOverAlg(ArrayList<ArrayList<Point>> pop, int while_cond, double prob)
-    {
-        int size = pop.size();
-        ArrayList<Point> individual;
-        ArrayList<Point> individual_copy;
-        Random rand = RandomNumberGenerator.getRandom();
-
-        int loop_times = 0;
+        int loop_times = 0; //When best individual is unchanged for "while_cond" loops
         while(loop_times < while_cond)
         {
-            for(int i = 0; i < size; i++) //for every individual in the population
+            //each individual in the population
+            for(int i = 0; i < num_parents; i++)
             {
-                individual = pop.get(i);
-                individual_copy = individual;
+                individual = parents.get(i);    //I' = I(i)
+                individual_1 = individual;
 
-                //randomly select a point p from I'
-                int new_point_index = rand.nextInt(individual_copy.size());
-                Point new_point = individual_copy.get(new_point_index);
+                city = takeCity(individual_1, rand);    //select (randomly) a city from I'
 
                 while(true)
                 {
-                    Point p_dash; // p'
-                    int p_dash_index;
 
+                    //Decide what to do (Note nextFloat returns a new float between 0 and 1)
                     if(rand.nextFloat() <= prob)
                     {
-                        //get p' from remaining points in I'
-                        int random = getRandPoint(new_point_index, individual_copy.size());
-                        p_dash = individual_copy.get(random);
-                        p_dash_index = random;
+                        //Select the city c' from the remaining cities in I'
+
+                        //Which city? Any? If not what if c' isn't in I'?
+                        city_1 = individual_1.get(rand.nextInt(individual_1.size()));   //Get one of the remaining cities
                     }
                     else
                     {
-                        //get random individual from population
-                        int random = rand.nextInt(size);
-                        ArrayList<Point> other_individual = pop.get(random);
-
-                        //find location of p in random individual
-                        int found = findIndex(new_point, other_individual);
-
-                        //get point next to it in random Individual
-                        Point random_individual_point = other_individual.get((found + 1)%size);
-
-                        //find that point in the current individual
-                        found = findIndex(random_individual_point, individual_copy);
-                        p_dash = individual_copy.get(found);
-                        p_dash_index = found;
-
+                        //Select (randomly) an individual from P
+                            //Assign to c' the "next" city to the city c in the selected individual
+                        individual_1 = parents.get(rand.nextInt(num_parents));
+                        next_city = individual_1.get(shifter.shift(individual_1.getPermutation().indexOf(city), individual_1.size(), true));
+                        city_1 = next_city; //In other words just get the next city from our individual_1
                     }
 
-                    //if p' is next to p (either side)
-                    if(Math.abs(p_dash_index - new_point_index) == 1)
+                    //if the next or previous cities of city c in I' is c'
+                    previous_city = individual_1.get(shifter.shift(individual_1.getPermutation().indexOf(city), individual_1.size(), false));
+                    next_city = individual_1.get(shifter.shift(individual_1.getPermutation().indexOf(city), individual_1.size(), true));
+                    if(next_city == city_1 || previous_city == city_1)
                     {
                         break;
                     }
 
-                    //invert from p to p'
-                    individual_copy = invertor(individual_copy, new_point_index, p_dash_index);
-                    //p = p'
-                    new_point_index = (p_dash_index + 1)%size;
-                    new_point = individual_copy.get(new_point_index);
-
+                    //Inverse the section from the next city of city c to the city c' in I'
+                    individual_1 = invertor.mutateHelper(individual_1, individual_1.getPermutation().indexOf(next_city), individual_1.getPermutation().indexOf(city_1));
+                    city = city_1;  //c = c'
                 }
 
-                //if individual_copy has better fitness than individual
-                //replace individual with individual copy
-                if(calcFitness(individual_copy) < calcFitness(individual))
+                //Fitness evaluation
+                if(tsp.getTotalDistance(individual_1.getPermutation()) <= tsp.getTotalDistance(individual.getPermutation()))
                 {
-                    pop.set(i, individual_copy);
+                    parents.set(i, individual_1);
+                    loop_times++;
+                }
+                else
+                {
+                    loop_times = 0;
                 }
 
+                //Leaving the loops (Isn't it possible to leave without having a full solution?)
+                if(loop_times >= while_cond)
+                {
+                    break;
+                }
             }
         }
 
-        //update population and return
-        ArrayList<ArrayList<Point>> new_pop = new ArrayList<ArrayList<Point>>(pop);
+        //Update pop with parents
+        Population new_pop = new Population(parents);
         return new_pop;
-        
     }
 
 }

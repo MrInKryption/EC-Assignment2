@@ -1,20 +1,19 @@
 import java.util.ArrayList;
 
-public class InverTwoOpFitnessFunction implements ITSPFitnessFunction
+public class InverAlgFitnessFunction implements ITSPFitnessFunction
 {
     private LocalSearch ls;
     private TwoOptOperator twoOpt;
     private InverOver inver;
     private Population pop;
-    private GeneticAlgorithm alg3;
 
-    //public TwoOptAlgFitnessFunction()
-    //{
+    public TwoOptAlgFitnessFunction()
+    {
         // ls = new LocalSearch();
         // twoOpt = new TwoOptOperator();
         // alg3 = new GeneticAlgorithm();
         // create_pop = new General();
-    //}
+    }
 
     public double fitness(TSP_Instance instance)
     {
@@ -22,7 +21,6 @@ public class InverTwoOpFitnessFunction implements ITSPFitnessFunction
         twoOpt = new TwoOptOperator();
         inver = new InverOver();
         pop = new Population(instance, 20);
-        alg3 = new GeneticAlgorithm();
 
         double lsBestScore = 10000;
         double inverBestScore = 10000;

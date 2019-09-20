@@ -68,6 +68,7 @@ public class TSPEvolutionaryAlgorithm
         // Run the loop for generations times. 
         for (int i = 0; i < generations; i++)
         {
+            System.out.println("doing generation: " + i);
             // nextPopulations starts off as a copy of the current population. 
             ArrayList<TSP_Instance> nextPopulation = new ArrayList<TSP_Instance>(currentPopulation);
             
