@@ -37,21 +37,22 @@ public class Main
             SuperNovaMutation superMutator = new SuperNovaMutation(0, 0, 100, 100);
             OffsetMutation offsetMutator = new OffsetMutation();
             MeanTSPCrossover meanCrossover = new MeanTSPCrossover();
+            SchoolyardTeamsTSPCrossover schoolCrossover = new SchoolyardTeamsTSPCrossover();
             
             long startTimeA = System.nanoTime();
-            alg.evolutionaryAlgorithm(population, fitness, mutator, meanCrossover);
+            // alg.evolutionaryAlgorithm(population, fitness, mutator, meanCrossover);
             long endTimeA = System.nanoTime();
             
             System.out.println("FastNova run time: " + (endTimeA - startTimeA));
             
             long startTimeB = System.nanoTime();
-            algB.evolutionaryAlgorithm(populationB, fitness, superMutator, meanCrossover);
+            // algB.evolutionaryAlgorithm(populationB, fitness, superMutator, meanCrossover);
             long endTimeB = System.nanoTime();
             
             System.out.println("SuperNova run time: " + (endTimeB - startTimeB));
 
             long startTimeC = System.nanoTime();
-            algC.evolutionaryAlgorithm(populationC, fitness, offsetMutator, meanCrossover);
+            algC.evolutionaryAlgorithm(populationC, fitness, offsetMutator, schoolCrossover);
             long endTimeC = System.nanoTime();
             
             System.out.println("OffsetMutation run time: " + (endTimeC - startTimeC));

@@ -8,6 +8,7 @@ public class OffsetMutation implements ITSPMutation
 {   
     public TSP_Instance mutate(TSP_Instance parent)
     {
+        // Set our variables in needed. Offset only gained once
         Random rand = RandomNumberGenerator.getRandom();
         boolean sign_x, sign_y;
         float offset_x = rand.nextFloat();
