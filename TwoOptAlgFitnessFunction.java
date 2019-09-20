@@ -26,13 +26,6 @@ public class TwoOptAlgFitnessFunction implements ITSPFitnessFunction
         double alg3BestScore = 10000;
         for(int j = 0; j < 3; j++)
         {
-            // Creating populations
-            // ArrayList<ArrayList<Point>> lspop = create_pop.create_population(instance, 10);
-            // ArrayList<TSP_Instance> algpop = new ArrayList<TSP_Instance>();
-            // for (int i = 0; i < lspop.size(); i++) {
-            //     algpop.add(new TSP_Instance(lspop.get(i)));
-            // }
-
             // 2-Opt Local Search: Finds best score across all instances
             double lsScore = 10000;
             lsScore = ls.search(instance, twoOpt);
@@ -40,10 +33,11 @@ public class TwoOptAlgFitnessFunction implements ITSPFitnessFunction
                 lsBestScore = lsScore;
             }
 
+            // Genetic Algorithm: 10000 generations, tournament and elitism selection, pmx crossover, insert mutation
             pop = alg3.GeneticAlgorithmSearch(instance, pop, 20);
             alg3Score = alg3.stats(pop.getParents());
             if (alg3Score < alg3BestScore) {
-                alg3BestScore = algScore;
+                alg3BestScore = alg3Score;
             }
         }
         return Math.abs(lsBestScore - alg3BestScore);
