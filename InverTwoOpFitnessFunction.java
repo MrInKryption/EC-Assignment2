@@ -26,8 +26,8 @@ public class InverTwoOpFitnessFunction implements ITSPFitnessFunction
                 lsBestScore = lsScore;
             }
 
-            // Genetic Algorithm: 10000 generations, tournament and elitism selection, pmx crossover, insert mutation
-            pop = inver.InverOver(instance, pop, 10, 0.02);     //GeneticAlgorithmSearch(instance, pop, 20);
+            // InverOver Algorithm
+            pop = inver.InverOver(instance, pop, 10, 0.02);
             double inverScore = alg3.stats(pop.getParents());
             if (inverScore < inverBestScore) {
                 inverBestScore = inverScore;
