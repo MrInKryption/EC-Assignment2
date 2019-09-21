@@ -3,6 +3,8 @@ import java.util.ArrayList;
 // Main class
 public class Main
 {
+    private static Performance perform;
+
     public static void main(String[] args) {
         TSP_Instance tsp = new TSP_Instance(50, 0, 50);
         OnePlusOneEA onePlusOne = new OnePlusOneEA();
@@ -36,6 +38,15 @@ public class Main
         // long endTimeB = System.nanoTime();
         
         // System.out.println("SuperNova run time: " + (endTimeB - startTimeB));
+  
+        // Exercise 3
+        perform = new Performance(100, 10, 0, 10);
+        // perform.fitnessPairInverTwoOp();
+        // perform.fitnessPairInverTwoOp2();
+        // perform.fitnessPairInverAlg();
+        // perform.fitnessPairInverAlg2();
+        // perform.fitnessPairTwoOptAlg();
+        // perform.fitnessPairTwoOptAlg2();
         
         return;
     }
