@@ -13,15 +13,27 @@ public class Main
             System.out.println("Please provide arguments first argument is which exercise to run");
         }
         
-        for (int i = 0; i < args.length; i++)
-        {
-            System.out.println(args[i]);
-        }
-        
         if (args[0].equals("1"))
         {
+            // Exercise 1 requires a number of cities. 
+            if (args.length != 2)
+            {
+                System.out.println("Improper usage for part 1. Arguments are:");
+                System.out.println("1 <number of cities>");
+                System.exit(1);
+            }
+            int numberCities = 0;
+            try
+            {
+                numberCities = Integer.parseInt(args[1]);
+            }
+            catch (NumberFormatException e)
+            {
+                System.out.println("Invalid number of cities: " + args[1]);
+                System.exit(1);
+            }
             // If first argument is 1, runs exercise 1. 
-            TSP_Instance tsp = new TSP_Instance(50, 0, 50);
+            TSP_Instance tsp = new TSP_Instance(numberCities, 0, 50);
             OnePlusOneEA onePlusOne = new OnePlusOneEA();
             onePlusOne.EvolutionaryAlgorithm(tsp);
         }
