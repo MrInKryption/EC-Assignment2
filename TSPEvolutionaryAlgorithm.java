@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Random;
 
 public class TSPEvolutionaryAlgorithm
@@ -7,6 +8,11 @@ public class TSPEvolutionaryAlgorithm
     private ElitismSelectionTSP elitism;
     private double mutationRate;
     private int generations;
+    private double generation_fitness_average;
+    private double overall_fitness_total;
+    private double overall_fitness_average;
+    private double number_generations_completed;
+    private double best_fitness;
     
     // Constructor for this family of genetic algorithms.
     // Mutation rate is the chance of mutation, between 0 and 1.0.
@@ -18,6 +24,12 @@ public class TSPEvolutionaryAlgorithm
     {
         tournament = new TournamentSelectionTSP(tournamentSize);
         elitism = new ElitismSelectionTSP();
+
+        generation_fitness_average = 0;
+        overall_fitness_total = 0;
+        overall_fitness_average = 0;
+        number_generations_completed = 0;
+        best_fitness = 0;
         
         // Ensure mutation rate is between 0 and 1.
         if (newMutationRate < 0)
@@ -34,7 +46,7 @@ public class TSPEvolutionaryAlgorithm
         }
         
         // Ensure generations is non-zero. 
-        if (generations < 1)
+        if (numberGenerations < 1)
         {
             generations = 1;
         }
@@ -42,6 +54,22 @@ public class TSPEvolutionaryAlgorithm
         {
             generations = numberGenerations;
         }
+    }
+
+    public void fitnessGrabber(ArrayList<TSP_Instance> pop)
+    {
+        int size = pop.size();
+        int sum = 0;
+        generation_fitness_average = 0;
+        for(int i = 0; i < size; i++)
+        {
+            double fit = pop.get(i).getFitness();
+            sum += fit;
+
+            if(fit > best_fitness) {best_fitness = fit;}
+        }
+
+        generation_fitness_average = sum/size;   
     }
     
     public void evolutionaryAlgorithm(ArrayList<TSP_Instance> population, ITSPFitnessFunction fitness, ITSPMutation mutator, ITSPCrossover crossover)
@@ -68,6 +96,7 @@ public class TSPEvolutionaryAlgorithm
         // Run the loop for generations times. 
         for (int i = 0; i < generations; i++)
         {
+            System.out.println("doing generation: " + i + "\n");
             // nextPopulations starts off as a copy of the current population. 
             ArrayList<TSP_Instance> nextPopulation = new ArrayList<TSP_Instance>(currentPopulation);
             
@@ -97,9 +126,36 @@ public class TSPEvolutionaryAlgorithm
             // Use elitism to select the populationSize best individuals to add to the next
             // generation.
             currentPopulation = elitism.select(nextPopulation, populationSize);
+
+            //calculations
+            number_generations_completed ++; //increment number of generations completed
+            fitnessGrabber(currentPopulation); //run fitness grabber which updates generation_fitness_average and best_fitness
+            overall_fitness_total += generation_fitness_average; //add to overall fitness total
+            overall_fitness_average = overall_fitness_total/number_generations_completed; //calculate overall average
+
+            System.out.println("Generations Run: " + number_generations_completed);
+            System.out.println("Generation fitness average: " + generation_fitness_average);
+            System.out.println("Overall fitness Average: " + overall_fitness_average);
+            System.out.println("Best fitness: " + best_fitness + "\n");
+
         }
         
         // Print out the final fitness. 
         System.out.println("Final fitness: " + currentPopulation.get(0).getFitness());
+
+        System.out.println("instances\n");
+
+        int size_of_pop = currentPopulation.size();
+        for(int n = 0; n < size_of_pop; n++)
+        {
+            System.out.println("-----");
+            ArrayList<Point> curr_instance_points = currentPopulation.get(n).getCoordinates();
+            int size_of_instance = curr_instance_points.size();
+            for(int m = 0; m < size_of_instance; m++)
+            {
+                System.out.print(curr_instance_points.get(m).getX() + "," + curr_instance_points.get(m).getY() + ",");
+            }
+            System.out.println("");
+        }
     }
 }

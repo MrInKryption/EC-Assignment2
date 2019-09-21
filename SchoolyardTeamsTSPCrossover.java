@@ -13,6 +13,7 @@ public class SchoolyardTeamsTSPCrossover implements ITSPCrossover
 
         // Get a list of all the city points
         ArrayList<Point> remaining_kids  = new ArrayList<Point>();
+        
         remaining_kids.addAll(first_parent.getCoordinates());
         remaining_kids.addAll(second_parent.getCoordinates());
         Random rand = RandomNumberGenerator.getRandom();
