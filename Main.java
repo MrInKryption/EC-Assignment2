@@ -143,6 +143,7 @@ public class Main
         }
         else if (args[0].equals("3"))
         {
+            int numGenerations = Integer.parseInt(args[4]);
             // Exercise 3 requires 5 arguments total.
             // If not enough, print an error.
             if (args.length != 5) {
@@ -156,17 +157,17 @@ public class Main
                 { // crossover 1
                     if (args[3].equals("1"))
                     { //mutation 1
-                        perform = new Performance(100, 10, 0, 10);
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
                         perform.fitnessPairInverTwoOp();
                     }
                     else if (args[3].equals("2"))
                     { // mutation 2
-                        perform = new Performance(100, 10, 0, 10);
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
                         perform.fitnessPairInverTwoOp();
                     }
                     else if (args[3].equals("3")) 
-                    { // mutation 2
-                        perform = new Performance(100, 10, 0, 10);
+                    { // mutation 3
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
                         perform.fitnessPairInverTwoOp();
                     }
                 }
@@ -174,51 +175,215 @@ public class Main
                 { // crossover 2
                     if (args[3].equals("1")) 
                     { // mutation 1
-                        perform = new Performance(100, 10, 0, 10);
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
                         perform.fitnessPairInverTwoOp();
                     } 
                     else if (args[3].equals("2")) 
                     { // mutation 2
-                        perform = new Performance(100, 10, 0, 10);
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
                         perform.fitnessPairInverTwoOp();
                     } 
                     else if (args[3].equals("3")) 
-                    { // mutation 2
-                        perform = new Performance(100, 10, 0, 10);
+                    { // mutation 3
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
                         perform.fitnessPairInverTwoOp();
                     }
                 }
             }
-
-
             else if (args[1].equals("2"))
             {
-                perform = new Performance(100, 10, 0, 10);
-                perform.fitnessPairInverTwoOp2();
+                if (args[2].equals("1")) 
+                { // crossover 1
+                    if (args[3].equals("1")) 
+                    { // mutation 1
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairInverTwoOp2();
+                    } 
+                    else if (args[3].equals("2")) 
+                    { // mutation 2
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairInverTwoOp2();
+                    } 
+                    else if (args[3].equals("3")) 
+                    { // mutation 3
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairInverTwoOp2();
+                    }
+                } 
+                else if (args[2].equals("2")) 
+                { // crossover 2
+                    if (args[3].equals("1")) 
+                    { // mutation 1
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairInverTwoOp2();
+                    } 
+                    else if (args[3].equals("2")) 
+                    { // mutation 2
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairInverTwoOp2();
+                    } 
+                    else if (args[3].equals("3")) 
+                    { // mutation 3
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairInverTwoOp2();
+                    }
+                }
             }
-            else if (args[1].equals("3"))
+            else if (args[1].equals("3")) 
             {
-                perform = new Performance(100, 10, 0, 10);
-                perform.fitnessPairInverAlg();
-                
+                if (args[2].equals("1")) 
+                { // crossover 1
+                    if (args[3].equals("1")) 
+                    { // mutation 1
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairInverAlg();
+                    } 
+                    else if (args[3].equals("2")) 
+                    { // mutation 2
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairInverAlg();
+                    } 
+                    else if (args[3].equals("3")) 
+                    { // mutation 3
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairInverAlg();
+                    }
+                }
+                else if (args[2].equals("2")) 
+                { // crossover 2
+                    if (args[3].equals("1")) 
+                    { // mutation 1
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairInverAlg();
+                    } 
+                    else if (args[3].equals("2")) 
+                    { // mutation 2
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairInverAlg();
+                    } 
+                    else if (args[3].equals("3")) 
+                    { // mutation 3
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairInverAlg();
+                    }
+                }
             }
-            else if (args[1].equals("4"))
+            else if (args[1].equals("4")) 
             {
-                perform = new Performance(100, 10, 0, 10);
-                perform.fitnessPairInverAlg2();
-                
+                if (args[2].equals("1")) 
+                { // crossover 1
+                    if (args[3].equals("1")) 
+                    { // mutation 1
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairInverAlg2();
+                    } 
+                    else if (args[3].equals("2")) 
+                    { // mutation 2
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairInverAlg2();
+                    } 
+                    else if (args[3].equals("3")) 
+                    { // mutation 3
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairInverAlg2();
+                    }
+                } 
+                else if (args[2].equals("2")) 
+                { // crossover 2
+                    if (args[3].equals("1")) 
+                    { // mutation 1
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairInverAlg2();
+                    } 
+                    else if (args[3].equals("2")) 
+                    { // mutation 2
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairInverAlg2();
+                    } 
+                    else if (args[3].equals("3")) 
+                    { // mutation 3
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairInverAlg2();
+                    }
+                }
             }
-            else if (args[1].equals("5"))
+            else if (args[1].equals("5")) 
             {
-                perform = new Performance(100, 10, 0, 10);
-                perform.fitnessPairTwoOptAlg();
-                
+                if (args[2].equals("1")) 
+                { // crossover 1
+                    if (args[3].equals("1")) 
+                    { // mutation 1
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairTwoOptAlg();
+                    } 
+                    else if (args[3].equals("2")) 
+                    { // mutation 2
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairTwoOptAlg();
+                    } 
+                    else if (args[3].equals("3")) 
+                    { // mutation 3
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairTwoOptAlg();
+                    }
+                } 
+                else if (args[2].equals("2")) 
+                { // crossover 2
+                    if (args[3].equals("1")) 
+                    { // mutation 1
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairTwoOptAlg();
+                    } 
+                    else if (args[3].equals("2")) 
+                    { // mutation 2
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairTwoOptAlg();
+                    } 
+                    else if (args[3].equals("3")) 
+                    { // mutation 3
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairTwoOptAlg();
+                    }
+                }
             }
-            else if (args[1].equals("6"))
+            if (args[1].equals("6")) 
             {
-                perform = new Performance(100, 10, 0, 10);
-                perform.fitnessPairTwoOptAlg2();
-                
+                if (args[2].equals("1")) 
+                { // crossover 1
+                    if (args[3].equals("1")) 
+                    { // mutation 1
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairTwoOptAlg2();
+                    } 
+                    else if (args[3].equals("2")) 
+                    { // mutation 2
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairTwoOptAlg2();
+                    }
+                    else if (args[3].equals("3")) 
+                    { // mutation 3
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairTwoOptAlg2();
+                    }
+                } 
+                else if (args[2].equals("2")) 
+                { // crossover 2
+                    if (args[3].equals("1")) 
+                    { // mutation 1
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairTwoOptAlg2();
+                    } 
+                    else if (args[3].equals("2")) 
+                    { // mutation 2
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairTwoOptAlg2();
+                    } 
+                    else if (args[3].equals("3")) 
+                    { // mutation 3
+                        perform = new Performance(100, 10, 0, 10, numGenerations);
+                        perform.fitnessPairTwoOptAlg2();
+                    }
+                }
             }
         }
         else
