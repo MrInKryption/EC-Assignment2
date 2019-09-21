@@ -145,12 +145,37 @@ public class Main
         {
            // Exercise 3
             perform = new Performance(100, 10, 0, 10);
-            // perform.fitnessPairInverTwoOp();
-            // perform.fitnessPairInverTwoOp2();
-            // perform.fitnessPairInverAlg();
-            // perform.fitnessPairInverAlg2();
-            // perform.fitnessPairTwoOptAlg();
-            // perform.fitnessPairTwoOptAlg2(); 
+            perform.fitnessPairInverTwoOp();
+        }
+        else if (args[0].equals("4"))
+        {
+            perform = new Performance(100, 10, 0, 10);
+            perform.fitnessPairInverTwoOp2();
+
+        }
+        else if (args[0].equals("5"))
+        {
+            perform = new Performance(100, 10, 0, 10);
+            perform.fitnessPairInverAlg();
+            
+        }
+        else if (args[0].equals("6"))
+        {
+            perform = new Performance(100, 10, 0, 10);
+            perform.fitnessPairInverAlg2();
+            
+        }
+        else if (args[0].equals("7"))
+        {
+            perform = new Performance(100, 10, 0, 10);
+            perform.fitnessPairTwoOptAlg();
+            
+        }
+        else if (args[0].equals("8"))
+        {
+            perform = new Performance(100, 10, 0, 10);
+            perform.fitnessPairTwoOptAlg2();
+            
         }
         else
         {
