@@ -16,6 +16,7 @@ public class Performance
 
     //mutators
     private SuperNovaMutation supa;
+    private FastNovaMutation fast;
 
     //crossovers
     private MeanTSPCrossover crossover;
@@ -35,6 +36,7 @@ public class Performance
 
         evolution = new TSPEvolutionaryAlgorithm(0.05, 4, 1000); // 2 = 10000
         supa = new SuperNovaMutation(0, 10, 0, 10);
+        fast = new FastNovaMutation(5);
         crossover = new MeanTSPCrossover();   
         inver_two_op = new InverTwoOpFitnessFunction();
         inver_two_op_2 = new InverTwoOpFitnessFunction2();
