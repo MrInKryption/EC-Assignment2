@@ -52,9 +52,47 @@ public class Performance
         inver_alg_2 = new InverAlgFitnessFunction2();
     }
 
-    public void fitnessPairInverTwoOp()
+    public void fitnessPairInverTwoOp(int mutate, int cross)
     {
         //run EA with InverTwoOptFitnessFunction
+        switch(cross)
+        {
+            case 1:
+                switch(mutate)
+                {
+                    case 1:
+                        evolution.evolutionaryAlgorithm(pop, inver_two_op, supa, crossover);
+                        break;
+                    case 2:
+                        evolution.evolutionaryAlgorithm(pop, inver_two_op, fast, crossover);
+                        break;
+                    case 3:
+                        evolution.evolutionaryAlgorithm(pop, inver_two_op, offset, crossover);
+                        break;
+                }
+                break;
+
+            case 2:
+            switch(mutate)
+            {
+                case 1:
+                    evolution.evolutionaryAlgorithm(pop, inver_two_op, supa, school);
+                    break;
+                case 2:
+                    evolution.evolutionaryAlgorithm(pop, inver_two_op, fast, school);
+                    break;
+                case 3:
+                    evolution.evolutionaryAlgorithm(pop, inver_two_op, offset, school);
+                    break;
+            }
+                break;
+        }
+
+
+
+
+
+
         evolution.evolutionaryAlgorithm(pop, inver_two_op, supa, crossover);
     }
 
