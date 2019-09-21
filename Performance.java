@@ -27,7 +27,7 @@ public class Performance
     private ArrayList<TSP_Instance> pop;
 
     //sets up all populations with an initial selection of instances
-    public Performance(int problem_size, double min, double max, int population_size)
+    public Performance(int problem_size, double min, double max, int population_size, int numGenerations)
     {
         pop = new ArrayList<TSP_Instance>();
         for(int i = 0; i < population_size; i++)
@@ -36,7 +36,7 @@ public class Performance
             pop.add(new_tsp);
         }
 
-        evolution = new TSPEvolutionaryAlgorithm(0.05, 4, 1000); // 2 = 10000
+        evolution = new TSPEvolutionaryAlgorithm(0.05, 4, numGenerations);
         supa = new SuperNovaMutation(0, 10, 0, 10);
         fast = new FastNovaMutation(5);
         offset = new OffsetMutation();
