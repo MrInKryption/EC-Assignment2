@@ -7,17 +7,15 @@ public class Main
     private static Performance perform;
     
     public static void main(String[] args) {
-        // if(args.length == 0)
-        // {
-        //     System.out.println("You have provided no arguments.");
-        //     return;
-        // }
-        // else
-        // {
-            /*tsp = new TSP_Instance(10, 0, 10);
-            EvolutionaryAlgorithm1 ea = new EvolutionaryAlgorithm1();
-            //ea.EvolutionaryAlgorithm(tsp);
-            
+        if(args.length == 0)
+        {
+            System.out.println("You have provided no arguments.");
+            return;
+        }
+        else
+        {
+            // Exercise 2
+            /*
             TSPEvolutionaryAlgorithm alg = new TSPEvolutionaryAlgorithm(0.05, 4, 1000);
             ArrayList<TSP_Instance> population = new ArrayList<TSP_Instance>();
             int population_size = 10;
@@ -30,12 +28,19 @@ public class Main
             SuperNovaMutation mutator = new SuperNovaMutation(0, 10, 0, 10);
             MeanTSPCrossover crossover = new MeanTSPCrossover();
             
-            alg.evolutionaryAlgorithm(population, fitness, mutator, crossover);*/
-
+            alg.evolutionaryAlgorithm(population, fitness, mutator, crossover);
+            */
+            
+            // Exercise 3
             perform = new Performance(100, 10, 0, 10);
+            perform.fitnessPairInverTwoOp();
+            perform.fitnessPairInverTwoOp2();
             perform.fitnessPairInverAlg();
+            perform.fitnessPairInverAlg2();
+            perform.fitnessPairTwoOptAlg();
+            perform.fitnessPairTwoOptAlg2();
 
             return;
-        //}
+        }
     }
 }
