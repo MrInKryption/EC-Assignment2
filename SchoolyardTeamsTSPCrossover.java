@@ -10,9 +10,9 @@ public class SchoolyardTeamsTSPCrossover implements ITSPCrossover
 {
     public ArrayList<TSP_Instance> crossover(TSP_Instance first_parent, TSP_Instance second_parent)
     {
-
+        ArrayList<TSP_Instance> dummy = new ArrayList<TSP_Instance>();
         // Get a list of all the city points
-        ArrayList<Point> remaining_kids  = new ArrayList<Point>();
+        /*ArrayList<Point> remaining_kids  = new ArrayList<Point>();
         remaining_kids.addAll(first_parent.getCoordinates());
         remaining_kids.addAll(second_parent.getCoordinates());
         Random rand = RandomNumberGenerator.getRandom();
@@ -76,6 +76,7 @@ public class SchoolyardTeamsTSPCrossover implements ITSPCrossover
         finalResult.add(new TSP_Instance(team_1));
         finalResult.add(new TSP_Instance(team_2));
         
-        return finalResult;
+        return finalResult;*/
+        return dummy;
     }
 }
