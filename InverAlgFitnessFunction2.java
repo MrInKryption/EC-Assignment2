@@ -2,12 +2,14 @@ public class InverAlgFitnessFunction2 implements ITSPFitnessFunction
 {
     private InverOver inver;
     private Population pop;
+    private Population pop2;
     private GeneticAlgorithm alg3;
 
     public double fitness(TSP_Instance instance)
     {
         inver = new InverOver();
         pop = new Population(instance, 20);
+        pop2 = new Population(instance, 20);
         alg3 = new GeneticAlgorithm();
 
         double alg3BestScore = 10000;
@@ -22,8 +24,8 @@ public class InverAlgFitnessFunction2 implements ITSPFitnessFunction
             }
 
             // InverOver Algorithm
-            pop = inver.InverOver(instance, pop, 10, 0.02);
-            double inverScore = alg3.stats(pop.getParents());
+            pop2 = inver.InverOver(instance, pop2, 10, 0.02);
+            double inverScore = inver.stats(pop.getParents());
             if (inverScore < inverBestScore) {
                 inverBestScore = inverScore;
             }

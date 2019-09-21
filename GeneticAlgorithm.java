@@ -11,7 +11,7 @@ public class GeneticAlgorithm
         PmxCrossover pmx = new PmxCrossover();
         Population matingPop=new Population(tsp,populationSize);
         //Run for 10000 generations
-        for(int x=1;x<=10000;x++){
+        for(int x=1;x<=100;x++){
             tournament.select(tsp, matingPop, populationSize);
             for(int i=0;i<populationSize;i++){
                 //Add offspring to the original pool

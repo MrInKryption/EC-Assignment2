@@ -7,7 +7,6 @@ public class TSPEvolutionaryAlgorithm
     private ElitismSelectionTSP elitism;
     private double mutationRate;
     private int generations;
-    private double best_fitness;
     private double generation_fitness_average;
     private double overall_fitness_total;
     private double overall_fitness_average;
@@ -24,7 +23,6 @@ public class TSPEvolutionaryAlgorithm
         tournament = new TournamentSelectionTSP(tournamentSize);
         elitism = new ElitismSelectionTSP();
 
-        best_fitness = 100000000;
         generation_fitness_average = 0;
         overall_fitness_total = 0;
         overall_fitness_average = 0;
@@ -64,8 +62,6 @@ public class TSPEvolutionaryAlgorithm
         {
             double fit = pop.get(i).getFitness();
             sum += fit;
-
-            if(fit < best_fitness) {best_fitness = fit;}
         }
 
         generation_fitness_average = sum/size;   
@@ -95,7 +91,7 @@ public class TSPEvolutionaryAlgorithm
         // Run the loop for generations times. 
         for (int i = 0; i < generations; i++)
         {
-            System.out.println("doing generation: " + i);
+            System.out.println("doing generation: " + i + "\n");
             // nextPopulations starts off as a copy of the current population. 
             ArrayList<TSP_Instance> nextPopulation = new ArrayList<TSP_Instance>(currentPopulation);
             
@@ -134,8 +130,7 @@ public class TSPEvolutionaryAlgorithm
 
             System.out.println("Generations Run: " + number_generations_completed);
             System.out.println("Generation fitness average: " + generation_fitness_average);
-            System.out.println("Overall fitness Average: " + overall_fitness_average);
-            System.out.println("Best Fitness: " + best_fitness);
+            System.out.println("Overall fitness Average: " + overall_fitness_average + "\n");
 
         }
         

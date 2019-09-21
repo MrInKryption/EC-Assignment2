@@ -98,4 +98,14 @@ public class InverOver
         return new_pop;
     }
 
+    public double stats(ArrayList<Individual> population) {
+        double sum = 0;
+        double lowestScore = population.get(0).getScore();
+        for (Individual solution : population) {
+            sum += solution.getScore();
+            if (solution.getScore() < lowestScore) {lowestScore=solution.getScore();}
+        }
+        return lowestScore;
+    }
+
 }
