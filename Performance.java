@@ -52,7 +52,7 @@ public class Performance
         inver_alg_2 = new InverAlgFitnessFunction2();
     }
 
-    public void fitnessPairInverTwoOp(int mutate, int cross)
+    public void fitnessPairInverTwoOp(int cross, int mutate)
     {
         //run EA with InverTwoOptFitnessFunction
         switch(cross)
@@ -73,51 +73,199 @@ public class Performance
                 break;
 
             case 2:
-            switch(mutate)
-            {
-                case 1:
-                    evolution.evolutionaryAlgorithm(pop, inver_two_op, supa, school);
-                    break;
-                case 2:
-                    evolution.evolutionaryAlgorithm(pop, inver_two_op, fast, school);
-                    break;
-                case 3:
-                    evolution.evolutionaryAlgorithm(pop, inver_two_op, offset, school);
-                    break;
-            }
+                switch(mutate)
+                {
+                    case 1:
+                        evolution.evolutionaryAlgorithm(pop, inver_two_op, supa, school);
+                        break;
+                    case 2:
+                        evolution.evolutionaryAlgorithm(pop, inver_two_op, fast, school);
+                        break;
+                    case 3:
+                        evolution.evolutionaryAlgorithm(pop, inver_two_op, offset, school);
+                        break;
+                }
                 break;
         }
-
-
-
-
-
-
-        evolution.evolutionaryAlgorithm(pop, inver_two_op, supa, crossover);
     }
 
-    public void fitnessPairInverTwoOp2()
+    public void fitnessPairInverTwoOp2(int cross, int mutate)
     {
-        //run EA with InverTwoOptFitnessFunction2 
-        evolution.evolutionaryAlgorithm(pop, inver_two_op_2, supa, crossover);
+        //run EA with InverTwoOptFitnessFunction2
+        switch(cross)
+        {
+            case 1:
+                switch(mutate)
+                {
+                    case 1:
+                        evolution.evolutionaryAlgorithm(pop, inver_two_op_2, supa, crossover);
+                        break;
+                    case 2:
+                        evolution.evolutionaryAlgorithm(pop, inver_two_op_2, fast, crossover);
+                        break;
+                    case 3:
+                        evolution.evolutionaryAlgorithm(pop, inver_two_op_2, offset, crossover);
+                        break;
+                }
+                break;
+
+            case 2:
+                switch(mutate)
+                {
+                    case 1:
+                        evolution.evolutionaryAlgorithm(pop, inver_two_op_2, supa, school);
+                        break;
+                    case 2:
+                        evolution.evolutionaryAlgorithm(pop, inver_two_op_2, fast, school);
+                        break;
+                    case 3:
+                        evolution.evolutionaryAlgorithm(pop, inver_two_op_2, offset, school);
+                        break;
+                }
+                break;
+        }
     }
 
-    public void fitnessPairInverAlg()
+    public void fitnessPairInverAlg(int cross, int mutate)
     {
-        evolution.evolutionaryAlgorithm(pop, inver_alg, supa, crossover); 
+        switch(cross)
+        {
+            case 1:
+                switch(mutate)
+                {
+                    case 1:
+                        evolution.evolutionaryAlgorithm(pop, inver_alg, supa, crossover);
+                        break;
+                    case 2:
+                        evolution.evolutionaryAlgorithm(pop, inver_alg, fast, crossover);
+                        break;
+                    case 3:
+                        evolution.evolutionaryAlgorithm(pop, inver_alg, offset, crossover);
+                        break;
+                }
+                break;
+
+            case 2:
+                switch(mutate)
+                {
+                    case 1:
+                        evolution.evolutionaryAlgorithm(pop, inver_alg, supa, school);
+                        break;
+                    case 2:
+                        evolution.evolutionaryAlgorithm(pop, inver_alg, fast, school);
+                        break;
+                    case 3:
+                        evolution.evolutionaryAlgorithm(pop, inver_alg, offset, school);
+                        break;
+                }
+                break;
+        }
     }
 
-    public void fitnessPairInverAlg2()
+    public void fitnessPairInverAlg2(int cross, int mutate)
     {
-        evolution.evolutionaryAlgorithm(pop, inver_alg_2, supa, crossover); 
+        switch(cross)
+        {
+            case 1:
+                switch(mutate)
+                {
+                    case 1:
+                        evolution.evolutionaryAlgorithm(pop, inver_alg_2, supa, crossover);
+                        break;
+                    case 2:
+                        evolution.evolutionaryAlgorithm(pop, inver_alg_2, fast, crossover);
+                        break;
+                    case 3:
+                        evolution.evolutionaryAlgorithm(pop, inver_alg_2, offset, crossover);
+                        break;
+                }
+                break;
+
+            case 2:
+                switch(mutate)
+                {
+                    case 1:
+                        evolution.evolutionaryAlgorithm(pop, inver_alg_2, supa, school);
+                        break;
+                    case 2:
+                        evolution.evolutionaryAlgorithm(pop, inver_alg_2, fast, school);
+                        break;
+                    case 3:
+                        evolution.evolutionaryAlgorithm(pop, inver_alg_2, offset, school);
+                        break;
+                }
+                break;
+        } 
     }
 
-    public void fitnessPairTwoOptAlg() {
-        evolution.evolutionaryAlgorithm(pop, two_opt_alg, supa, crossover);
+    public void fitnessPairTwoOptAlg(int cross, int mutate) {
+        switch(cross)
+        {
+            case 1:
+                switch(mutate)
+                {
+                    case 1:
+                        evolution.evolutionaryAlgorithm(pop, two_opt_alg, supa, crossover);
+                        break;
+                    case 2:
+                        evolution.evolutionaryAlgorithm(pop, two_opt_alg, fast, crossover);
+                        break;
+                    case 3:
+                        evolution.evolutionaryAlgorithm(pop, two_opt_alg, offset, crossover);
+                        break;
+                }
+                break;
+
+            case 2:
+                switch(mutate)
+                {
+                    case 1:
+                        evolution.evolutionaryAlgorithm(pop, two_opt_alg, supa, school);
+                        break;
+                    case 2:
+                        evolution.evolutionaryAlgorithm(pop, two_opt_alg, fast, school);
+                        break;
+                    case 3:
+                        evolution.evolutionaryAlgorithm(pop, two_opt_alg, offset, school);
+                        break;
+                }
+                break;
+        }
     }
 
-    public void fitnessPairTwoOptAlg2() {
-        evolution.evolutionaryAlgorithm(pop, two_opt_alg2, supa, crossover);
+    public void fitnessPairTwoOptAlg2(int cross, int mutate) {
+        switch(cross)
+        {
+            case 1:
+                switch(mutate)
+                {
+                    case 1:
+                        evolution.evolutionaryAlgorithm(pop, two_opt_alg2, supa, crossover);
+                        break;
+                    case 2:
+                        evolution.evolutionaryAlgorithm(pop, two_opt_alg2, fast, crossover);
+                        break;
+                    case 3:
+                        evolution.evolutionaryAlgorithm(pop, two_opt_alg2, offset, crossover);
+                        break;
+                }
+                break;
+
+            case 2:
+                switch(mutate)
+                {
+                    case 1:
+                        evolution.evolutionaryAlgorithm(pop, two_opt_alg2, supa, school);
+                        break;
+                    case 2:
+                        evolution.evolutionaryAlgorithm(pop, two_opt_alg2, fast, school);
+                        break;
+                    case 3:
+                        evolution.evolutionaryAlgorithm(pop, two_opt_alg2, offset, school);
+                        break;
+                }
+                break;
+        }
     }
 
 }
