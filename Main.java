@@ -138,7 +138,10 @@ public class Main
                     alg.evolutionaryAlgorithm(population, fitness, novaMutator, meanCrossover);
                     break;
                 case 3:
-                    // Code for running the third EA goes here.
+                    OffsetMutation offsetMutator = new OffsetMutation(0, 0, 100, 100);
+                    SchoolyardTeamsTSPCrossover schoolCrossover = new SchoolyardTeamsTSPCrossover();
+                    
+                    alg.evolutionaryAlgorithm(population, fitness, offsetMutator, schoolCrossover);
                     break;
                 default:
                     System.out.println("Error: Unreachable code reached!");
