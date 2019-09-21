@@ -104,12 +104,19 @@ public class EvolutionaryAlgorithm2 implements IEvolutionary
             childTsp = new TSP_Instance(currentTsp.getCoordinates());
 
             //Mutate the child by DOING SOMETHING to it
-            if(option == 0 || option == 1){
-                childTsp.getCoordinates().get(choice).setX(ave);
+            // if(option == 0 || option == 1){
+            //     childTsp.getCoordinates().get(choice).setX(ave);
+            // }
+            // else{
+            //     childTsp.getCoordinates().get(choice).setY(ave);
+            // }
+            if(option == 0 || option == 2){
+                childTsp.getCoordinates().get(choice).scalar_factor(0.999);
             }
             else{
-                childTsp.getCoordinates().get(choice).setY(ave);
+                childTsp.getCoordinates().get(choice).scalar_factor(1.001);
             }
+
 
             // Calculate the childs fitness and compare against the current parents fitness.
             // Choose the TSP Instance with the best fitness.
