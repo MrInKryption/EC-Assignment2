@@ -143,39 +143,83 @@ public class Main
         }
         else if (args[0].equals("3"))
         {
-           // Exercise 3
-            perform = new Performance(100, 10, 0, 10);
-            perform.fitnessPairInverTwoOp();
-        }
-        else if (args[0].equals("4"))
-        {
-            perform = new Performance(100, 10, 0, 10);
-            perform.fitnessPairInverTwoOp2();
+            // Exercise 3 requires 5 arguments total.
+            // If not enough, print an error.
+            if (args.length != 5) {
+                System.out.println("Improper usage for part 3. Arguments are: ");
+                System.out.println("3 <algorithm id 1,2,3,4,5 or 6> <crossover id 1 or 2> <mutation id 1,2 or 3> <number of generations>");
+                System.exit(1);
+            }
+            if (args[1].equals("1"))
+            {  
+                if (args[2].equals("1"))
+                { // crossover 1
+                    if (args[3].equals("1"))
+                    { //mutation 1
+                        perform = new Performance(100, 10, 0, 10);
+                        perform.fitnessPairInverTwoOp();
+                    }
+                    else if (args[3].equals("2"))
+                    { // mutation 2
+                        perform = new Performance(100, 10, 0, 10);
+                        perform.fitnessPairInverTwoOp();
+                    }
+                    else if (args[3].equals("3")) 
+                    { // mutation 2
+                        perform = new Performance(100, 10, 0, 10);
+                        perform.fitnessPairInverTwoOp();
+                    }
+                }
+                else if (args[2].equals("2"))
+                { // crossover 2
+                    if (args[3].equals("1")) 
+                    { // mutation 1
+                        perform = new Performance(100, 10, 0, 10);
+                        perform.fitnessPairInverTwoOp();
+                    } 
+                    else if (args[3].equals("2")) 
+                    { // mutation 2
+                        perform = new Performance(100, 10, 0, 10);
+                        perform.fitnessPairInverTwoOp();
+                    } 
+                    else if (args[3].equals("3")) 
+                    { // mutation 2
+                        perform = new Performance(100, 10, 0, 10);
+                        perform.fitnessPairInverTwoOp();
+                    }
+                }
+            }
 
-        }
-        else if (args[0].equals("5"))
-        {
-            perform = new Performance(100, 10, 0, 10);
-            perform.fitnessPairInverAlg();
-            
-        }
-        else if (args[0].equals("6"))
-        {
-            perform = new Performance(100, 10, 0, 10);
-            perform.fitnessPairInverAlg2();
-            
-        }
-        else if (args[0].equals("7"))
-        {
-            perform = new Performance(100, 10, 0, 10);
-            perform.fitnessPairTwoOptAlg();
-            
-        }
-        else if (args[0].equals("8"))
-        {
-            perform = new Performance(100, 10, 0, 10);
-            perform.fitnessPairTwoOptAlg2();
-            
+
+            else if (args[1].equals("2"))
+            {
+                perform = new Performance(100, 10, 0, 10);
+                perform.fitnessPairInverTwoOp2();
+            }
+            else if (args[1].equals("3"))
+            {
+                perform = new Performance(100, 10, 0, 10);
+                perform.fitnessPairInverAlg();
+                
+            }
+            else if (args[1].equals("4"))
+            {
+                perform = new Performance(100, 10, 0, 10);
+                perform.fitnessPairInverAlg2();
+                
+            }
+            else if (args[1].equals("5"))
+            {
+                perform = new Performance(100, 10, 0, 10);
+                perform.fitnessPairTwoOptAlg();
+                
+            }
+            else if (args[1].equals("6"))
+            {
+                perform = new Performance(100, 10, 0, 10);
+                perform.fitnessPairTwoOptAlg2();
+                
+            }
         }
         else
         {
