@@ -85,6 +85,12 @@ public class TSP_Instance
         
         recalculateFitness();
     }
+
+    //For if you just want to use the distance function
+    public TSP_Instance()
+    {
+        ;
+    }
     
     // All TSP_Instances created after a call to this function
     // will use function to calculate the fitness which they return

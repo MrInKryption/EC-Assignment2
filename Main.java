@@ -143,14 +143,44 @@ public class Main
         }
         else if (args[0].equals("3"))
         {
-           // Exercise 3
-            perform = new Performance(100, 10, 0, 10);
-            // perform.fitnessPairInverTwoOp();
-            // perform.fitnessPairInverTwoOp2();
-            // perform.fitnessPairInverAlg();
-            // perform.fitnessPairInverAlg2();
-            // perform.fitnessPairTwoOptAlg();
-            // perform.fitnessPairTwoOptAlg2(); 
+            int numGenerations = Integer.parseInt(args[4]);
+            // Exercise 3 requires 5 arguments total.
+            // If not enough, print an error.
+            if (args.length != 5) {
+                System.out.println("Improper usage for part 3. Arguments are: ");
+                System.out.println("3 <algorithm id 1,2,3,4,5 or 6> <crossover id 1 or 2> <mutation id 1,2 or 3> <number of generations>");
+                System.exit(1);
+            }
+            if (args[1].equals("1"))
+            {  
+                perform = new Performance(100, 10, 0, 10, numGenerations);
+                perform.fitnessPairInverTwoOp(Integer.parseInt(args[2]), Integer.parseInt(args[3]));
+            }
+            else if (args[1].equals("2"))
+            {
+                perform = new Performance(100, 10, 0, 10, numGenerations);
+                perform.fitnessPairInverTwoOp2(Integer.parseInt(args[2]), Integer.parseInt(args[3]));
+            }
+            else if (args[1].equals("3")) 
+            {
+                perform = new Performance(100, 10, 0, 10, numGenerations);
+                perform.fitnessPairInverAlg(Integer.parseInt(args[2]), Integer.parseInt(args[3]));
+            }
+            else if (args[1].equals("4")) 
+            {
+                perform = new Performance(100, 10, 0, 10, numGenerations);
+                perform.fitnessPairInverAlg2(Integer.parseInt(args[2]), Integer.parseInt(args[3]));
+            }
+            else if (args[1].equals("5")) 
+            {
+                perform = new Performance(100, 10, 0, 10, numGenerations);
+                perform.fitnessPairTwoOptAlg(Integer.parseInt(args[2]), Integer.parseInt(args[3]));
+            }
+            if (args[1].equals("6")) 
+            {
+                perform = new Performance(100, 10, 0, 10, numGenerations);
+                perform.fitnessPairTwoOptAlg2(Integer.parseInt(args[2]), Integer.parseInt(args[3]));
+            }
         }
         else
         {
