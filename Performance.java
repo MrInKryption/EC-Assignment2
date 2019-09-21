@@ -17,9 +17,11 @@ public class Performance
     //mutators
     private SuperNovaMutation supa;
     private FastNovaMutation fast;
+    private OffsetMutation offset;
 
     //crossovers
     private MeanTSPCrossover crossover;
+    private SchoolyardTeamsTSPCrossover school;
 
     //Populations for - comparison
     private ArrayList<TSP_Instance> pop;
@@ -37,7 +39,11 @@ public class Performance
         evolution = new TSPEvolutionaryAlgorithm(0.05, 4, 1000); // 2 = 10000
         supa = new SuperNovaMutation(0, 10, 0, 10);
         fast = new FastNovaMutation(5);
-        crossover = new MeanTSPCrossover();   
+        offset = new OffsetMutation();
+        
+        crossover = new MeanTSPCrossover();
+        school = new SchoolyardTeamsTSPCrossover();
+
         inver_two_op = new InverTwoOpFitnessFunction();
         inver_two_op_2 = new InverTwoOpFitnessFunction2();
         two_opt_alg = new TwoOptAlgFitnessFunction();
