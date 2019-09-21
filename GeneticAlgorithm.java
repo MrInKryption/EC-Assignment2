@@ -10,7 +10,7 @@ public class GeneticAlgorithm
         InsertMutation insert = new InsertMutation();
         PmxCrossover pmx = new PmxCrossover();
         Population matingPop=new Population(tsp,populationSize);
-        //Run for 10000 generations
+        //Run for 100 generations
         for(int x=1;x<=100;x++){
             tournament.select(tsp, matingPop, populationSize);
             for(int i=0;i<populationSize;i++){
