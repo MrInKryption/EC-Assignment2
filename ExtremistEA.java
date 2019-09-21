@@ -2,9 +2,9 @@ import java.util.ArrayList;
 import java.util.Random;
 
 // Evolutionary Algorithm class
-public class EvolutionaryAlgorithm2 implements IEvolutionary
+public class ExtremistEA implements IEvolutionary
 {
-    public EvolutionaryAlgorithm2()
+    public ExtremistEA()
     {
     }
 
@@ -23,11 +23,10 @@ public class EvolutionaryAlgorithm2 implements IEvolutionary
         double currentFitness = currentTsp.getFitness();
         double childFitness;
 
-        //THINGS
+        // Variables we will need
         int choice;
         int option;
         int num_cities = tsp.getCoordinates().size();
-        // Point p = new Point();
         Point p;
         double city_dim;
         long ave;
@@ -103,13 +102,7 @@ public class EvolutionaryAlgorithm2 implements IEvolutionary
             // Copy current TSP Instance for mutation.
             childTsp = new TSP_Instance(currentTsp.getCoordinates());
 
-            //Mutate the child by DOING SOMETHING to it
-            // if(option == 0 || option == 1){
-            //     childTsp.getCoordinates().get(choice).setX(ave);
-            // }
-            // else{
-            //     childTsp.getCoordinates().get(choice).setY(ave);
-            // }
+            //Mutate the child by sending it further into the extreme
             if(option == 0 || option == 2){
                 childTsp.getCoordinates().get(choice).scalar_factor(0.999);
             }
@@ -132,14 +125,8 @@ public class EvolutionaryAlgorithm2 implements IEvolutionary
             }
 
         }
-        System.out.println("DEBUG VALUES (Replaces VS Unchanged): " + debug1 + ":" + debug2);
-        System.out.println("Final fitness: " + currentFitness);
+        // System.out.println("DEBUG VALUES (Replaces VS Unchanged): " + debug1 + ":" + debug2);
+        // System.out.println("Final fitness: " + currentFitness);
+        System.out.println(currentFitness);
     }
-
-    // private Point mutate(Point p1, Point p2, boolean method)
-    // {
-    //     double temp = x;
-    //     x = y;
-    //     y = temp;
-    // }
 }
