@@ -189,41 +189,34 @@ public class Main
                 perform.fitnessPairTwoOptAlg2(Integer.parseInt(args[2]), Integer.parseInt(args[3]));
             }
         }
+        if (args[0].equals("4"))
+        {
+            // Exercise 1 requires a number of cities. 
+            if (args.length != 2)
+            {
+                System.out.println("Improper usage for the bonus part. Arguments are:");
+                System.out.println("4 <number of cities>");
+                System.exit(1);
+            }
+            int numberCities = 0;
+            try
+            {
+                numberCities = Integer.parseInt(args[1]);
+            }
+            catch (NumberFormatException e)
+            {
+                System.out.println("Invalid number of cities: " + args[1]);
+                System.exit(1);
+            }
+
+            //Output is very varied. Once I saw a TSP instance with fitness of around 1600 and other times 200
+            TSP_Instance tsp2 = new TSP_Instance(numberCities, 0, 50);
+            ExtremistEA extremist = new ExtremistEA();
+            extremist.EvolutionaryAlgorithm(tsp2);
         else
         {
             System.out.println("Error: Invalid exercise number: " + args[0] + ". Must be 1, 2 or 3");
         }
-        
-        // TSPEvolutionaryAlgorithm alg = new TSPEvolutionaryAlgorithm(0.05, 4, 1000);
-        // TSPEvolutionaryAlgorithm algB = new TSPEvolutionaryAlgorithm(0.05, 4, 1000);
-        // ArrayList<TSP_Instance> population = new ArrayList<TSP_Instance>();
-        // ArrayList<TSP_Instance> populationB = new ArrayList<TSP_Instance>();
-        // int population_size = 10;
-        // int instance_size = 100;
-        // for (int i = 0; i < population_size; i++)
-        // {
-        //     population.add(new TSP_Instance(instance_size, 0, 100));
-        //     populationB.add(new TSP_Instance(instance_size, 0, 100));
-        // }
-        
-        // TwoOptFitnessFunction fitness = new TwoOptFitnessFunction();
-        // FastNovaMutation mutator = new FastNovaMutation(3);
-        // SuperNovaMutation superMutator = new SuperNovaMutation(0, 0, 100, 100);
-        // MeanTSPCrossover crossover = new MeanTSPCrossover();
-        
-        // long startTimeA = System.nanoTime();
-        // alg.evolutionaryAlgorithm(population, fitness, mutator, crossover);
-        // long endTimeA = System.nanoTime();
-        
-        // System.out.println("FastNova run time: " + (endTimeA - startTimeA));
-        
-        // long startTimeB = System.nanoTime();
-        // algB.evolutionaryAlgorithm(populationB, fitness, superMutator, crossover);
-        // long endTimeB = System.nanoTime();
-        
-        // System.out.println("SuperNova run time: " + (endTimeB - startTimeB));
-  
-        
         
         return;
     }
