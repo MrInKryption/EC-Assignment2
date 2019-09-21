@@ -9,7 +9,7 @@ public class FastNovaMutation implements ITSPMutation
 {   
     // Number of points to target in each iteration. 
     int targets;
-    
+    //added to push
     // Constructor for fastnova mutator.
     // Target count is the number of points to alter in each mutation -
     // targetCount points are exploded, and targetCount points are imploded. 
@@ -62,7 +62,7 @@ public class FastNovaMutation implements ITSPMutation
             Point explodeTarget = points.get(explodeIndex);
             Point implodeTarget = points.get(implodeIndex);
             points.set(explodeIndex, explode(explodeTarget, center, explodeTarget.distance(center) * 1.1));
-            points.set(implodeIndex, explode(implodeTarget, center, implodeTarget.distance(center) * 1.1));
+            points.set(implodeIndex, implode(implodeTarget, center, implodeTarget.distance(center) * 1.1));
         }
         
         return new TSP_Instance(points);
