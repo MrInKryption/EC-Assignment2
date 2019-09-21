@@ -123,10 +123,10 @@ public class TSP_Instance
     }
 
     // Gets the euclidean distance between cities i and j.
-    public double getDistance(int i, int j)
+    public double getDistance(Point i, Point j)
     {
-        double x_diff = coordinates.get(i).getX() - coordinates.get(j).getX();
-        double y_diff = coordinates.get(i).getY() - coordinates.get(j).getY();
+        double x_diff = i.getX() - j.getX();
+        double y_diff = i.getY() - j.getY();
         double x_pow = Math.pow(Math.abs(x_diff), 2);
         double y_pow = Math.pow(Math.abs(y_diff), 2);
         double root = Math.sqrt(x_pow + y_pow);
@@ -137,12 +137,12 @@ public class TSP_Instance
     public double getTotalDistance(ArrayList<Integer> solution)
     {
         double total = 0;
-        total += getDistance(0, solution.get(0));
+        total += getDistance(coordinates.get(0), coordinates.get(solution.get(0)));
         for (int i = 0; i < solution.size()-1; i++)
         {
-            total += getDistance(solution.get(i), solution.get(i+1));
+            total += getDistance(coordinates.get(solution.get(i)), coordinates.get(solution.get(i+1)));
         }
-        total += getDistance(solution.get(solution.size()-1), 0);
+        total += getDistance(coordinates.get(solution.get(solution.size()-1)), coordinates.get(0));
         return total;
     }
     

@@ -36,6 +36,10 @@ public class Main
             TSP_Instance tsp = new TSP_Instance(numberCities, 0, 50);
             OnePlusOneEA onePlusOne = new OnePlusOneEA();
             onePlusOne.EvolutionaryAlgorithm(tsp);
+
+            TSP_Instance tsp2 = new TSP_Instance(numberCities, 0, 50);
+            ExtremistEA extremist = new ExtremistEA();
+            extremist.EvolutionaryAlgorithm(tsp2);
         }
         else if (args[0].equals("2"))
         {

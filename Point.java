@@ -35,7 +35,7 @@ public class Point
         x = y;
         y = temp;
     }
-    
+
     // Returns the distance between this point and the
     // other point.
     public double distance(Point other)
