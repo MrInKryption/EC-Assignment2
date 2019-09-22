@@ -123,10 +123,12 @@ public class ExtremistEA implements IEvolutionary
             else if (childFitness < currentFitness){
                 debug2++;
             }
-
+            System.out.println(runs);
         }
         // System.out.println("DEBUG VALUES (Replaces VS Unchanged): " + debug1 + ":" + debug2);
         // System.out.println("Final fitness: " + currentFitness);
         System.out.println(currentFitness);
+
+        currentTsp.print();
     }
 }
