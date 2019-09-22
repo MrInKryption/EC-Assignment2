@@ -7,7 +7,7 @@ David Harley - a1688375 - david.harley@student.adelaide.edu.au               par
 Jayden Boskell - a1705111 - jayden.boskell@student.adelaide.edu.au           part 2\
 Raymond Habis - a1631834 - raymond.habis@student.adelaide.edu.au             part 1\
 Matthew Durflinger - a1669837 - matthew.durflinger@student.adelaide.edu.au   part 3\
-Patrick Ellway - a1717790 - patrick.ellway@student.adelaide.edu.au           part 3\
+Patrick Ellway - a1717790 - patrick.ellway@student.adelaide.edu.au           part 3
 
 ### Running the code
 
@@ -43,12 +43,12 @@ java Main a b c d e f
 
 a = 3
 
-b: 1 = Inver - TwoOp
-   2 = Inver / TwoOp
-   3 = Inver - Genetic Algorithm
-   4 = Inver / Genetic Algorithm
-   5 = TwoOpt - Genetic Algorithm
-   6 = TwoOpt / Genetic Algorithm
+b: 1 = Inver - TwoOp\
+   2 = Inver / TwoOp\
+   3 = Inver - Genetic Algorithm\
+   4 = Inver / Genetic Algorithm\
+   5 = TwoOpt - Genetic Algorithm\
+   6 = TwoOpt / Genetic Algorithm\
 
 c: 1 = Mean Crossover
    2 = schoolyard Teams Crossover
