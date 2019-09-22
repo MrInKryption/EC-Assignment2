@@ -1,0 +1,7023 @@
+doing generation: 0
+
+Generations Run: 1.0
+Generation fitness average: 237.0
+Overall fitness Average: 237.0
+Best fitness: 413.8
+
+doing generation: 1
+
+Generations Run: 2.0
+Generation fitness average: 388.0
+Overall fitness Average: 312.5
+Best fitness: 413.8
+
+doing generation: 2
+
+Generations Run: 3.0
+Generation fitness average: 400.0
+Overall fitness Average: 341.6666666666667
+Best fitness: 417.2
+
+doing generation: 3
+
+Generations Run: 4.0
+Generation fitness average: 401.0
+Overall fitness Average: 356.5
+Best fitness: 417.2
+
+doing generation: 4
+
+Generations Run: 5.0
+Generation fitness average: 406.0
+Overall fitness Average: 366.4
+Best fitness: 428.0
+
+doing generation: 5
+
+Generations Run: 6.0
+Generation fitness average: 407.0
+Overall fitness Average: 373.1666666666667
+Best fitness: 428.0
+
+doing generation: 6
+
+Generations Run: 7.0
+Generation fitness average: 407.0
+Overall fitness Average: 378.0
+Best fitness: 428.0
+
+doing generation: 7
+
+Generations Run: 8.0
+Generation fitness average: 409.0
+Overall fitness Average: 381.875
+Best fitness: 428.0
+
+doing generation: 8
+
+Generations Run: 9.0
+Generation fitness average: 411.0
+Overall fitness Average: 385.1111111111111
+Best fitness: 428.0
+
+doing generation: 9
+
+Generations Run: 10.0
+Generation fitness average: 411.0
+Overall fitness Average: 387.7
+Best fitness: 428.0
+
+doing generation: 10
+
+Generations Run: 11.0
+Generation fitness average: 414.0
+Overall fitness Average: 390.09090909090907
+Best fitness: 428.2
+
+doing generation: 11
+
+Generations Run: 12.0
+Generation fitness average: 415.0
+Overall fitness Average: 392.1666666666667
+Best fitness: 428.2
+
+doing generation: 12
+
+Generations Run: 13.0
+Generation fitness average: 415.0
+Overall fitness Average: 393.9230769230769
+Best fitness: 428.2
+
+doing generation: 13
+
+Generations Run: 14.0
+Generation fitness average: 415.0
+Overall fitness Average: 395.42857142857144
+Best fitness: 428.2
+
+doing generation: 14
+
+Generations Run: 15.0
+Generation fitness average: 415.0
+Overall fitness Average: 396.73333333333335
+Best fitness: 428.2
+
+doing generation: 15
+
+Generations Run: 16.0
+Generation fitness average: 416.0
+Overall fitness Average: 397.9375
+Best fitness: 428.2
+
+doing generation: 16
+
+Generations Run: 17.0
+Generation fitness average: 416.0
+Overall fitness Average: 399.0
+Best fitness: 428.2
+
+doing generation: 17
+
+Generations Run: 18.0
+Generation fitness average: 416.0
+Overall fitness Average: 399.94444444444446
+Best fitness: 428.2
+
+doing generation: 18
+
+Generations Run: 19.0
+Generation fitness average: 416.0
+Overall fitness Average: 400.7894736842105
+Best fitness: 428.2
+
+doing generation: 19
+
+Generations Run: 20.0
+Generation fitness average: 416.0
+Overall fitness Average: 401.55
+Best fitness: 428.2
+
+doing generation: 20
+
+Generations Run: 21.0
+Generation fitness average: 416.0
+Overall fitness Average: 402.23809523809524
+Best fitness: 428.2
+
+doing generation: 21
+
+Generations Run: 22.0
+Generation fitness average: 416.0
+Overall fitness Average: 402.8636363636364
+Best fitness: 428.2
+
+doing generation: 22
+
+Generations Run: 23.0
+Generation fitness average: 416.0
+Overall fitness Average: 403.4347826086956
+Best fitness: 428.2
+
+doing generation: 23
+
+Generations Run: 24.0
+Generation fitness average: 417.0
+Overall fitness Average: 404.0
+Best fitness: 428.2
+
+doing generation: 24
+
+Generations Run: 25.0
+Generation fitness average: 417.0
+Overall fitness Average: 404.52
+Best fitness: 428.2
+
+doing generation: 25
+
+Generations Run: 26.0
+Generation fitness average: 417.0
+Overall fitness Average: 405.0
+Best fitness: 428.2
+
+doing generation: 26
+
+Generations Run: 27.0
+Generation fitness average: 417.0
+Overall fitness Average: 405.44444444444446
+Best fitness: 428.2
+
+doing generation: 27
+
+Generations Run: 28.0
+Generation fitness average: 417.0
+Overall fitness Average: 405.85714285714283
+Best fitness: 428.2
+
+doing generation: 28
+
+Generations Run: 29.0
+Generation fitness average: 418.0
+Overall fitness Average: 406.2758620689655
+Best fitness: 428.2
+
+doing generation: 29
+
+Generations Run: 30.0
+Generation fitness average: 418.0
+Overall fitness Average: 406.6666666666667
+Best fitness: 428.2
+
+doing generation: 30
+
+Generations Run: 31.0
+Generation fitness average: 418.0
+Overall fitness Average: 407.03225806451616
+Best fitness: 428.2
+
+doing generation: 31
+
+Generations Run: 32.0
+Generation fitness average: 418.0
+Overall fitness Average: 407.375
+Best fitness: 428.2
+
+doing generation: 32
+
+Generations Run: 33.0
+Generation fitness average: 418.0
+Overall fitness Average: 407.6969696969697
+Best fitness: 428.2
+
+doing generation: 33
+
+Generations Run: 34.0
+Generation fitness average: 418.0
+Overall fitness Average: 408.0
+Best fitness: 428.2
+
+doing generation: 34
+
+Generations Run: 35.0
+Generation fitness average: 418.0
+Overall fitness Average: 408.2857142857143
+Best fitness: 428.2
+
+doing generation: 35
+
+Generations Run: 36.0
+Generation fitness average: 418.0
+Overall fitness Average: 408.55555555555554
+Best fitness: 428.2
+
+doing generation: 36
+
+Generations Run: 37.0
+Generation fitness average: 418.0
+Overall fitness Average: 408.81081081081084
+Best fitness: 428.2
+
+doing generation: 37
+
+Generations Run: 38.0
+Generation fitness average: 418.0
+Overall fitness Average: 409.05263157894734
+Best fitness: 428.2
+
+doing generation: 38
+
+Generations Run: 39.0
+Generation fitness average: 418.0
+Overall fitness Average: 409.28205128205127
+Best fitness: 428.2
+
+doing generation: 39
+
+Generations Run: 40.0
+Generation fitness average: 418.0
+Overall fitness Average: 409.5
+Best fitness: 428.2
+
+doing generation: 40
+
+Generations Run: 41.0
+Generation fitness average: 418.0
+Overall fitness Average: 409.7073170731707
+Best fitness: 428.2
+
+doing generation: 41
+
+Generations Run: 42.0
+Generation fitness average: 418.0
+Overall fitness Average: 409.9047619047619
+Best fitness: 428.2
+
+doing generation: 42
+
+Generations Run: 43.0
+Generation fitness average: 418.0
+Overall fitness Average: 410.09302325581393
+Best fitness: 428.2
+
+doing generation: 43
+
+Generations Run: 44.0
+Generation fitness average: 418.0
+Overall fitness Average: 410.27272727272725
+Best fitness: 428.2
+
+doing generation: 44
+
+Generations Run: 45.0
+Generation fitness average: 418.0
+Overall fitness Average: 410.44444444444446
+Best fitness: 428.2
+
+doing generation: 45
+
+Generations Run: 46.0
+Generation fitness average: 418.0
+Overall fitness Average: 410.60869565217394
+Best fitness: 428.2
+
+doing generation: 46
+
+Generations Run: 47.0
+Generation fitness average: 418.0
+Overall fitness Average: 410.7659574468085
+Best fitness: 428.2
+
+doing generation: 47
+
+Generations Run: 48.0
+Generation fitness average: 418.0
+Overall fitness Average: 410.9166666666667
+Best fitness: 428.2
+
+doing generation: 48
+
+Generations Run: 49.0
+Generation fitness average: 418.0
+Overall fitness Average: 411.0612244897959
+Best fitness: 428.2
+
+doing generation: 49
+
+Generations Run: 50.0
+Generation fitness average: 418.0
+Overall fitness Average: 411.2
+Best fitness: 428.2
+
+doing generation: 50
+
+Generations Run: 51.0
+Generation fitness average: 418.0
+Overall fitness Average: 411.3333333333333
+Best fitness: 428.2
+
+doing generation: 51
+
+Generations Run: 52.0
+Generation fitness average: 418.0
+Overall fitness Average: 411.46153846153845
+Best fitness: 428.2
+
+doing generation: 52
+
+Generations Run: 53.0
+Generation fitness average: 418.0
+Overall fitness Average: 411.58490566037733
+Best fitness: 428.2
+
+doing generation: 53
+
+Generations Run: 54.0
+Generation fitness average: 418.0
+Overall fitness Average: 411.7037037037037
+Best fitness: 428.2
+
+doing generation: 54
+
+Generations Run: 55.0
+Generation fitness average: 418.0
+Overall fitness Average: 411.8181818181818
+Best fitness: 428.2
+
+doing generation: 55
+
+Generations Run: 56.0
+Generation fitness average: 418.0
+Overall fitness Average: 411.92857142857144
+Best fitness: 428.2
+
+doing generation: 56
+
+Generations Run: 57.0
+Generation fitness average: 418.0
+Overall fitness Average: 412.03508771929825
+Best fitness: 428.2
+
+doing generation: 57
+
+Generations Run: 58.0
+Generation fitness average: 418.0
+Overall fitness Average: 412.13793103448273
+Best fitness: 428.2
+
+doing generation: 58
+
+Generations Run: 59.0
+Generation fitness average: 418.0
+Overall fitness Average: 412.23728813559325
+Best fitness: 428.2
+
+doing generation: 59
+
+Generations Run: 60.0
+Generation fitness average: 418.0
+Overall fitness Average: 412.3333333333333
+Best fitness: 428.2
+
+doing generation: 60
+
+Generations Run: 61.0
+Generation fitness average: 418.0
+Overall fitness Average: 412.42622950819674
+Best fitness: 428.2
+
+doing generation: 61
+
+Generations Run: 62.0
+Generation fitness average: 418.0
+Overall fitness Average: 412.51612903225805
+Best fitness: 428.2
+
+doing generation: 62
+
+Generations Run: 63.0
+Generation fitness average: 418.0
+Overall fitness Average: 412.6031746031746
+Best fitness: 428.2
+
+doing generation: 63
+
+Generations Run: 64.0
+Generation fitness average: 418.0
+Overall fitness Average: 412.6875
+Best fitness: 428.2
+
+doing generation: 64
+
+Generations Run: 65.0
+Generation fitness average: 418.0
+Overall fitness Average: 412.7692307692308
+Best fitness: 428.2
+
+doing generation: 65
+
+Generations Run: 66.0
+Generation fitness average: 418.0
+Overall fitness Average: 412.8484848484849
+Best fitness: 428.2
+
+doing generation: 66
+
+Generations Run: 67.0
+Generation fitness average: 418.0
+Overall fitness Average: 412.92537313432837
+Best fitness: 428.2
+
+doing generation: 67
+
+Generations Run: 68.0
+Generation fitness average: 419.0
+Overall fitness Average: 413.0147058823529
+Best fitness: 428.2
+
+doing generation: 68
+
+Generations Run: 69.0
+Generation fitness average: 419.0
+Overall fitness Average: 413.1014492753623
+Best fitness: 428.2
+
+doing generation: 69
+
+Generations Run: 70.0
+Generation fitness average: 419.0
+Overall fitness Average: 413.1857142857143
+Best fitness: 428.2
+
+doing generation: 70
+
+Generations Run: 71.0
+Generation fitness average: 419.0
+Overall fitness Average: 413.2676056338028
+Best fitness: 428.2
+
+doing generation: 71
+
+Generations Run: 72.0
+Generation fitness average: 419.0
+Overall fitness Average: 413.34722222222223
+Best fitness: 428.2
+
+doing generation: 72
+
+Generations Run: 73.0
+Generation fitness average: 419.0
+Overall fitness Average: 413.4246575342466
+Best fitness: 428.2
+
+doing generation: 73
+
+Generations Run: 74.0
+Generation fitness average: 419.0
+Overall fitness Average: 413.5
+Best fitness: 428.2
+
+doing generation: 74
+
+Generations Run: 75.0
+Generation fitness average: 419.0
+Overall fitness Average: 413.5733333333333
+Best fitness: 428.2
+
+doing generation: 75
+
+Generations Run: 76.0
+Generation fitness average: 419.0
+Overall fitness Average: 413.64473684210526
+Best fitness: 428.2
+
+doing generation: 76
+
+Generations Run: 77.0
+Generation fitness average: 419.0
+Overall fitness Average: 413.7142857142857
+Best fitness: 428.2
+
+doing generation: 77
+
+Generations Run: 78.0
+Generation fitness average: 419.0
+Overall fitness Average: 413.78205128205127
+Best fitness: 428.2
+
+doing generation: 78
+
+Generations Run: 79.0
+Generation fitness average: 419.0
+Overall fitness Average: 413.8481012658228
+Best fitness: 428.2
+
+doing generation: 79
+
+Generations Run: 80.0
+Generation fitness average: 419.0
+Overall fitness Average: 413.9125
+Best fitness: 428.2
+
+doing generation: 80
+
+Generations Run: 81.0
+Generation fitness average: 419.0
+Overall fitness Average: 413.9753086419753
+Best fitness: 428.2
+
+doing generation: 81
+
+Generations Run: 82.0
+Generation fitness average: 419.0
+Overall fitness Average: 414.0365853658537
+Best fitness: 428.2
+
+doing generation: 82
+
+Generations Run: 83.0
+Generation fitness average: 419.0
+Overall fitness Average: 414.09638554216866
+Best fitness: 428.2
+
+doing generation: 83
+
+Generations Run: 84.0
+Generation fitness average: 419.0
+Overall fitness Average: 414.1547619047619
+Best fitness: 428.2
+
+doing generation: 84
+
+Generations Run: 85.0
+Generation fitness average: 419.0
+Overall fitness Average: 414.21176470588233
+Best fitness: 428.2
+
+doing generation: 85
+
+Generations Run: 86.0
+Generation fitness average: 419.0
+Overall fitness Average: 414.2674418604651
+Best fitness: 428.2
+
+doing generation: 86
+
+Generations Run: 87.0
+Generation fitness average: 419.0
+Overall fitness Average: 414.32183908045977
+Best fitness: 428.2
+
+doing generation: 87
+
+Generations Run: 88.0
+Generation fitness average: 419.0
+Overall fitness Average: 414.375
+Best fitness: 428.2
+
+doing generation: 88
+
+Generations Run: 89.0
+Generation fitness average: 419.0
+Overall fitness Average: 414.4269662921348
+Best fitness: 428.2
+
+doing generation: 89
+
+Generations Run: 90.0
+Generation fitness average: 419.0
+Overall fitness Average: 414.47777777777776
+Best fitness: 428.2
+
+doing generation: 90
+
+Generations Run: 91.0
+Generation fitness average: 419.0
+Overall fitness Average: 414.5274725274725
+Best fitness: 428.2
+
+doing generation: 91
+
+Generations Run: 92.0
+Generation fitness average: 419.0
+Overall fitness Average: 414.57608695652175
+Best fitness: 428.2
+
+doing generation: 92
+
+Generations Run: 93.0
+Generation fitness average: 419.0
+Overall fitness Average: 414.6236559139785
+Best fitness: 428.2
+
+doing generation: 93
+
+Generations Run: 94.0
+Generation fitness average: 419.0
+Overall fitness Average: 414.67021276595744
+Best fitness: 428.2
+
+doing generation: 94
+
+Generations Run: 95.0
+Generation fitness average: 419.0
+Overall fitness Average: 414.7157894736842
+Best fitness: 428.2
+
+doing generation: 95
+
+Generations Run: 96.0
+Generation fitness average: 420.0
+Overall fitness Average: 414.7708333333333
+Best fitness: 428.2
+
+doing generation: 96
+
+Generations Run: 97.0
+Generation fitness average: 420.0
+Overall fitness Average: 414.82474226804123
+Best fitness: 428.2
+
+doing generation: 97
+
+Generations Run: 98.0
+Generation fitness average: 420.0
+Overall fitness Average: 414.8775510204082
+Best fitness: 428.2
+
+doing generation: 98
+
+Generations Run: 99.0
+Generation fitness average: 420.0
+Overall fitness Average: 414.92929292929296
+Best fitness: 428.2
+
+doing generation: 99
+
+Generations Run: 100.0
+Generation fitness average: 420.0
+Overall fitness Average: 414.98
+Best fitness: 428.2
+
+doing generation: 100
+
+Generations Run: 101.0
+Generation fitness average: 420.0
+Overall fitness Average: 415.029702970297
+Best fitness: 428.2
+
+doing generation: 101
+
+Generations Run: 102.0
+Generation fitness average: 420.0
+Overall fitness Average: 415.078431372549
+Best fitness: 428.2
+
+doing generation: 102
+
+Generations Run: 103.0
+Generation fitness average: 420.0
+Overall fitness Average: 415.126213592233
+Best fitness: 428.2
+
+doing generation: 103
+
+Generations Run: 104.0
+Generation fitness average: 421.0
+Overall fitness Average: 415.1826923076923
+Best fitness: 428.2
+
+doing generation: 104
+
+Generations Run: 105.0
+Generation fitness average: 421.0
+Overall fitness Average: 415.23809523809524
+Best fitness: 428.2
+
+doing generation: 105
+
+Generations Run: 106.0
+Generation fitness average: 421.0
+Overall fitness Average: 415.29245283018867
+Best fitness: 428.2
+
+doing generation: 106
+
+Generations Run: 107.0
+Generation fitness average: 421.0
+Overall fitness Average: 415.3457943925234
+Best fitness: 428.2
+
+doing generation: 107
+
+Generations Run: 108.0
+Generation fitness average: 421.0
+Overall fitness Average: 415.39814814814815
+Best fitness: 428.2
+
+doing generation: 108
+
+Generations Run: 109.0
+Generation fitness average: 421.0
+Overall fitness Average: 415.44954128440367
+Best fitness: 428.2
+
+doing generation: 109
+
+Generations Run: 110.0
+Generation fitness average: 421.0
+Overall fitness Average: 415.5
+Best fitness: 428.2
+
+doing generation: 110
+
+Generations Run: 111.0
+Generation fitness average: 421.0
+Overall fitness Average: 415.54954954954957
+Best fitness: 428.2
+
+doing generation: 111
+
+Generations Run: 112.0
+Generation fitness average: 421.0
+Overall fitness Average: 415.5982142857143
+Best fitness: 428.2
+
+doing generation: 112
+
+Generations Run: 113.0
+Generation fitness average: 421.0
+Overall fitness Average: 415.646017699115
+Best fitness: 428.2
+
+doing generation: 113
+
+Generations Run: 114.0
+Generation fitness average: 421.0
+Overall fitness Average: 415.6929824561403
+Best fitness: 428.2
+
+doing generation: 114
+
+Generations Run: 115.0
+Generation fitness average: 421.0
+Overall fitness Average: 415.7391304347826
+Best fitness: 428.2
+
+doing generation: 115
+
+Generations Run: 116.0
+Generation fitness average: 421.0
+Overall fitness Average: 415.7844827586207
+Best fitness: 428.2
+
+doing generation: 116
+
+Generations Run: 117.0
+Generation fitness average: 421.0
+Overall fitness Average: 415.8290598290598
+Best fitness: 428.2
+
+doing generation: 117
+
+Generations Run: 118.0
+Generation fitness average: 421.0
+Overall fitness Average: 415.8728813559322
+Best fitness: 428.2
+
+doing generation: 118
+
+Generations Run: 119.0
+Generation fitness average: 421.0
+Overall fitness Average: 415.9159663865546
+Best fitness: 428.2
+
+doing generation: 119
+
+Generations Run: 120.0
+Generation fitness average: 421.0
+Overall fitness Average: 415.9583333333333
+Best fitness: 428.2
+
+doing generation: 120
+
+Generations Run: 121.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.0
+Best fitness: 428.2
+
+doing generation: 121
+
+Generations Run: 122.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.0409836065574
+Best fitness: 428.2
+
+doing generation: 122
+
+Generations Run: 123.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.0813008130081
+Best fitness: 428.2
+
+doing generation: 123
+
+Generations Run: 124.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.1209677419355
+Best fitness: 428.2
+
+doing generation: 124
+
+Generations Run: 125.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.16
+Best fitness: 428.2
+
+doing generation: 125
+
+Generations Run: 126.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.1984126984127
+Best fitness: 428.2
+
+doing generation: 126
+
+Generations Run: 127.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.23622047244095
+Best fitness: 428.2
+
+doing generation: 127
+
+Generations Run: 128.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.2734375
+Best fitness: 428.2
+
+doing generation: 128
+
+Generations Run: 129.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.31007751937983
+Best fitness: 428.2
+
+doing generation: 129
+
+Generations Run: 130.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.34615384615387
+Best fitness: 428.2
+
+doing generation: 130
+
+Generations Run: 131.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.381679389313
+Best fitness: 428.2
+
+doing generation: 131
+
+Generations Run: 132.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.4166666666667
+Best fitness: 428.2
+
+doing generation: 132
+
+Generations Run: 133.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.45112781954884
+Best fitness: 428.2
+
+doing generation: 133
+
+Generations Run: 134.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.4850746268657
+Best fitness: 428.2
+
+doing generation: 134
+
+Generations Run: 135.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.51851851851853
+Best fitness: 428.2
+
+doing generation: 135
+
+Generations Run: 136.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.5514705882353
+Best fitness: 428.2
+
+doing generation: 136
+
+Generations Run: 137.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.5839416058394
+Best fitness: 428.2
+
+doing generation: 137
+
+Generations Run: 138.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.6159420289855
+Best fitness: 428.2
+
+doing generation: 138
+
+Generations Run: 139.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.6474820143885
+Best fitness: 428.2
+
+doing generation: 139
+
+Generations Run: 140.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.67857142857144
+Best fitness: 428.2
+
+doing generation: 140
+
+Generations Run: 141.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.709219858156
+Best fitness: 428.2
+
+doing generation: 141
+
+Generations Run: 142.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.73943661971833
+Best fitness: 428.2
+
+doing generation: 142
+
+Generations Run: 143.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.7692307692308
+Best fitness: 428.2
+
+doing generation: 143
+
+Generations Run: 144.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.7986111111111
+Best fitness: 428.2
+
+doing generation: 144
+
+Generations Run: 145.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.82758620689657
+Best fitness: 428.2
+
+doing generation: 145
+
+Generations Run: 146.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.85616438356163
+Best fitness: 428.2
+
+doing generation: 146
+
+Generations Run: 147.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.8843537414966
+Best fitness: 428.2
+
+doing generation: 147
+
+Generations Run: 148.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.9121621621622
+Best fitness: 428.2
+
+doing generation: 148
+
+Generations Run: 149.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.93959731543623
+Best fitness: 428.2
+
+doing generation: 149
+
+Generations Run: 150.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.96666666666664
+Best fitness: 428.2
+
+doing generation: 150
+
+Generations Run: 151.0
+Generation fitness average: 421.0
+Overall fitness Average: 416.9933774834437
+Best fitness: 428.2
+
+doing generation: 151
+
+Generations Run: 152.0
+Generation fitness average: 421.0
+Overall fitness Average: 417.01973684210526
+Best fitness: 428.2
+
+doing generation: 152
+
+Generations Run: 153.0
+Generation fitness average: 421.0
+Overall fitness Average: 417.0457516339869
+Best fitness: 428.2
+
+doing generation: 153
+
+Generations Run: 154.0
+Generation fitness average: 421.0
+Overall fitness Average: 417.07142857142856
+Best fitness: 428.2
+
+doing generation: 154
+
+Generations Run: 155.0
+Generation fitness average: 421.0
+Overall fitness Average: 417.0967741935484
+Best fitness: 428.2
+
+doing generation: 155
+
+Generations Run: 156.0
+Generation fitness average: 421.0
+Overall fitness Average: 417.12179487179486
+Best fitness: 428.2
+
+doing generation: 156
+
+Generations Run: 157.0
+Generation fitness average: 421.0
+Overall fitness Average: 417.14649681528664
+Best fitness: 428.2
+
+doing generation: 157
+
+Generations Run: 158.0
+Generation fitness average: 421.0
+Overall fitness Average: 417.17088607594934
+Best fitness: 428.2
+
+doing generation: 158
+
+Generations Run: 159.0
+Generation fitness average: 421.0
+Overall fitness Average: 417.1949685534591
+Best fitness: 428.2
+
+doing generation: 159
+
+Generations Run: 160.0
+Generation fitness average: 421.0
+Overall fitness Average: 417.21875
+Best fitness: 428.2
+
+doing generation: 160
+
+Generations Run: 161.0
+Generation fitness average: 421.0
+Overall fitness Average: 417.2422360248447
+Best fitness: 428.2
+
+doing generation: 161
+
+Generations Run: 162.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.2716049382716
+Best fitness: 428.2
+
+doing generation: 162
+
+Generations Run: 163.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.3006134969325
+Best fitness: 428.2
+
+doing generation: 163
+
+Generations Run: 164.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.3292682926829
+Best fitness: 428.2
+
+doing generation: 164
+
+Generations Run: 165.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.3575757575758
+Best fitness: 428.2
+
+doing generation: 165
+
+Generations Run: 166.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.3855421686747
+Best fitness: 428.2
+
+doing generation: 166
+
+Generations Run: 167.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.41317365269464
+Best fitness: 428.2
+
+doing generation: 167
+
+Generations Run: 168.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.4404761904762
+Best fitness: 428.2
+
+doing generation: 168
+
+Generations Run: 169.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.4674556213018
+Best fitness: 428.2
+
+doing generation: 169
+
+Generations Run: 170.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.49411764705883
+Best fitness: 428.2
+
+doing generation: 170
+
+Generations Run: 171.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.5204678362573
+Best fitness: 428.2
+
+doing generation: 171
+
+Generations Run: 172.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.54651162790697
+Best fitness: 428.2
+
+doing generation: 172
+
+Generations Run: 173.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.57225433526014
+Best fitness: 428.2
+
+doing generation: 173
+
+Generations Run: 174.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.5977011494253
+Best fitness: 428.2
+
+doing generation: 174
+
+Generations Run: 175.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.62285714285713
+Best fitness: 428.2
+
+doing generation: 175
+
+Generations Run: 176.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.64772727272725
+Best fitness: 428.2
+
+doing generation: 176
+
+Generations Run: 177.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.6723163841808
+Best fitness: 428.2
+
+doing generation: 177
+
+Generations Run: 178.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.69662921348316
+Best fitness: 428.2
+
+doing generation: 178
+
+Generations Run: 179.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.72067039106145
+Best fitness: 428.2
+
+doing generation: 179
+
+Generations Run: 180.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.74444444444447
+Best fitness: 428.2
+
+doing generation: 180
+
+Generations Run: 181.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.76795580110496
+Best fitness: 428.2
+
+doing generation: 181
+
+Generations Run: 182.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.7912087912088
+Best fitness: 428.2
+
+doing generation: 182
+
+Generations Run: 183.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.8142076502732
+Best fitness: 428.2
+
+doing generation: 183
+
+Generations Run: 184.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.8369565217391
+Best fitness: 428.2
+
+doing generation: 184
+
+Generations Run: 185.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.85945945945946
+Best fitness: 428.2
+
+doing generation: 185
+
+Generations Run: 186.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.8817204301075
+Best fitness: 428.2
+
+doing generation: 186
+
+Generations Run: 187.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.903743315508
+Best fitness: 428.2
+
+doing generation: 187
+
+Generations Run: 188.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.9255319148936
+Best fitness: 428.2
+
+doing generation: 188
+
+Generations Run: 189.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.9470899470899
+Best fitness: 428.2
+
+doing generation: 189
+
+Generations Run: 190.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.9684210526316
+Best fitness: 428.2
+
+doing generation: 190
+
+Generations Run: 191.0
+Generation fitness average: 422.0
+Overall fitness Average: 417.9895287958115
+Best fitness: 428.2
+
+doing generation: 191
+
+Generations Run: 192.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.0104166666667
+Best fitness: 428.2
+
+doing generation: 192
+
+Generations Run: 193.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.03108808290153
+Best fitness: 428.2
+
+doing generation: 193
+
+Generations Run: 194.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.0515463917526
+Best fitness: 428.2
+
+doing generation: 194
+
+Generations Run: 195.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.07179487179485
+Best fitness: 428.2
+
+doing generation: 195
+
+Generations Run: 196.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.09183673469386
+Best fitness: 428.2
+
+doing generation: 196
+
+Generations Run: 197.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.11167512690355
+Best fitness: 428.2
+
+doing generation: 197
+
+Generations Run: 198.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.1313131313131
+Best fitness: 428.2
+
+doing generation: 198
+
+Generations Run: 199.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.1507537688442
+Best fitness: 428.2
+
+doing generation: 199
+
+Generations Run: 200.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.17
+Best fitness: 428.2
+
+doing generation: 200
+
+Generations Run: 201.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.18905472636817
+Best fitness: 428.2
+
+doing generation: 201
+
+Generations Run: 202.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.2079207920792
+Best fitness: 428.2
+
+doing generation: 202
+
+Generations Run: 203.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.2266009852217
+Best fitness: 428.2
+
+doing generation: 203
+
+Generations Run: 204.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.2450980392157
+Best fitness: 428.2
+
+doing generation: 204
+
+Generations Run: 205.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.26341463414633
+Best fitness: 428.2
+
+doing generation: 205
+
+Generations Run: 206.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.28155339805824
+Best fitness: 428.2
+
+doing generation: 206
+
+Generations Run: 207.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.2995169082126
+Best fitness: 428.2
+
+doing generation: 207
+
+Generations Run: 208.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.3173076923077
+Best fitness: 428.2
+
+doing generation: 208
+
+Generations Run: 209.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.3349282296651
+Best fitness: 428.2
+
+doing generation: 209
+
+Generations Run: 210.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.35238095238094
+Best fitness: 428.2
+
+doing generation: 210
+
+Generations Run: 211.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.3696682464455
+Best fitness: 428.2
+
+doing generation: 211
+
+Generations Run: 212.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.3867924528302
+Best fitness: 428.2
+
+doing generation: 212
+
+Generations Run: 213.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.4037558685446
+Best fitness: 428.2
+
+doing generation: 213
+
+Generations Run: 214.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.42056074766356
+Best fitness: 428.2
+
+doing generation: 214
+
+Generations Run: 215.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.4372093023256
+Best fitness: 428.2
+
+doing generation: 215
+
+Generations Run: 216.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.4537037037037
+Best fitness: 428.2
+
+doing generation: 216
+
+Generations Run: 217.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.4700460829493
+Best fitness: 428.2
+
+doing generation: 217
+
+Generations Run: 218.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.48623853211006
+Best fitness: 428.2
+
+doing generation: 218
+
+Generations Run: 219.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.50228310502285
+Best fitness: 428.2
+
+doing generation: 219
+
+Generations Run: 220.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.5181818181818
+Best fitness: 428.2
+
+doing generation: 220
+
+Generations Run: 221.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.5339366515837
+Best fitness: 428.2
+
+doing generation: 221
+
+Generations Run: 222.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.54954954954957
+Best fitness: 428.2
+
+doing generation: 222
+
+Generations Run: 223.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.56502242152465
+Best fitness: 428.2
+
+doing generation: 223
+
+Generations Run: 224.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.58035714285717
+Best fitness: 428.2
+
+doing generation: 224
+
+Generations Run: 225.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.59555555555556
+Best fitness: 428.2
+
+doing generation: 225
+
+Generations Run: 226.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.6106194690266
+Best fitness: 428.2
+
+doing generation: 226
+
+Generations Run: 227.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.62555066079295
+Best fitness: 428.2
+
+doing generation: 227
+
+Generations Run: 228.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.640350877193
+Best fitness: 428.2
+
+doing generation: 228
+
+Generations Run: 229.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.65502183406113
+Best fitness: 428.2
+
+doing generation: 229
+
+Generations Run: 230.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.6695652173913
+Best fitness: 428.2
+
+doing generation: 230
+
+Generations Run: 231.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.68398268398266
+Best fitness: 428.2
+
+doing generation: 231
+
+Generations Run: 232.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.69827586206895
+Best fitness: 428.2
+
+doing generation: 232
+
+Generations Run: 233.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.7124463519313
+Best fitness: 428.2
+
+doing generation: 233
+
+Generations Run: 234.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.7264957264957
+Best fitness: 428.2
+
+doing generation: 234
+
+Generations Run: 235.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.74042553191487
+Best fitness: 428.2
+
+doing generation: 235
+
+Generations Run: 236.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.7542372881356
+Best fitness: 428.2
+
+doing generation: 236
+
+Generations Run: 237.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.7679324894515
+Best fitness: 428.2
+
+doing generation: 237
+
+Generations Run: 238.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.781512605042
+Best fitness: 428.2
+
+doing generation: 238
+
+Generations Run: 239.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.7949790794979
+Best fitness: 428.2
+
+doing generation: 239
+
+Generations Run: 240.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.80833333333334
+Best fitness: 428.2
+
+doing generation: 240
+
+Generations Run: 241.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.8215767634855
+Best fitness: 428.2
+
+doing generation: 241
+
+Generations Run: 242.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.8347107438017
+Best fitness: 428.2
+
+doing generation: 242
+
+Generations Run: 243.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.8477366255144
+Best fitness: 428.2
+
+doing generation: 243
+
+Generations Run: 244.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.8606557377049
+Best fitness: 428.2
+
+doing generation: 244
+
+Generations Run: 245.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.8734693877551
+Best fitness: 428.2
+
+doing generation: 245
+
+Generations Run: 246.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.8861788617886
+Best fitness: 428.2
+
+doing generation: 246
+
+Generations Run: 247.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.8987854251012
+Best fitness: 428.2
+
+doing generation: 247
+
+Generations Run: 248.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.91129032258067
+Best fitness: 428.2
+
+doing generation: 248
+
+Generations Run: 249.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.9236947791165
+Best fitness: 428.2
+
+doing generation: 249
+
+Generations Run: 250.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.936
+Best fitness: 428.2
+
+doing generation: 250
+
+Generations Run: 251.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.9482071713147
+Best fitness: 428.2
+
+doing generation: 251
+
+Generations Run: 252.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.96031746031747
+Best fitness: 428.2
+
+doing generation: 252
+
+Generations Run: 253.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.97233201581025
+Best fitness: 428.2
+
+doing generation: 253
+
+Generations Run: 254.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.98425196850394
+Best fitness: 428.2
+
+doing generation: 254
+
+Generations Run: 255.0
+Generation fitness average: 422.0
+Overall fitness Average: 418.99607843137255
+Best fitness: 428.2
+
+doing generation: 255
+
+Generations Run: 256.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.0078125
+Best fitness: 428.2
+
+doing generation: 256
+
+Generations Run: 257.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.0194552529183
+Best fitness: 428.2
+
+doing generation: 257
+
+Generations Run: 258.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.031007751938
+Best fitness: 428.2
+
+doing generation: 258
+
+Generations Run: 259.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.04247104247105
+Best fitness: 428.2
+
+doing generation: 259
+
+Generations Run: 260.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.05384615384617
+Best fitness: 428.2
+
+doing generation: 260
+
+Generations Run: 261.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.06513409961684
+Best fitness: 428.2
+
+doing generation: 261
+
+Generations Run: 262.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.0763358778626
+Best fitness: 428.2
+
+doing generation: 262
+
+Generations Run: 263.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.0874524714829
+Best fitness: 428.2
+
+doing generation: 263
+
+Generations Run: 264.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.0984848484849
+Best fitness: 428.2
+
+doing generation: 264
+
+Generations Run: 265.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.1094339622642
+Best fitness: 428.2
+
+doing generation: 265
+
+Generations Run: 266.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.1203007518797
+Best fitness: 428.2
+
+doing generation: 266
+
+Generations Run: 267.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.1310861423221
+Best fitness: 428.2
+
+doing generation: 267
+
+Generations Run: 268.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.14179104477614
+Best fitness: 428.2
+
+doing generation: 268
+
+Generations Run: 269.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.1524163568773
+Best fitness: 428.2
+
+doing generation: 269
+
+Generations Run: 270.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.162962962963
+Best fitness: 428.2
+
+doing generation: 270
+
+Generations Run: 271.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.1734317343173
+Best fitness: 428.2
+
+doing generation: 271
+
+Generations Run: 272.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.18382352941177
+Best fitness: 428.2
+
+doing generation: 272
+
+Generations Run: 273.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.1941391941392
+Best fitness: 428.2
+
+doing generation: 273
+
+Generations Run: 274.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.2043795620438
+Best fitness: 428.2
+
+doing generation: 274
+
+Generations Run: 275.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.21454545454543
+Best fitness: 428.2
+
+doing generation: 275
+
+Generations Run: 276.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.22463768115944
+Best fitness: 428.2
+
+doing generation: 276
+
+Generations Run: 277.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.2346570397112
+Best fitness: 428.2
+
+doing generation: 277
+
+Generations Run: 278.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.24460431654677
+Best fitness: 428.2
+
+doing generation: 278
+
+Generations Run: 279.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.2544802867383
+Best fitness: 428.2
+
+doing generation: 279
+
+Generations Run: 280.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.26428571428573
+Best fitness: 428.2
+
+doing generation: 280
+
+Generations Run: 281.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.2740213523132
+Best fitness: 428.2
+
+doing generation: 281
+
+Generations Run: 282.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.2836879432624
+Best fitness: 428.2
+
+doing generation: 282
+
+Generations Run: 283.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.29328621908127
+Best fitness: 428.2
+
+doing generation: 283
+
+Generations Run: 284.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.30281690140845
+Best fitness: 428.2
+
+doing generation: 284
+
+Generations Run: 285.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.3122807017544
+Best fitness: 428.2
+
+doing generation: 285
+
+Generations Run: 286.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.32167832167835
+Best fitness: 428.2
+
+doing generation: 286
+
+Generations Run: 287.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.33101045296166
+Best fitness: 428.2
+
+doing generation: 287
+
+Generations Run: 288.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.34027777777777
+Best fitness: 428.2
+
+doing generation: 288
+
+Generations Run: 289.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.34948096885813
+Best fitness: 428.2
+
+doing generation: 289
+
+Generations Run: 290.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.3586206896552
+Best fitness: 428.2
+
+doing generation: 290
+
+Generations Run: 291.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.3676975945017
+Best fitness: 428.2
+
+doing generation: 291
+
+Generations Run: 292.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.3767123287671
+Best fitness: 428.2
+
+doing generation: 292
+
+Generations Run: 293.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.3856655290102
+Best fitness: 428.2
+
+doing generation: 293
+
+Generations Run: 294.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.3945578231293
+Best fitness: 428.2
+
+doing generation: 294
+
+Generations Run: 295.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.4033898305085
+Best fitness: 428.2
+
+doing generation: 295
+
+Generations Run: 296.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.4121621621622
+Best fitness: 428.2
+
+doing generation: 296
+
+Generations Run: 297.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.4208754208754
+Best fitness: 428.2
+
+doing generation: 297
+
+Generations Run: 298.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.4295302013423
+Best fitness: 428.2
+
+doing generation: 298
+
+Generations Run: 299.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.438127090301
+Best fitness: 428.2
+
+doing generation: 299
+
+Generations Run: 300.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.44666666666666
+Best fitness: 428.2
+
+doing generation: 300
+
+Generations Run: 301.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.45514950166114
+Best fitness: 428.2
+
+doing generation: 301
+
+Generations Run: 302.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.4635761589404
+Best fitness: 428.2
+
+doing generation: 302
+
+Generations Run: 303.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.47194719471946
+Best fitness: 428.2
+
+doing generation: 303
+
+Generations Run: 304.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.48026315789474
+Best fitness: 428.2
+
+doing generation: 304
+
+Generations Run: 305.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.48852459016393
+Best fitness: 428.2
+
+doing generation: 305
+
+Generations Run: 306.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.4967320261438
+Best fitness: 428.2
+
+doing generation: 306
+
+Generations Run: 307.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.50488599348535
+Best fitness: 428.2
+
+doing generation: 307
+
+Generations Run: 308.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.512987012987
+Best fitness: 428.2
+
+doing generation: 308
+
+Generations Run: 309.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.5210355987055
+Best fitness: 428.2
+
+doing generation: 309
+
+Generations Run: 310.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.5290322580645
+Best fitness: 428.2
+
+doing generation: 310
+
+Generations Run: 311.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.5369774919614
+Best fitness: 428.2
+
+doing generation: 311
+
+Generations Run: 312.0
+Generation fitness average: 422.0
+Overall fitness Average: 419.54487179487177
+Best fitness: 428.2
+
+doing generation: 312
+
+Generations Run: 313.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.555910543131
+Best fitness: 428.2
+
+doing generation: 313
+
+Generations Run: 314.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.5668789808917
+Best fitness: 428.2
+
+doing generation: 314
+
+Generations Run: 315.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.5777777777778
+Best fitness: 428.2
+
+doing generation: 315
+
+Generations Run: 316.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.5886075949367
+Best fitness: 428.2
+
+doing generation: 316
+
+Generations Run: 317.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.5993690851735
+Best fitness: 428.2
+
+doing generation: 317
+
+Generations Run: 318.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.61006289308176
+Best fitness: 428.2
+
+doing generation: 318
+
+Generations Run: 319.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.62068965517244
+Best fitness: 428.2
+
+doing generation: 319
+
+Generations Run: 320.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.63125
+Best fitness: 428.2
+
+doing generation: 320
+
+Generations Run: 321.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.6417445482866
+Best fitness: 428.2
+
+doing generation: 321
+
+Generations Run: 322.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.6521739130435
+Best fitness: 428.2
+
+doing generation: 322
+
+Generations Run: 323.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.6625386996904
+Best fitness: 428.2
+
+doing generation: 323
+
+Generations Run: 324.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.67283950617286
+Best fitness: 428.2
+
+doing generation: 324
+
+Generations Run: 325.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.6830769230769
+Best fitness: 428.2
+
+doing generation: 325
+
+Generations Run: 326.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.69325153374234
+Best fitness: 428.2
+
+doing generation: 326
+
+Generations Run: 327.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.7033639143731
+Best fitness: 428.2
+
+doing generation: 327
+
+Generations Run: 328.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.7134146341463
+Best fitness: 428.2
+
+doing generation: 328
+
+Generations Run: 329.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.72340425531917
+Best fitness: 428.2
+
+doing generation: 329
+
+Generations Run: 330.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.73333333333335
+Best fitness: 428.2
+
+doing generation: 330
+
+Generations Run: 331.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.74320241691845
+Best fitness: 428.2
+
+doing generation: 331
+
+Generations Run: 332.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.7530120481928
+Best fitness: 428.2
+
+doing generation: 332
+
+Generations Run: 333.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.76276276276275
+Best fitness: 428.2
+
+doing generation: 333
+
+Generations Run: 334.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.77245508982037
+Best fitness: 428.2
+
+doing generation: 334
+
+Generations Run: 335.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.7820895522388
+Best fitness: 428.2
+
+doing generation: 335
+
+Generations Run: 336.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.7916666666667
+Best fitness: 428.2
+
+doing generation: 336
+
+Generations Run: 337.0
+Generation fitness average: 423.0
+Overall fitness Average: 419.80118694362017
+Best fitness: 428.2
+
+doing generation: 337
+
+Generations Run: 338.0
+Generation fitness average: 425.0
+Overall fitness Average: 419.8165680473373
+Best fitness: 437.8
+
+doing generation: 338
+
+Generations Run: 339.0
+Generation fitness average: 425.0
+Overall fitness Average: 419.83185840707966
+Best fitness: 437.8
+
+doing generation: 339
+
+Generations Run: 340.0
+Generation fitness average: 425.0
+Overall fitness Average: 419.84705882352944
+Best fitness: 437.8
+
+doing generation: 340
+
+Generations Run: 341.0
+Generation fitness average: 425.0
+Overall fitness Average: 419.86217008797655
+Best fitness: 437.8
+
+doing generation: 341
+
+Generations Run: 342.0
+Generation fitness average: 425.0
+Overall fitness Average: 419.87719298245617
+Best fitness: 437.8
+
+doing generation: 342
+
+Generations Run: 343.0
+Generation fitness average: 425.0
+Overall fitness Average: 419.89212827988337
+Best fitness: 437.8
+
+doing generation: 343
+
+Generations Run: 344.0
+Generation fitness average: 425.0
+Overall fitness Average: 419.90697674418607
+Best fitness: 437.8
+
+doing generation: 344
+
+Generations Run: 345.0
+Generation fitness average: 425.0
+Overall fitness Average: 419.9217391304348
+Best fitness: 437.8
+
+doing generation: 345
+
+Generations Run: 346.0
+Generation fitness average: 425.0
+Overall fitness Average: 419.9364161849711
+Best fitness: 437.8
+
+doing generation: 346
+
+Generations Run: 347.0
+Generation fitness average: 425.0
+Overall fitness Average: 419.95100864553314
+Best fitness: 437.8
+
+doing generation: 347
+
+Generations Run: 348.0
+Generation fitness average: 425.0
+Overall fitness Average: 419.9655172413793
+Best fitness: 437.8
+
+doing generation: 348
+
+Generations Run: 349.0
+Generation fitness average: 425.0
+Overall fitness Average: 419.9799426934097
+Best fitness: 437.8
+
+doing generation: 349
+
+Generations Run: 350.0
+Generation fitness average: 425.0
+Overall fitness Average: 419.9942857142857
+Best fitness: 437.8
+
+doing generation: 350
+
+Generations Run: 351.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.008547008547
+Best fitness: 437.8
+
+doing generation: 351
+
+Generations Run: 352.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.02272727272725
+Best fitness: 437.8
+
+doing generation: 352
+
+Generations Run: 353.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.0368271954674
+Best fitness: 437.8
+
+doing generation: 353
+
+Generations Run: 354.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.0508474576271
+Best fitness: 437.8
+
+doing generation: 354
+
+Generations Run: 355.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.0647887323944
+Best fitness: 437.8
+
+doing generation: 355
+
+Generations Run: 356.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.07865168539325
+Best fitness: 437.8
+
+doing generation: 356
+
+Generations Run: 357.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.0924369747899
+Best fitness: 437.8
+
+doing generation: 357
+
+Generations Run: 358.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.10614525139664
+Best fitness: 437.8
+
+doing generation: 358
+
+Generations Run: 359.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.11977715877435
+Best fitness: 437.8
+
+doing generation: 359
+
+Generations Run: 360.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.1333333333333
+Best fitness: 437.8
+
+doing generation: 360
+
+Generations Run: 361.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.1468144044321
+Best fitness: 437.8
+
+doing generation: 361
+
+Generations Run: 362.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.16022099447514
+Best fitness: 437.8
+
+doing generation: 362
+
+Generations Run: 363.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.1735537190083
+Best fitness: 437.8
+
+doing generation: 363
+
+Generations Run: 364.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.1868131868132
+Best fitness: 437.8
+
+doing generation: 364
+
+Generations Run: 365.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.2
+Best fitness: 437.8
+
+doing generation: 365
+
+Generations Run: 366.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.21311475409834
+Best fitness: 437.8
+
+doing generation: 366
+
+Generations Run: 367.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.22615803814716
+Best fitness: 437.8
+
+doing generation: 367
+
+Generations Run: 368.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.2391304347826
+Best fitness: 437.8
+
+doing generation: 368
+
+Generations Run: 369.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.2520325203252
+Best fitness: 437.8
+
+doing generation: 369
+
+Generations Run: 370.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.2648648648649
+Best fitness: 437.8
+
+doing generation: 370
+
+Generations Run: 371.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.27762803234504
+Best fitness: 437.8
+
+doing generation: 371
+
+Generations Run: 372.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.2903225806452
+Best fitness: 437.8
+
+doing generation: 372
+
+Generations Run: 373.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.3029490616622
+Best fitness: 437.8
+
+doing generation: 373
+
+Generations Run: 374.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.3155080213904
+Best fitness: 437.8
+
+doing generation: 374
+
+Generations Run: 375.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.328
+Best fitness: 437.8
+
+doing generation: 375
+
+Generations Run: 376.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.3404255319149
+Best fitness: 437.8
+
+doing generation: 376
+
+Generations Run: 377.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.3527851458886
+Best fitness: 437.8
+
+doing generation: 377
+
+Generations Run: 378.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.36507936507934
+Best fitness: 437.8
+
+doing generation: 378
+
+Generations Run: 379.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.37730870712403
+Best fitness: 437.8
+
+doing generation: 379
+
+Generations Run: 380.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.38947368421054
+Best fitness: 437.8
+
+doing generation: 380
+
+Generations Run: 381.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.40157480314963
+Best fitness: 437.8
+
+doing generation: 381
+
+Generations Run: 382.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.413612565445
+Best fitness: 437.8
+
+doing generation: 382
+
+Generations Run: 383.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.4255874673629
+Best fitness: 437.8
+
+doing generation: 383
+
+Generations Run: 384.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.4375
+Best fitness: 437.8
+
+doing generation: 384
+
+Generations Run: 385.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.44935064935066
+Best fitness: 437.8
+
+doing generation: 385
+
+Generations Run: 386.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.4611398963731
+Best fitness: 437.8
+
+doing generation: 386
+
+Generations Run: 387.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.47286821705427
+Best fitness: 437.8
+
+doing generation: 387
+
+Generations Run: 388.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.4845360824742
+Best fitness: 437.8
+
+doing generation: 388
+
+Generations Run: 389.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.4961439588689
+Best fitness: 437.8
+
+doing generation: 389
+
+Generations Run: 390.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.5076923076923
+Best fitness: 437.8
+
+doing generation: 390
+
+Generations Run: 391.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.51918158567776
+Best fitness: 437.8
+
+doing generation: 391
+
+Generations Run: 392.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.53061224489795
+Best fitness: 437.8
+
+doing generation: 392
+
+Generations Run: 393.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.5419847328244
+Best fitness: 437.8
+
+doing generation: 393
+
+Generations Run: 394.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.5532994923858
+Best fitness: 437.8
+
+doing generation: 394
+
+Generations Run: 395.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.56455696202534
+Best fitness: 437.8
+
+doing generation: 395
+
+Generations Run: 396.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.57575757575756
+Best fitness: 437.8
+
+doing generation: 396
+
+Generations Run: 397.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.5869017632242
+Best fitness: 437.8
+
+doing generation: 397
+
+Generations Run: 398.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.59798994974875
+Best fitness: 437.8
+
+doing generation: 398
+
+Generations Run: 399.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.609022556391
+Best fitness: 437.8
+
+doing generation: 399
+
+Generations Run: 400.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.62
+Best fitness: 437.8
+
+doing generation: 400
+
+Generations Run: 401.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.6309226932668
+Best fitness: 437.8
+
+doing generation: 401
+
+Generations Run: 402.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.64179104477614
+Best fitness: 437.8
+
+doing generation: 402
+
+Generations Run: 403.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.6526054590571
+Best fitness: 437.8
+
+doing generation: 403
+
+Generations Run: 404.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.66336633663366
+Best fitness: 437.8
+
+doing generation: 404
+
+Generations Run: 405.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.6740740740741
+Best fitness: 437.8
+
+doing generation: 405
+
+Generations Run: 406.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.6847290640394
+Best fitness: 437.8
+
+doing generation: 406
+
+Generations Run: 407.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.6953316953317
+Best fitness: 437.8
+
+doing generation: 407
+
+Generations Run: 408.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.70588235294116
+Best fitness: 437.8
+
+doing generation: 408
+
+Generations Run: 409.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.7163814180929
+Best fitness: 437.8
+
+doing generation: 409
+
+Generations Run: 410.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.7268292682927
+Best fitness: 437.8
+
+doing generation: 410
+
+Generations Run: 411.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.73722627737226
+Best fitness: 437.8
+
+doing generation: 411
+
+Generations Run: 412.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.747572815534
+Best fitness: 437.8
+
+doing generation: 412
+
+Generations Run: 413.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.7578692493947
+Best fitness: 437.8
+
+doing generation: 413
+
+Generations Run: 414.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.768115942029
+Best fitness: 437.8
+
+doing generation: 414
+
+Generations Run: 415.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.7783132530121
+Best fitness: 437.8
+
+doing generation: 415
+
+Generations Run: 416.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.78846153846155
+Best fitness: 437.8
+
+doing generation: 416
+
+Generations Run: 417.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.7985611510791
+Best fitness: 437.8
+
+doing generation: 417
+
+Generations Run: 418.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.8086124401914
+Best fitness: 437.8
+
+doing generation: 418
+
+Generations Run: 419.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.81861575179
+Best fitness: 437.8
+
+doing generation: 419
+
+Generations Run: 420.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.8285714285714
+Best fitness: 437.8
+
+doing generation: 420
+
+Generations Run: 421.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.83847980997626
+Best fitness: 437.8
+
+doing generation: 421
+
+Generations Run: 422.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.8483412322275
+Best fitness: 437.8
+
+doing generation: 422
+
+Generations Run: 423.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.8581560283688
+Best fitness: 437.8
+
+doing generation: 423
+
+Generations Run: 424.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.8679245283019
+Best fitness: 437.8
+
+doing generation: 424
+
+Generations Run: 425.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.8776470588235
+Best fitness: 437.8
+
+doing generation: 425
+
+Generations Run: 426.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.88732394366195
+Best fitness: 437.8
+
+doing generation: 426
+
+Generations Run: 427.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.89695550351286
+Best fitness: 437.8
+
+doing generation: 427
+
+Generations Run: 428.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.9065420560748
+Best fitness: 437.8
+
+doing generation: 428
+
+Generations Run: 429.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.9160839160839
+Best fitness: 437.8
+
+doing generation: 429
+
+Generations Run: 430.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.92558139534884
+Best fitness: 437.8
+
+doing generation: 430
+
+Generations Run: 431.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.93503480278423
+Best fitness: 437.8
+
+doing generation: 431
+
+Generations Run: 432.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.94444444444446
+Best fitness: 437.8
+
+doing generation: 432
+
+Generations Run: 433.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.9538106235566
+Best fitness: 437.8
+
+doing generation: 433
+
+Generations Run: 434.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.963133640553
+Best fitness: 437.8
+
+doing generation: 434
+
+Generations Run: 435.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.97241379310344
+Best fitness: 437.8
+
+doing generation: 435
+
+Generations Run: 436.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.9816513761468
+Best fitness: 437.8
+
+doing generation: 436
+
+Generations Run: 437.0
+Generation fitness average: 425.0
+Overall fitness Average: 420.9908466819222
+Best fitness: 437.8
+
+doing generation: 437
+
+Generations Run: 438.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.0
+Best fitness: 437.8
+
+doing generation: 438
+
+Generations Run: 439.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.0091116173121
+Best fitness: 437.8
+
+doing generation: 439
+
+Generations Run: 440.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.0181818181818
+Best fitness: 437.8
+
+doing generation: 440
+
+Generations Run: 441.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.02721088435374
+Best fitness: 437.8
+
+doing generation: 441
+
+Generations Run: 442.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.03619909502265
+Best fitness: 437.8
+
+doing generation: 442
+
+Generations Run: 443.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.0451467268623
+Best fitness: 437.8
+
+doing generation: 443
+
+Generations Run: 444.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.05405405405406
+Best fitness: 437.8
+
+doing generation: 444
+
+Generations Run: 445.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.0629213483146
+Best fitness: 437.8
+
+doing generation: 445
+
+Generations Run: 446.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.07174887892376
+Best fitness: 437.8
+
+doing generation: 446
+
+Generations Run: 447.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.08053691275165
+Best fitness: 437.8
+
+doing generation: 447
+
+Generations Run: 448.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.0892857142857
+Best fitness: 437.8
+
+doing generation: 448
+
+Generations Run: 449.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.097995545657
+Best fitness: 437.8
+
+doing generation: 449
+
+Generations Run: 450.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.1066666666667
+Best fitness: 437.8
+
+doing generation: 450
+
+Generations Run: 451.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.11529933481154
+Best fitness: 437.8
+
+doing generation: 451
+
+Generations Run: 452.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.12389380530976
+Best fitness: 437.8
+
+doing generation: 452
+
+Generations Run: 453.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.1324503311258
+Best fitness: 437.8
+
+doing generation: 453
+
+Generations Run: 454.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.1409691629956
+Best fitness: 437.8
+
+doing generation: 454
+
+Generations Run: 455.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.14945054945053
+Best fitness: 437.8
+
+doing generation: 455
+
+Generations Run: 456.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.1578947368421
+Best fitness: 437.8
+
+doing generation: 456
+
+Generations Run: 457.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.1663019693654
+Best fitness: 437.8
+
+doing generation: 457
+
+Generations Run: 458.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.174672489083
+Best fitness: 437.8
+
+doing generation: 458
+
+Generations Run: 459.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.1830065359477
+Best fitness: 437.8
+
+doing generation: 459
+
+Generations Run: 460.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.1913043478261
+Best fitness: 437.8
+
+doing generation: 460
+
+Generations Run: 461.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.1995661605206
+Best fitness: 437.8
+
+doing generation: 461
+
+Generations Run: 462.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.2077922077922
+Best fitness: 437.8
+
+doing generation: 462
+
+Generations Run: 463.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.2159827213823
+Best fitness: 437.8
+
+doing generation: 463
+
+Generations Run: 464.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.2241379310345
+Best fitness: 437.8
+
+doing generation: 464
+
+Generations Run: 465.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.23225806451615
+Best fitness: 437.8
+
+doing generation: 465
+
+Generations Run: 466.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.2403433476395
+Best fitness: 437.8
+
+doing generation: 466
+
+Generations Run: 467.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.24839400428266
+Best fitness: 437.8
+
+doing generation: 467
+
+Generations Run: 468.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.2564102564103
+Best fitness: 437.8
+
+doing generation: 468
+
+Generations Run: 469.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.2643923240938
+Best fitness: 437.8
+
+doing generation: 469
+
+Generations Run: 470.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.2723404255319
+Best fitness: 437.8
+
+doing generation: 470
+
+Generations Run: 471.0
+Generation fitness average: 425.0
+Overall fitness Average: 421.28025477707007
+Best fitness: 437.8
+
+doing generation: 471
+
+Generations Run: 472.0
+Generation fitness average: 426.0
+Overall fitness Average: 421.29025423728814
+Best fitness: 437.8
+
+doing generation: 472
+
+Generations Run: 473.0
+Generation fitness average: 426.0
+Overall fitness Average: 421.30021141649047
+Best fitness: 437.8
+
+doing generation: 473
+
+Generations Run: 474.0
+Generation fitness average: 426.0
+Overall fitness Average: 421.3101265822785
+Best fitness: 437.8
+
+doing generation: 474
+
+Generations Run: 475.0
+Generation fitness average: 426.0
+Overall fitness Average: 421.32
+Best fitness: 437.8
+
+doing generation: 475
+
+Generations Run: 476.0
+Generation fitness average: 426.0
+Overall fitness Average: 421.3298319327731
+Best fitness: 437.8
+
+doing generation: 476
+
+Generations Run: 477.0
+Generation fitness average: 426.0
+Overall fitness Average: 421.33962264150944
+Best fitness: 437.8
+
+doing generation: 477
+
+Generations Run: 478.0
+Generation fitness average: 426.0
+Overall fitness Average: 421.3493723849372
+Best fitness: 437.8
+
+doing generation: 478
+
+Generations Run: 479.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.36116910229646
+Best fitness: 437.8
+
+doing generation: 479
+
+Generations Run: 480.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.37291666666664
+Best fitness: 437.8
+
+doing generation: 480
+
+Generations Run: 481.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.38461538461536
+Best fitness: 437.8
+
+doing generation: 481
+
+Generations Run: 482.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.396265560166
+Best fitness: 437.8
+
+doing generation: 482
+
+Generations Run: 483.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.407867494824
+Best fitness: 437.8
+
+doing generation: 483
+
+Generations Run: 484.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.4194214876033
+Best fitness: 437.8
+
+doing generation: 484
+
+Generations Run: 485.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.43092783505153
+Best fitness: 437.8
+
+doing generation: 485
+
+Generations Run: 486.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.4423868312757
+Best fitness: 437.8
+
+doing generation: 486
+
+Generations Run: 487.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.45379876796716
+Best fitness: 437.8
+
+doing generation: 487
+
+Generations Run: 488.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.46516393442624
+Best fitness: 437.8
+
+doing generation: 488
+
+Generations Run: 489.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.4764826175869
+Best fitness: 437.8
+
+doing generation: 489
+
+Generations Run: 490.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.4877551020408
+Best fitness: 437.8
+
+doing generation: 490
+
+Generations Run: 491.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.4989816700611
+Best fitness: 437.8
+
+doing generation: 491
+
+Generations Run: 492.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.510162601626
+Best fitness: 437.8
+
+doing generation: 492
+
+Generations Run: 493.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.52129817444217
+Best fitness: 437.8
+
+doing generation: 493
+
+Generations Run: 494.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.5323886639676
+Best fitness: 437.8
+
+doing generation: 494
+
+Generations Run: 495.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.54343434343434
+Best fitness: 437.8
+
+doing generation: 495
+
+Generations Run: 496.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.554435483871
+Best fitness: 437.8
+
+doing generation: 496
+
+Generations Run: 497.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.56539235412475
+Best fitness: 437.8
+
+doing generation: 497
+
+Generations Run: 498.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.5763052208835
+Best fitness: 437.8
+
+doing generation: 498
+
+Generations Run: 499.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.5871743486974
+Best fitness: 437.8
+
+doing generation: 499
+
+Generations Run: 500.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.598
+Best fitness: 437.8
+
+doing generation: 500
+
+Generations Run: 501.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.60878243512974
+Best fitness: 437.8
+
+doing generation: 501
+
+Generations Run: 502.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.6195219123506
+Best fitness: 437.8
+
+doing generation: 502
+
+Generations Run: 503.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.63021868787274
+Best fitness: 437.8
+
+doing generation: 503
+
+Generations Run: 504.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.640873015873
+Best fitness: 437.8
+
+doing generation: 504
+
+Generations Run: 505.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.65148514851484
+Best fitness: 437.8
+
+doing generation: 505
+
+Generations Run: 506.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.6620553359684
+Best fitness: 437.8
+
+doing generation: 506
+
+Generations Run: 507.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.67258382642996
+Best fitness: 437.8
+
+doing generation: 507
+
+Generations Run: 508.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.68307086614175
+Best fitness: 437.8
+
+doing generation: 508
+
+Generations Run: 509.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.6935166994106
+Best fitness: 437.8
+
+doing generation: 509
+
+Generations Run: 510.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.70392156862744
+Best fitness: 437.8
+
+doing generation: 510
+
+Generations Run: 511.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.7142857142857
+Best fitness: 437.8
+
+doing generation: 511
+
+Generations Run: 512.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.724609375
+Best fitness: 437.8
+
+doing generation: 512
+
+Generations Run: 513.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.73489278752436
+Best fitness: 437.8
+
+doing generation: 513
+
+Generations Run: 514.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.7451361867704
+Best fitness: 437.8
+
+doing generation: 514
+
+Generations Run: 515.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.75533980582526
+Best fitness: 437.8
+
+doing generation: 515
+
+Generations Run: 516.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.765503875969
+Best fitness: 437.8
+
+doing generation: 516
+
+Generations Run: 517.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.7756286266925
+Best fitness: 437.8
+
+doing generation: 517
+
+Generations Run: 518.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.7857142857143
+Best fitness: 437.8
+
+doing generation: 518
+
+Generations Run: 519.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.79576107899805
+Best fitness: 437.8
+
+doing generation: 519
+
+Generations Run: 520.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.8057692307692
+Best fitness: 437.8
+
+doing generation: 520
+
+Generations Run: 521.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.81573896353166
+Best fitness: 437.8
+
+doing generation: 521
+
+Generations Run: 522.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.82567049808426
+Best fitness: 437.8
+
+doing generation: 522
+
+Generations Run: 523.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.83556405353727
+Best fitness: 437.8
+
+doing generation: 523
+
+Generations Run: 524.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.84541984732823
+Best fitness: 437.8
+
+doing generation: 524
+
+Generations Run: 525.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.8552380952381
+Best fitness: 437.8
+
+doing generation: 525
+
+Generations Run: 526.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.86501901140684
+Best fitness: 437.8
+
+doing generation: 526
+
+Generations Run: 527.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.87476280834915
+Best fitness: 437.8
+
+doing generation: 527
+
+Generations Run: 528.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.8844696969697
+Best fitness: 437.8
+
+doing generation: 528
+
+Generations Run: 529.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.89413988657844
+Best fitness: 437.8
+
+doing generation: 529
+
+Generations Run: 530.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.90377358490565
+Best fitness: 437.8
+
+doing generation: 530
+
+Generations Run: 531.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.91337099811676
+Best fitness: 437.8
+
+doing generation: 531
+
+Generations Run: 532.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.92293233082705
+Best fitness: 437.8
+
+doing generation: 532
+
+Generations Run: 533.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.93245778611634
+Best fitness: 437.8
+
+doing generation: 533
+
+Generations Run: 534.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.94194756554305
+Best fitness: 437.8
+
+doing generation: 534
+
+Generations Run: 535.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.9514018691589
+Best fitness: 437.8
+
+doing generation: 535
+
+Generations Run: 536.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.9608208955224
+Best fitness: 437.8
+
+doing generation: 536
+
+Generations Run: 537.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.9702048417132
+Best fitness: 437.8
+
+doing generation: 537
+
+Generations Run: 538.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.97955390334573
+Best fitness: 437.8
+
+doing generation: 538
+
+Generations Run: 539.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.98886827458256
+Best fitness: 437.8
+
+doing generation: 539
+
+Generations Run: 540.0
+Generation fitness average: 427.0
+Overall fitness Average: 421.9981481481482
+Best fitness: 437.8
+
+doing generation: 540
+
+Generations Run: 541.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.00739371534195
+Best fitness: 437.8
+
+doing generation: 541
+
+Generations Run: 542.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.01660516605165
+Best fitness: 437.8
+
+doing generation: 542
+
+Generations Run: 543.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.0257826887661
+Best fitness: 437.8
+
+doing generation: 543
+
+Generations Run: 544.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.03492647058823
+Best fitness: 437.8
+
+doing generation: 544
+
+Generations Run: 545.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.0440366972477
+Best fitness: 437.8
+
+doing generation: 545
+
+Generations Run: 546.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.0531135531136
+Best fitness: 437.8
+
+doing generation: 546
+
+Generations Run: 547.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.0621572212066
+Best fitness: 437.8
+
+doing generation: 547
+
+Generations Run: 548.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.0711678832117
+Best fitness: 437.8
+
+doing generation: 548
+
+Generations Run: 549.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.08014571948996
+Best fitness: 437.8
+
+doing generation: 549
+
+Generations Run: 550.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.0890909090909
+Best fitness: 437.8
+
+doing generation: 550
+
+Generations Run: 551.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.0980036297641
+Best fitness: 437.8
+
+doing generation: 551
+
+Generations Run: 552.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.106884057971
+Best fitness: 437.8
+
+doing generation: 552
+
+Generations Run: 553.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.11573236889694
+Best fitness: 437.8
+
+doing generation: 553
+
+Generations Run: 554.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.1245487364621
+Best fitness: 437.8
+
+doing generation: 554
+
+Generations Run: 555.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.1333333333333
+Best fitness: 437.8
+
+doing generation: 555
+
+Generations Run: 556.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.14208633093523
+Best fitness: 437.8
+
+doing generation: 556
+
+Generations Run: 557.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.1508078994614
+Best fitness: 437.8
+
+doing generation: 557
+
+Generations Run: 558.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.1594982078853
+Best fitness: 437.8
+
+doing generation: 558
+
+Generations Run: 559.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.16815742397137
+Best fitness: 437.8
+
+doing generation: 559
+
+Generations Run: 560.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.1767857142857
+Best fitness: 437.8
+
+doing generation: 560
+
+Generations Run: 561.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.1853832442068
+Best fitness: 437.8
+
+doing generation: 561
+
+Generations Run: 562.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.19395017793596
+Best fitness: 437.8
+
+doing generation: 562
+
+Generations Run: 563.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.20248667850797
+Best fitness: 437.8
+
+doing generation: 563
+
+Generations Run: 564.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.2109929078014
+Best fitness: 437.8
+
+doing generation: 564
+
+Generations Run: 565.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.21946902654867
+Best fitness: 437.8
+
+doing generation: 565
+
+Generations Run: 566.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.2279151943463
+Best fitness: 437.8
+
+doing generation: 566
+
+Generations Run: 567.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.2363315696649
+Best fitness: 437.8
+
+doing generation: 567
+
+Generations Run: 568.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.24471830985914
+Best fitness: 437.8
+
+doing generation: 568
+
+Generations Run: 569.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.25307557117753
+Best fitness: 437.8
+
+doing generation: 569
+
+Generations Run: 570.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.26140350877193
+Best fitness: 437.8
+
+doing generation: 570
+
+Generations Run: 571.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.2697022767075
+Best fitness: 437.8
+
+doing generation: 571
+
+Generations Run: 572.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.27797202797206
+Best fitness: 437.8
+
+doing generation: 572
+
+Generations Run: 573.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.2862129144852
+Best fitness: 437.8
+
+doing generation: 573
+
+Generations Run: 574.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.29442508710804
+Best fitness: 437.8
+
+doing generation: 574
+
+Generations Run: 575.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.30260869565217
+Best fitness: 437.8
+
+doing generation: 575
+
+Generations Run: 576.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.3107638888889
+Best fitness: 437.8
+
+doing generation: 576
+
+Generations Run: 577.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.3188908145581
+Best fitness: 437.8
+
+doing generation: 577
+
+Generations Run: 578.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.3269896193772
+Best fitness: 437.8
+
+doing generation: 578
+
+Generations Run: 579.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.3350604490501
+Best fitness: 437.8
+
+doing generation: 579
+
+Generations Run: 580.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.3431034482759
+Best fitness: 437.8
+
+doing generation: 580
+
+Generations Run: 581.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.3511187607573
+Best fitness: 437.8
+
+doing generation: 581
+
+Generations Run: 582.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.3591065292096
+Best fitness: 437.8
+
+doing generation: 582
+
+Generations Run: 583.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.3670668953688
+Best fitness: 437.8
+
+doing generation: 583
+
+Generations Run: 584.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.375
+Best fitness: 437.8
+
+doing generation: 584
+
+Generations Run: 585.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.382905982906
+Best fitness: 437.8
+
+doing generation: 585
+
+Generations Run: 586.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.39078498293514
+Best fitness: 437.8
+
+doing generation: 586
+
+Generations Run: 587.0
+Generation fitness average: 427.0
+Overall fitness Average: 422.3986371379898
+Best fitness: 437.8
+
+doing generation: 587
+
+Generations Run: 588.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.40816326530614
+Best fitness: 437.8
+
+doing generation: 588
+
+Generations Run: 589.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.41765704584043
+Best fitness: 437.8
+
+doing generation: 589
+
+Generations Run: 590.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.4271186440678
+Best fitness: 437.8
+
+doing generation: 590
+
+Generations Run: 591.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.43654822335026
+Best fitness: 437.8
+
+doing generation: 591
+
+Generations Run: 592.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.44594594594594
+Best fitness: 437.8
+
+doing generation: 592
+
+Generations Run: 593.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.4553119730185
+Best fitness: 437.8
+
+doing generation: 593
+
+Generations Run: 594.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.4646464646465
+Best fitness: 437.8
+
+doing generation: 594
+
+Generations Run: 595.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.4739495798319
+Best fitness: 437.8
+
+doing generation: 595
+
+Generations Run: 596.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.48322147651004
+Best fitness: 437.8
+
+doing generation: 596
+
+Generations Run: 597.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.4924623115578
+Best fitness: 437.8
+
+doing generation: 597
+
+Generations Run: 598.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.5016722408027
+Best fitness: 437.8
+
+doing generation: 598
+
+Generations Run: 599.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.5108514190317
+Best fitness: 437.8
+
+doing generation: 599
+
+Generations Run: 600.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.52
+Best fitness: 437.8
+
+doing generation: 600
+
+Generations Run: 601.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.52911813643925
+Best fitness: 437.8
+
+doing generation: 601
+
+Generations Run: 602.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.53820598006644
+Best fitness: 437.8
+
+doing generation: 602
+
+Generations Run: 603.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.547263681592
+Best fitness: 437.8
+
+doing generation: 603
+
+Generations Run: 604.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.55629139072846
+Best fitness: 437.8
+
+doing generation: 604
+
+Generations Run: 605.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.56528925619835
+Best fitness: 437.8
+
+doing generation: 605
+
+Generations Run: 606.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.5742574257426
+Best fitness: 437.8
+
+doing generation: 606
+
+Generations Run: 607.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.5831960461285
+Best fitness: 437.8
+
+doing generation: 607
+
+Generations Run: 608.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.5921052631579
+Best fitness: 437.8
+
+doing generation: 608
+
+Generations Run: 609.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.6009852216749
+Best fitness: 437.8
+
+doing generation: 609
+
+Generations Run: 610.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.60983606557375
+Best fitness: 437.8
+
+doing generation: 610
+
+Generations Run: 611.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.61865793780686
+Best fitness: 437.8
+
+doing generation: 611
+
+Generations Run: 612.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.62745098039215
+Best fitness: 437.8
+
+doing generation: 612
+
+Generations Run: 613.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.63621533442085
+Best fitness: 437.8
+
+doing generation: 613
+
+Generations Run: 614.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.64495114006513
+Best fitness: 437.8
+
+doing generation: 614
+
+Generations Run: 615.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.65365853658534
+Best fitness: 437.8
+
+doing generation: 615
+
+Generations Run: 616.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.6623376623377
+Best fitness: 437.8
+
+doing generation: 616
+
+Generations Run: 617.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.6709886547812
+Best fitness: 437.8
+
+doing generation: 617
+
+Generations Run: 618.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.6796116504854
+Best fitness: 437.8
+
+doing generation: 618
+
+Generations Run: 619.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.6882067851373
+Best fitness: 437.8
+
+doing generation: 619
+
+Generations Run: 620.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.6967741935484
+Best fitness: 437.8
+
+doing generation: 620
+
+Generations Run: 621.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.70531400966183
+Best fitness: 437.8
+
+doing generation: 621
+
+Generations Run: 622.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.7138263665595
+Best fitness: 437.8
+
+doing generation: 622
+
+Generations Run: 623.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.7223113964687
+Best fitness: 437.8
+
+doing generation: 623
+
+Generations Run: 624.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.7307692307692
+Best fitness: 437.8
+
+doing generation: 624
+
+Generations Run: 625.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.7392
+Best fitness: 437.8
+
+doing generation: 625
+
+Generations Run: 626.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.7476038338658
+Best fitness: 437.8
+
+doing generation: 626
+
+Generations Run: 627.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.75598086124404
+Best fitness: 437.8
+
+doing generation: 627
+
+Generations Run: 628.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.7643312101911
+Best fitness: 437.8
+
+doing generation: 628
+
+Generations Run: 629.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.77265500794914
+Best fitness: 437.8
+
+doing generation: 629
+
+Generations Run: 630.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.7809523809524
+Best fitness: 437.8
+
+doing generation: 630
+
+Generations Run: 631.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.7892234548336
+Best fitness: 437.8
+
+doing generation: 631
+
+Generations Run: 632.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.7974683544304
+Best fitness: 437.8
+
+doing generation: 632
+
+Generations Run: 633.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.8056872037915
+Best fitness: 437.8
+
+doing generation: 633
+
+Generations Run: 634.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.81388012618294
+Best fitness: 437.8
+
+doing generation: 634
+
+Generations Run: 635.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.8220472440945
+Best fitness: 437.8
+
+doing generation: 635
+
+Generations Run: 636.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.8301886792453
+Best fitness: 437.8
+
+doing generation: 636
+
+Generations Run: 637.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.8383045525903
+Best fitness: 437.8
+
+doing generation: 637
+
+Generations Run: 638.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.846394984326
+Best fitness: 437.8
+
+doing generation: 638
+
+Generations Run: 639.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.8544600938967
+Best fitness: 437.8
+
+doing generation: 639
+
+Generations Run: 640.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.8625
+Best fitness: 437.8
+
+doing generation: 640
+
+Generations Run: 641.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.8705148205928
+Best fitness: 437.8
+
+doing generation: 641
+
+Generations Run: 642.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.8785046728972
+Best fitness: 437.8
+
+doing generation: 642
+
+Generations Run: 643.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.8864696734059
+Best fitness: 437.8
+
+doing generation: 643
+
+Generations Run: 644.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.8944099378882
+Best fitness: 437.8
+
+doing generation: 644
+
+Generations Run: 645.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.90232558139536
+Best fitness: 437.8
+
+doing generation: 645
+
+Generations Run: 646.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.91021671826627
+Best fitness: 437.8
+
+doing generation: 646
+
+Generations Run: 647.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.9180834621329
+Best fitness: 437.8
+
+doing generation: 647
+
+Generations Run: 648.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.9259259259259
+Best fitness: 437.8
+
+doing generation: 648
+
+Generations Run: 649.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.9337442218798
+Best fitness: 437.8
+
+doing generation: 649
+
+Generations Run: 650.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.94153846153847
+Best fitness: 437.8
+
+doing generation: 650
+
+Generations Run: 651.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.94930875576034
+Best fitness: 437.8
+
+doing generation: 651
+
+Generations Run: 652.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.95705521472394
+Best fitness: 437.8
+
+doing generation: 652
+
+Generations Run: 653.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.96477794793265
+Best fitness: 437.8
+
+doing generation: 653
+
+Generations Run: 654.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.9724770642202
+Best fitness: 437.8
+
+doing generation: 654
+
+Generations Run: 655.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.9801526717557
+Best fitness: 437.8
+
+doing generation: 655
+
+Generations Run: 656.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.9878048780488
+Best fitness: 437.8
+
+doing generation: 656
+
+Generations Run: 657.0
+Generation fitness average: 428.0
+Overall fitness Average: 422.99543378995435
+Best fitness: 437.8
+
+doing generation: 657
+
+Generations Run: 658.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.00303951367783
+Best fitness: 437.8
+
+doing generation: 658
+
+Generations Run: 659.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.01062215478
+Best fitness: 437.8
+
+doing generation: 659
+
+Generations Run: 660.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.0181818181818
+Best fitness: 437.8
+
+doing generation: 660
+
+Generations Run: 661.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.0257186081694
+Best fitness: 437.8
+
+doing generation: 661
+
+Generations Run: 662.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.03323262839876
+Best fitness: 437.8
+
+doing generation: 662
+
+Generations Run: 663.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.04072398190044
+Best fitness: 437.8
+
+doing generation: 663
+
+Generations Run: 664.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.04819277108436
+Best fitness: 437.8
+
+doing generation: 664
+
+Generations Run: 665.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.05563909774435
+Best fitness: 437.8
+
+doing generation: 665
+
+Generations Run: 666.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.06306306306305
+Best fitness: 437.8
+
+doing generation: 666
+
+Generations Run: 667.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.0704647676162
+Best fitness: 437.8
+
+doing generation: 667
+
+Generations Run: 668.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.07784431137725
+Best fitness: 437.8
+
+doing generation: 668
+
+Generations Run: 669.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.085201793722
+Best fitness: 437.8
+
+doing generation: 669
+
+Generations Run: 670.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.09253731343284
+Best fitness: 437.8
+
+doing generation: 670
+
+Generations Run: 671.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.09985096870344
+Best fitness: 437.8
+
+doing generation: 671
+
+Generations Run: 672.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.10714285714283
+Best fitness: 437.8
+
+doing generation: 672
+
+Generations Run: 673.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.1144130757801
+Best fitness: 437.8
+
+doing generation: 673
+
+Generations Run: 674.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.1216617210682
+Best fitness: 437.8
+
+doing generation: 674
+
+Generations Run: 675.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.12888888888887
+Best fitness: 437.8
+
+doing generation: 675
+
+Generations Run: 676.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.1360946745562
+Best fitness: 437.8
+
+doing generation: 676
+
+Generations Run: 677.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.1432791728213
+Best fitness: 437.8
+
+doing generation: 677
+
+Generations Run: 678.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.1504424778761
+Best fitness: 437.8
+
+doing generation: 678
+
+Generations Run: 679.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.15758468335787
+Best fitness: 437.8
+
+doing generation: 679
+
+Generations Run: 680.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.16470588235296
+Best fitness: 437.8
+
+doing generation: 680
+
+Generations Run: 681.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.17180616740086
+Best fitness: 437.8
+
+doing generation: 681
+
+Generations Run: 682.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.17888563049854
+Best fitness: 437.8
+
+doing generation: 682
+
+Generations Run: 683.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.18594436310394
+Best fitness: 437.8
+
+doing generation: 683
+
+Generations Run: 684.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.1929824561403
+Best fitness: 437.8
+
+doing generation: 684
+
+Generations Run: 685.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.2
+Best fitness: 437.8
+
+doing generation: 685
+
+Generations Run: 686.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.2069970845481
+Best fitness: 437.8
+
+doing generation: 686
+
+Generations Run: 687.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.2139737991266
+Best fitness: 437.8
+
+doing generation: 687
+
+Generations Run: 688.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.22093023255815
+Best fitness: 437.8
+
+doing generation: 688
+
+Generations Run: 689.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.2278664731495
+Best fitness: 437.8
+
+doing generation: 689
+
+Generations Run: 690.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.23478260869564
+Best fitness: 437.8
+
+doing generation: 690
+
+Generations Run: 691.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.24167872648337
+Best fitness: 437.8
+
+doing generation: 691
+
+Generations Run: 692.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.2485549132948
+Best fitness: 437.8
+
+doing generation: 692
+
+Generations Run: 693.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.2554112554113
+Best fitness: 437.8
+
+doing generation: 693
+
+Generations Run: 694.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.2622478386167
+Best fitness: 437.8
+
+doing generation: 694
+
+Generations Run: 695.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.26906474820146
+Best fitness: 437.8
+
+doing generation: 695
+
+Generations Run: 696.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.2758620689655
+Best fitness: 437.8
+
+doing generation: 696
+
+Generations Run: 697.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.2826398852224
+Best fitness: 437.8
+
+doing generation: 697
+
+Generations Run: 698.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.2893982808023
+Best fitness: 437.8
+
+doing generation: 698
+
+Generations Run: 699.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.2961373390558
+Best fitness: 437.8
+
+doing generation: 699
+
+Generations Run: 700.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.30285714285714
+Best fitness: 437.8
+
+doing generation: 700
+
+Generations Run: 701.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.3095577746077
+Best fitness: 437.8
+
+doing generation: 701
+
+Generations Run: 702.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.3162393162393
+Best fitness: 437.8
+
+doing generation: 702
+
+Generations Run: 703.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.32290184921766
+Best fitness: 437.8
+
+doing generation: 703
+
+Generations Run: 704.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.32954545454544
+Best fitness: 437.8
+
+doing generation: 704
+
+Generations Run: 705.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.336170212766
+Best fitness: 437.8
+
+doing generation: 705
+
+Generations Run: 706.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.342776203966
+Best fitness: 437.8
+
+doing generation: 706
+
+Generations Run: 707.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.34936350777934
+Best fitness: 437.8
+
+doing generation: 707
+
+Generations Run: 708.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.35593220338984
+Best fitness: 437.8
+
+doing generation: 708
+
+Generations Run: 709.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.3624823695346
+Best fitness: 437.8
+
+doing generation: 709
+
+Generations Run: 710.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.36901408450706
+Best fitness: 437.8
+
+doing generation: 710
+
+Generations Run: 711.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.3755274261603
+Best fitness: 437.8
+
+doing generation: 711
+
+Generations Run: 712.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.3820224719101
+Best fitness: 437.8
+
+doing generation: 712
+
+Generations Run: 713.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.3884992987377
+Best fitness: 437.8
+
+doing generation: 713
+
+Generations Run: 714.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.39495798319325
+Best fitness: 437.8
+
+doing generation: 714
+
+Generations Run: 715.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.4013986013986
+Best fitness: 437.8
+
+doing generation: 715
+
+Generations Run: 716.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.4078212290503
+Best fitness: 437.8
+
+doing generation: 716
+
+Generations Run: 717.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.4142259414226
+Best fitness: 437.8
+
+doing generation: 717
+
+Generations Run: 718.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.4206128133705
+Best fitness: 437.8
+
+doing generation: 718
+
+Generations Run: 719.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.42698191933243
+Best fitness: 437.8
+
+doing generation: 719
+
+Generations Run: 720.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.43333333333334
+Best fitness: 437.8
+
+doing generation: 720
+
+Generations Run: 721.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.43966712898754
+Best fitness: 437.8
+
+doing generation: 721
+
+Generations Run: 722.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.4459833795014
+Best fitness: 437.8
+
+doing generation: 722
+
+Generations Run: 723.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.45228215767634
+Best fitness: 437.8
+
+doing generation: 723
+
+Generations Run: 724.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.4585635359116
+Best fitness: 437.8
+
+doing generation: 724
+
+Generations Run: 725.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.4648275862069
+Best fitness: 437.8
+
+doing generation: 725
+
+Generations Run: 726.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.4710743801653
+Best fitness: 437.8
+
+doing generation: 726
+
+Generations Run: 727.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.47730398899586
+Best fitness: 437.8
+
+doing generation: 727
+
+Generations Run: 728.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.4835164835165
+Best fitness: 437.8
+
+doing generation: 728
+
+Generations Run: 729.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.4897119341564
+Best fitness: 437.8
+
+doing generation: 729
+
+Generations Run: 730.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.4958904109589
+Best fitness: 437.8
+
+doing generation: 730
+
+Generations Run: 731.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.5020519835841
+Best fitness: 437.8
+
+doing generation: 731
+
+Generations Run: 732.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.5081967213115
+Best fitness: 437.8
+
+doing generation: 732
+
+Generations Run: 733.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.5143246930423
+Best fitness: 437.8
+
+doing generation: 733
+
+Generations Run: 734.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.52043596730243
+Best fitness: 437.8
+
+doing generation: 734
+
+Generations Run: 735.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.5265306122449
+Best fitness: 437.8
+
+doing generation: 735
+
+Generations Run: 736.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.5326086956522
+Best fitness: 437.8
+
+doing generation: 736
+
+Generations Run: 737.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.5386702849389
+Best fitness: 437.8
+
+doing generation: 737
+
+Generations Run: 738.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.5447154471545
+Best fitness: 437.8
+
+doing generation: 738
+
+Generations Run: 739.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.5507442489851
+Best fitness: 437.8
+
+doing generation: 739
+
+Generations Run: 740.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.5567567567568
+Best fitness: 437.8
+
+doing generation: 740
+
+Generations Run: 741.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.56275303643724
+Best fitness: 437.8
+
+doing generation: 741
+
+Generations Run: 742.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.5687331536388
+Best fitness: 437.8
+
+doing generation: 742
+
+Generations Run: 743.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.57469717362045
+Best fitness: 437.8
+
+doing generation: 743
+
+Generations Run: 744.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.5806451612903
+Best fitness: 437.8
+
+doing generation: 744
+
+Generations Run: 745.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.58657718120804
+Best fitness: 437.8
+
+doing generation: 745
+
+Generations Run: 746.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.5924932975871
+Best fitness: 437.8
+
+doing generation: 746
+
+Generations Run: 747.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.5983935742972
+Best fitness: 437.8
+
+doing generation: 747
+
+Generations Run: 748.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.60427807486633
+Best fitness: 437.8
+
+doing generation: 748
+
+Generations Run: 749.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.6101468624833
+Best fitness: 437.8
+
+doing generation: 749
+
+Generations Run: 750.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.616
+Best fitness: 437.8
+
+doing generation: 750
+
+Generations Run: 751.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.62183754993345
+Best fitness: 437.8
+
+doing generation: 751
+
+Generations Run: 752.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.6276595744681
+Best fitness: 437.8
+
+doing generation: 752
+
+Generations Run: 753.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.63346613545815
+Best fitness: 437.8
+
+doing generation: 753
+
+Generations Run: 754.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.6392572944297
+Best fitness: 437.8
+
+doing generation: 754
+
+Generations Run: 755.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.6450331125828
+Best fitness: 437.8
+
+doing generation: 755
+
+Generations Run: 756.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.6507936507937
+Best fitness: 437.8
+
+doing generation: 756
+
+Generations Run: 757.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.6565389696169
+Best fitness: 437.8
+
+doing generation: 757
+
+Generations Run: 758.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.6622691292876
+Best fitness: 437.8
+
+doing generation: 758
+
+Generations Run: 759.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.6679841897233
+Best fitness: 437.8
+
+doing generation: 759
+
+Generations Run: 760.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.6736842105263
+Best fitness: 437.8
+
+doing generation: 760
+
+Generations Run: 761.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.67936925098553
+Best fitness: 437.8
+
+doing generation: 761
+
+Generations Run: 762.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.68503937007875
+Best fitness: 437.8
+
+doing generation: 762
+
+Generations Run: 763.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.69069462647445
+Best fitness: 437.8
+
+doing generation: 763
+
+Generations Run: 764.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.69633507853405
+Best fitness: 437.8
+
+doing generation: 764
+
+Generations Run: 765.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.7019607843137
+Best fitness: 437.8
+
+doing generation: 765
+
+Generations Run: 766.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.7075718015666
+Best fitness: 437.8
+
+doing generation: 766
+
+Generations Run: 767.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.7131681877445
+Best fitness: 437.8
+
+doing generation: 767
+
+Generations Run: 768.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.71875
+Best fitness: 437.8
+
+doing generation: 768
+
+Generations Run: 769.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.72431729518854
+Best fitness: 437.8
+
+doing generation: 769
+
+Generations Run: 770.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.7298701298701
+Best fitness: 437.8
+
+doing generation: 770
+
+Generations Run: 771.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.73540856031127
+Best fitness: 437.8
+
+doing generation: 771
+
+Generations Run: 772.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.74093264248705
+Best fitness: 437.8
+
+doing generation: 772
+
+Generations Run: 773.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.7464424320828
+Best fitness: 437.8
+
+doing generation: 773
+
+Generations Run: 774.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.7519379844961
+Best fitness: 437.8
+
+doing generation: 774
+
+Generations Run: 775.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.7574193548387
+Best fitness: 437.8
+
+doing generation: 775
+
+Generations Run: 776.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.7628865979381
+Best fitness: 437.8
+
+doing generation: 776
+
+Generations Run: 777.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.7683397683398
+Best fitness: 437.8
+
+doing generation: 777
+
+Generations Run: 778.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.7737789203085
+Best fitness: 437.8
+
+doing generation: 778
+
+Generations Run: 779.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.77920410783054
+Best fitness: 437.8
+
+doing generation: 779
+
+Generations Run: 780.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.7846153846154
+Best fitness: 437.8
+
+doing generation: 780
+
+Generations Run: 781.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.79001280409733
+Best fitness: 437.8
+
+doing generation: 781
+
+Generations Run: 782.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.79539641943734
+Best fitness: 437.8
+
+doing generation: 782
+
+Generations Run: 783.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.8007662835249
+Best fitness: 437.8
+
+doing generation: 783
+
+Generations Run: 784.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.8061224489796
+Best fitness: 437.8
+
+doing generation: 784
+
+Generations Run: 785.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.81146496815285
+Best fitness: 437.8
+
+doing generation: 785
+
+Generations Run: 786.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.8167938931298
+Best fitness: 437.8
+
+doing generation: 786
+
+Generations Run: 787.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.8221092757306
+Best fitness: 437.8
+
+doing generation: 787
+
+Generations Run: 788.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.8274111675127
+Best fitness: 437.8
+
+doing generation: 788
+
+Generations Run: 789.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.83269961977186
+Best fitness: 437.8
+
+doing generation: 789
+
+Generations Run: 790.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.8379746835443
+Best fitness: 437.8
+
+doing generation: 790
+
+Generations Run: 791.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.8432364096081
+Best fitness: 437.8
+
+doing generation: 791
+
+Generations Run: 792.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.8484848484849
+Best fitness: 437.8
+
+doing generation: 792
+
+Generations Run: 793.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.8537200504414
+Best fitness: 437.8
+
+doing generation: 793
+
+Generations Run: 794.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.8589420654912
+Best fitness: 437.8
+
+doing generation: 794
+
+Generations Run: 795.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.8641509433962
+Best fitness: 437.8
+
+doing generation: 795
+
+Generations Run: 796.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.86934673366835
+Best fitness: 437.8
+
+doing generation: 796
+
+Generations Run: 797.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.8745294855709
+Best fitness: 437.8
+
+doing generation: 797
+
+Generations Run: 798.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.8796992481203
+Best fitness: 437.8
+
+doing generation: 798
+
+Generations Run: 799.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.8848560700876
+Best fitness: 437.8
+
+doing generation: 799
+
+Generations Run: 800.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.89
+Best fitness: 437.8
+
+doing generation: 800
+
+Generations Run: 801.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.8951310861423
+Best fitness: 437.8
+
+doing generation: 801
+
+Generations Run: 802.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.9002493765586
+Best fitness: 437.8
+
+doing generation: 802
+
+Generations Run: 803.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.90535491905354
+Best fitness: 437.8
+
+doing generation: 803
+
+Generations Run: 804.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.910447761194
+Best fitness: 437.8
+
+doing generation: 804
+
+Generations Run: 805.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.91552795031055
+Best fitness: 437.8
+
+doing generation: 805
+
+Generations Run: 806.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.9205955334988
+Best fitness: 437.8
+
+doing generation: 806
+
+Generations Run: 807.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.9256505576208
+Best fitness: 437.8
+
+doing generation: 807
+
+Generations Run: 808.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.9306930693069
+Best fitness: 437.8
+
+doing generation: 808
+
+Generations Run: 809.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.9357231149567
+Best fitness: 437.8
+
+doing generation: 809
+
+Generations Run: 810.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.94074074074075
+Best fitness: 437.8
+
+doing generation: 810
+
+Generations Run: 811.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.9457459926017
+Best fitness: 437.8
+
+doing generation: 811
+
+Generations Run: 812.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.95073891625617
+Best fitness: 437.8
+
+doing generation: 812
+
+Generations Run: 813.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.95571955719555
+Best fitness: 437.8
+
+doing generation: 813
+
+Generations Run: 814.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.96068796068795
+Best fitness: 437.8
+
+doing generation: 814
+
+Generations Run: 815.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.96564417177916
+Best fitness: 437.8
+
+doing generation: 815
+
+Generations Run: 816.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.97058823529414
+Best fitness: 437.8
+
+doing generation: 816
+
+Generations Run: 817.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.97552019583844
+Best fitness: 437.8
+
+doing generation: 817
+
+Generations Run: 818.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.9804400977995
+Best fitness: 437.8
+
+doing generation: 818
+
+Generations Run: 819.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.98534798534797
+Best fitness: 437.8
+
+doing generation: 819
+
+Generations Run: 820.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.99024390243903
+Best fitness: 437.8
+
+doing generation: 820
+
+Generations Run: 821.0
+Generation fitness average: 428.0
+Overall fitness Average: 423.9951278928136
+Best fitness: 437.8
+
+doing generation: 821
+
+Generations Run: 822.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.0
+Best fitness: 437.8
+
+doing generation: 822
+
+Generations Run: 823.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.0048602673147
+Best fitness: 437.8
+
+doing generation: 823
+
+Generations Run: 824.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.00970873786406
+Best fitness: 437.8
+
+doing generation: 824
+
+Generations Run: 825.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.01454545454544
+Best fitness: 437.8
+
+doing generation: 825
+
+Generations Run: 826.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.01937046004844
+Best fitness: 437.8
+
+doing generation: 826
+
+Generations Run: 827.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.0241837968561
+Best fitness: 437.8
+
+doing generation: 827
+
+Generations Run: 828.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.0289855072464
+Best fitness: 437.8
+
+doing generation: 828
+
+Generations Run: 829.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.03377563329315
+Best fitness: 437.8
+
+doing generation: 829
+
+Generations Run: 830.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.03855421686745
+Best fitness: 437.8
+
+doing generation: 830
+
+Generations Run: 831.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.043321299639
+Best fitness: 437.8
+
+doing generation: 831
+
+Generations Run: 832.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.0480769230769
+Best fitness: 437.8
+
+doing generation: 832
+
+Generations Run: 833.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.0528211284514
+Best fitness: 437.8
+
+doing generation: 833
+
+Generations Run: 834.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.0575539568345
+Best fitness: 437.8
+
+doing generation: 834
+
+Generations Run: 835.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.0622754491018
+Best fitness: 437.8
+
+doing generation: 835
+
+Generations Run: 836.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.066985645933
+Best fitness: 437.8
+
+doing generation: 836
+
+Generations Run: 837.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.0716845878136
+Best fitness: 437.8
+
+doing generation: 837
+
+Generations Run: 838.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.0763723150358
+Best fitness: 437.8
+
+doing generation: 838
+
+Generations Run: 839.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.0810488676996
+Best fitness: 437.8
+
+doing generation: 839
+
+Generations Run: 840.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.0857142857143
+Best fitness: 437.8
+
+doing generation: 840
+
+Generations Run: 841.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.09036860879905
+Best fitness: 437.8
+
+doing generation: 841
+
+Generations Run: 842.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.09501187648453
+Best fitness: 437.8
+
+doing generation: 842
+
+Generations Run: 843.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.0996441281139
+Best fitness: 437.8
+
+doing generation: 843
+
+Generations Run: 844.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.1042654028436
+Best fitness: 437.8
+
+doing generation: 844
+
+Generations Run: 845.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.108875739645
+Best fitness: 437.8
+
+doing generation: 845
+
+Generations Run: 846.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.11347517730496
+Best fitness: 437.8
+
+doing generation: 846
+
+Generations Run: 847.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.1180637544274
+Best fitness: 437.8
+
+doing generation: 847
+
+Generations Run: 848.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.12264150943395
+Best fitness: 437.8
+
+doing generation: 848
+
+Generations Run: 849.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.12720848056534
+Best fitness: 437.8
+
+doing generation: 849
+
+Generations Run: 850.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.13176470588235
+Best fitness: 437.8
+
+doing generation: 850
+
+Generations Run: 851.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.1363102232667
+Best fitness: 437.8
+
+doing generation: 851
+
+Generations Run: 852.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.14084507042253
+Best fitness: 437.8
+
+doing generation: 852
+
+Generations Run: 853.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.1453692848769
+Best fitness: 437.8
+
+doing generation: 853
+
+Generations Run: 854.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.1498829039813
+Best fitness: 437.8
+
+doing generation: 854
+
+Generations Run: 855.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.1543859649123
+Best fitness: 437.8
+
+doing generation: 855
+
+Generations Run: 856.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.1588785046729
+Best fitness: 437.8
+
+doing generation: 856
+
+Generations Run: 857.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.16336056009334
+Best fitness: 437.8
+
+doing generation: 857
+
+Generations Run: 858.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.16783216783216
+Best fitness: 437.8
+
+doing generation: 858
+
+Generations Run: 859.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.1722933643772
+Best fitness: 437.8
+
+doing generation: 859
+
+Generations Run: 860.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.1767441860465
+Best fitness: 437.8
+
+doing generation: 860
+
+Generations Run: 861.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.18118466898954
+Best fitness: 437.8
+
+doing generation: 861
+
+Generations Run: 862.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.1856148491879
+Best fitness: 437.8
+
+doing generation: 862
+
+Generations Run: 863.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.19003476245655
+Best fitness: 437.8
+
+doing generation: 863
+
+Generations Run: 864.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.19444444444446
+Best fitness: 437.8
+
+doing generation: 864
+
+Generations Run: 865.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.19884393063586
+Best fitness: 437.8
+
+doing generation: 865
+
+Generations Run: 866.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.20323325635104
+Best fitness: 437.8
+
+doing generation: 866
+
+Generations Run: 867.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.2076124567474
+Best fitness: 437.8
+
+doing generation: 867
+
+Generations Run: 868.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.21198156682027
+Best fitness: 437.8
+
+doing generation: 868
+
+Generations Run: 869.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.2163406214039
+Best fitness: 437.8
+
+doing generation: 869
+
+Generations Run: 870.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.2206896551724
+Best fitness: 437.8
+
+doing generation: 870
+
+Generations Run: 871.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.22502870264066
+Best fitness: 437.8
+
+doing generation: 871
+
+Generations Run: 872.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.22935779816515
+Best fitness: 437.8
+
+doing generation: 872
+
+Generations Run: 873.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.233676975945
+Best fitness: 437.8
+
+doing generation: 873
+
+Generations Run: 874.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.2379862700229
+Best fitness: 437.8
+
+doing generation: 874
+
+Generations Run: 875.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.24228571428574
+Best fitness: 437.8
+
+doing generation: 875
+
+Generations Run: 876.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.24657534246575
+Best fitness: 437.8
+
+doing generation: 876
+
+Generations Run: 877.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.2508551881414
+Best fitness: 437.8
+
+doing generation: 877
+
+Generations Run: 878.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.255125284738
+Best fitness: 437.8
+
+doing generation: 878
+
+Generations Run: 879.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.259385665529
+Best fitness: 437.8
+
+doing generation: 879
+
+Generations Run: 880.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.26363636363635
+Best fitness: 437.8
+
+doing generation: 880
+
+Generations Run: 881.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.2678774120318
+Best fitness: 437.8
+
+doing generation: 881
+
+Generations Run: 882.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.2721088435374
+Best fitness: 437.8
+
+doing generation: 882
+
+Generations Run: 883.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.27633069082674
+Best fitness: 437.8
+
+doing generation: 883
+
+Generations Run: 884.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.28054298642536
+Best fitness: 437.8
+
+doing generation: 884
+
+Generations Run: 885.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.28474576271185
+Best fitness: 437.8
+
+doing generation: 885
+
+Generations Run: 886.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.28893905191876
+Best fitness: 437.8
+
+doing generation: 886
+
+Generations Run: 887.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.293122886133
+Best fitness: 437.8
+
+doing generation: 887
+
+Generations Run: 888.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.2972972972973
+Best fitness: 437.8
+
+doing generation: 888
+
+Generations Run: 889.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.30146231721034
+Best fitness: 437.8
+
+doing generation: 889
+
+Generations Run: 890.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.3056179775281
+Best fitness: 437.8
+
+doing generation: 890
+
+Generations Run: 891.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.3097643097643
+Best fitness: 437.8
+
+doing generation: 891
+
+Generations Run: 892.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.31390134529147
+Best fitness: 437.8
+
+doing generation: 892
+
+Generations Run: 893.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.3180291153416
+Best fitness: 437.8
+
+doing generation: 893
+
+Generations Run: 894.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.32214765100673
+Best fitness: 437.8
+
+doing generation: 894
+
+Generations Run: 895.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.3262569832402
+Best fitness: 437.8
+
+doing generation: 895
+
+Generations Run: 896.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.33035714285717
+Best fitness: 437.8
+
+doing generation: 896
+
+Generations Run: 897.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.3344481605351
+Best fitness: 437.8
+
+doing generation: 897
+
+Generations Run: 898.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.33853006681517
+Best fitness: 437.8
+
+doing generation: 898
+
+Generations Run: 899.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.3426028921023
+Best fitness: 437.8
+
+doing generation: 899
+
+Generations Run: 900.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.3466666666667
+Best fitness: 437.8
+
+doing generation: 900
+
+Generations Run: 901.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.3507214206437
+Best fitness: 437.8
+
+doing generation: 901
+
+Generations Run: 902.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.3547671840355
+Best fitness: 437.8
+
+doing generation: 902
+
+Generations Run: 903.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.35880398671094
+Best fitness: 437.8
+
+doing generation: 903
+
+Generations Run: 904.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.3628318584071
+Best fitness: 437.8
+
+doing generation: 904
+
+Generations Run: 905.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.3668508287293
+Best fitness: 437.8
+
+doing generation: 905
+
+Generations Run: 906.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.3708609271523
+Best fitness: 437.8
+
+doing generation: 906
+
+Generations Run: 907.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.3748621830209
+Best fitness: 437.8
+
+doing generation: 907
+
+Generations Run: 908.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.3788546255507
+Best fitness: 437.8
+
+doing generation: 908
+
+Generations Run: 909.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.3828382838284
+Best fitness: 437.8
+
+doing generation: 909
+
+Generations Run: 910.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.3868131868132
+Best fitness: 437.8
+
+doing generation: 910
+
+Generations Run: 911.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.390779363337
+Best fitness: 437.8
+
+doing generation: 911
+
+Generations Run: 912.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.39473684210526
+Best fitness: 437.8
+
+doing generation: 912
+
+Generations Run: 913.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.3986856516977
+Best fitness: 437.8
+
+doing generation: 913
+
+Generations Run: 914.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.4026258205689
+Best fitness: 437.8
+
+doing generation: 914
+
+Generations Run: 915.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.4065573770492
+Best fitness: 437.8
+
+doing generation: 915
+
+Generations Run: 916.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.410480349345
+Best fitness: 437.8
+
+doing generation: 916
+
+Generations Run: 917.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.4143947655398
+Best fitness: 437.8
+
+doing generation: 917
+
+Generations Run: 918.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.41830065359477
+Best fitness: 437.8
+
+doing generation: 918
+
+Generations Run: 919.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.4221980413493
+Best fitness: 437.8
+
+doing generation: 919
+
+Generations Run: 920.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.4260869565217
+Best fitness: 437.8
+
+doing generation: 920
+
+Generations Run: 921.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.4299674267101
+Best fitness: 437.8
+
+doing generation: 921
+
+Generations Run: 922.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.43383947939265
+Best fitness: 437.8
+
+doing generation: 922
+
+Generations Run: 923.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.43770314192847
+Best fitness: 437.8
+
+doing generation: 923
+
+Generations Run: 924.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.4415584415584
+Best fitness: 437.8
+
+doing generation: 924
+
+Generations Run: 925.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.4454054054054
+Best fitness: 437.8
+
+doing generation: 925
+
+Generations Run: 926.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.44924406047517
+Best fitness: 437.8
+
+doing generation: 926
+
+Generations Run: 927.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.453074433657
+Best fitness: 437.8
+
+doing generation: 927
+
+Generations Run: 928.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.4568965517241
+Best fitness: 437.8
+
+doing generation: 928
+
+Generations Run: 929.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.46071044133475
+Best fitness: 437.8
+
+doing generation: 929
+
+Generations Run: 930.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.46451612903223
+Best fitness: 437.8
+
+doing generation: 930
+
+Generations Run: 931.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.46831364124597
+Best fitness: 437.8
+
+doing generation: 931
+
+Generations Run: 932.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.47210300429185
+Best fitness: 437.8
+
+doing generation: 932
+
+Generations Run: 933.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.475884244373
+Best fitness: 437.8
+
+doing generation: 933
+
+Generations Run: 934.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.4796573875803
+Best fitness: 437.8
+
+doing generation: 934
+
+Generations Run: 935.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.48342245989306
+Best fitness: 437.8
+
+doing generation: 935
+
+Generations Run: 936.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.4871794871795
+Best fitness: 437.8
+
+doing generation: 936
+
+Generations Run: 937.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.49092849519747
+Best fitness: 437.8
+
+doing generation: 937
+
+Generations Run: 938.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.49466950959487
+Best fitness: 437.8
+
+doing generation: 938
+
+Generations Run: 939.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.49840255591056
+Best fitness: 437.8
+
+doing generation: 939
+
+Generations Run: 940.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.50212765957446
+Best fitness: 437.8
+
+doing generation: 940
+
+Generations Run: 941.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.5058448459086
+Best fitness: 437.8
+
+doing generation: 941
+
+Generations Run: 942.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.50955414012736
+Best fitness: 437.8
+
+doing generation: 942
+
+Generations Run: 943.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.51325556733826
+Best fitness: 437.8
+
+doing generation: 943
+
+Generations Run: 944.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.5169491525424
+Best fitness: 437.8
+
+doing generation: 944
+
+Generations Run: 945.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.5206349206349
+Best fitness: 437.8
+
+doing generation: 945
+
+Generations Run: 946.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.52431289640595
+Best fitness: 437.8
+
+doing generation: 946
+
+Generations Run: 947.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.5279831045407
+Best fitness: 437.8
+
+doing generation: 947
+
+Generations Run: 948.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.53164556962025
+Best fitness: 437.8
+
+doing generation: 948
+
+Generations Run: 949.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.53530031612223
+Best fitness: 437.8
+
+doing generation: 949
+
+Generations Run: 950.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.5389473684211
+Best fitness: 437.8
+
+doing generation: 950
+
+Generations Run: 951.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.54258675078864
+Best fitness: 437.8
+
+doing generation: 951
+
+Generations Run: 952.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.546218487395
+Best fitness: 437.8
+
+doing generation: 952
+
+Generations Run: 953.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.5498426023085
+Best fitness: 437.8
+
+doing generation: 953
+
+Generations Run: 954.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.55345911949684
+Best fitness: 437.8
+
+doing generation: 954
+
+Generations Run: 955.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.5570680628272
+Best fitness: 437.8
+
+doing generation: 955
+
+Generations Run: 956.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.56066945606693
+Best fitness: 437.8
+
+doing generation: 956
+
+Generations Run: 957.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.564263322884
+Best fitness: 437.8
+
+doing generation: 957
+
+Generations Run: 958.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.5678496868476
+Best fitness: 437.8
+
+doing generation: 958
+
+Generations Run: 959.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.57142857142856
+Best fitness: 437.8
+
+doing generation: 959
+
+Generations Run: 960.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.575
+Best fitness: 437.8
+
+doing generation: 960
+
+Generations Run: 961.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.57856399583767
+Best fitness: 437.8
+
+doing generation: 961
+
+Generations Run: 962.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.5821205821206
+Best fitness: 437.8
+
+doing generation: 962
+
+Generations Run: 963.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.5856697819315
+Best fitness: 437.8
+
+doing generation: 963
+
+Generations Run: 964.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.58921161825725
+Best fitness: 437.8
+
+doing generation: 964
+
+Generations Run: 965.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.5927461139896
+Best fitness: 437.8
+
+doing generation: 965
+
+Generations Run: 966.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.59627329192546
+Best fitness: 437.8
+
+doing generation: 966
+
+Generations Run: 967.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.59979317476734
+Best fitness: 437.8
+
+doing generation: 967
+
+Generations Run: 968.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.60330578512395
+Best fitness: 437.8
+
+doing generation: 968
+
+Generations Run: 969.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.60681114551085
+Best fitness: 437.8
+
+doing generation: 969
+
+Generations Run: 970.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.61030927835054
+Best fitness: 437.8
+
+doing generation: 970
+
+Generations Run: 971.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.61380020597323
+Best fitness: 437.8
+
+doing generation: 971
+
+Generations Run: 972.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.61728395061726
+Best fitness: 437.8
+
+doing generation: 972
+
+Generations Run: 973.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.6207605344296
+Best fitness: 437.8
+
+doing generation: 973
+
+Generations Run: 974.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.6242299794661
+Best fitness: 437.8
+
+doing generation: 974
+
+Generations Run: 975.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.6276923076923
+Best fitness: 437.8
+
+doing generation: 975
+
+Generations Run: 976.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.6311475409836
+Best fitness: 437.8
+
+doing generation: 976
+
+Generations Run: 977.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.6345957011259
+Best fitness: 437.8
+
+doing generation: 977
+
+Generations Run: 978.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.63803680981596
+Best fitness: 437.8
+
+doing generation: 978
+
+Generations Run: 979.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.6414708886619
+Best fitness: 437.8
+
+doing generation: 979
+
+Generations Run: 980.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.64489795918365
+Best fitness: 437.8
+
+doing generation: 980
+
+Generations Run: 981.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.64831804281346
+Best fitness: 437.8
+
+doing generation: 981
+
+Generations Run: 982.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.65173116089613
+Best fitness: 437.8
+
+doing generation: 982
+
+Generations Run: 983.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.6551373346897
+Best fitness: 437.8
+
+doing generation: 983
+
+Generations Run: 984.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.6585365853659
+Best fitness: 437.8
+
+doing generation: 984
+
+Generations Run: 985.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.6619289340102
+Best fitness: 437.8
+
+doing generation: 985
+
+Generations Run: 986.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.6653144016227
+Best fitness: 437.8
+
+doing generation: 986
+
+Generations Run: 987.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.66869300911856
+Best fitness: 437.8
+
+doing generation: 987
+
+Generations Run: 988.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.67206477732793
+Best fitness: 437.8
+
+doing generation: 988
+
+Generations Run: 989.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.675429726997
+Best fitness: 437.8
+
+doing generation: 989
+
+Generations Run: 990.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.6787878787879
+Best fitness: 437.8
+
+doing generation: 990
+
+Generations Run: 991.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.6821392532795
+Best fitness: 437.8
+
+doing generation: 991
+
+Generations Run: 992.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.68548387096774
+Best fitness: 437.8
+
+doing generation: 992
+
+Generations Run: 993.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.6888217522659
+Best fitness: 437.8
+
+doing generation: 993
+
+Generations Run: 994.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.69215291750504
+Best fitness: 437.8
+
+doing generation: 994
+
+Generations Run: 995.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.69547738693467
+Best fitness: 437.8
+
+doing generation: 995
+
+Generations Run: 996.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.69879518072287
+Best fitness: 437.8
+
+doing generation: 996
+
+Generations Run: 997.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.70210631895685
+Best fitness: 437.8
+
+doing generation: 997
+
+Generations Run: 998.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.7054108216433
+Best fitness: 437.8
+
+doing generation: 998
+
+Generations Run: 999.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.7087087087087
+Best fitness: 437.8
+
+doing generation: 999
+
+Generations Run: 1000.0
+Generation fitness average: 428.0
+Overall fitness Average: 424.712
+Best fitness: 437.8
+
+Final fitness: 437.8
+instances
+
+-----
+27.77545049202319,30.18631416605121,57.01704329645351,73.41142673438779,25.535032092086652,106.99470755488149,44.083366880397136,33.24281937165599,44.9062212852345,-7.381939425613708,57.0086472634809,25.60464909706506,3.103058899498719,117.57472294317941,23.190865472287875,-0.44041564481285533,35.536436015866826,15.395634847890271,10.89717222712035,52.494666012997726,62.13194815258355,53.912352620823285,41.740973388187165,80.15234596996291,87.4605146412825,65.44951129248044,86.86664902381327,85.51294595992155,40.2726797523806,26.7683337203567,43.71990246469879,15.897411607944214,17.055141289577843,100.50919669676908,27.77545049202319,30.18631416605121,6.167698286021061,-11.15576815067859,50.972099561225235,81.41392042113168,-0.7924852506040274,48.12423069483159,103.40679412824517,63.192656748133516,89.41380977970334,56.84779997146258,-8.417331912584032,39.67840621833857,18.087367264703104,48.9267778638172,26.776577391711662,92.70984740202536,22.702241116616527,53.37283154299948,71.23603494837366,15.1860239699643,59.72886393406298,26.93222201496527,44.79911120134365,55.31483944339777,96.7283770131288,38.32368654294925,70.7767015616727,72.20474566335972,44.5757800405209,69.54954924973075,5.543324493818449,29.12786819005685,-7.1637468598582625,13.356050574146796,47.33376696507702,-4.184832049614046,49.62824974575342,50.68112793149038,43.81187600235182,64.64774631090225,27.680260195603996,-6.135511839837367,52.088412910512744,22.658742535365988,52.77225623372272,21.184820089223578,12.113968889502232,39.187810177988574,6.167698286021061,-11.15576815067859,50.972099561225235,81.41392042113168,-0.7924852506040274,48.12423069483159,77.81811268379641,90.92522751755124,25.917175990391442,30.941972912931327,93.70130588137519,57.30013441807711,95.01267348063729,59.112614257743786,-3.84827196075209,61.42940936630646,57.416329994032395,32.81360138800534,103.4985898814446,75.5279798282923,85.93133010227714,71.25964939566995,95.76718743776969,24.26927711701342,35.536436015866826,15.395634847890271,85.00005655214815,65.38380468889382,5.543324493818449,29.12786819005685,99.21361860093735,72.47819799620578,54.93091209669903,35.87192676470843,68.40209294202296,79.7083478912901,30.40852111613431,12.172339387975612,57.01704329645351,73.41142673438779,14.70028256850464,84.81586008573572,10.89717222712035,52.494666012997726,87.61724783331482,99.60366332739284,-7.1637468598582625,13.356050574146796,44.0806500970691,55.15564832215627,43.7800853643635,16.500525958119205,84.46177310725697,-1.6011532424030799,69.05432544561462,4.933490768096881,68.48731775359359,29.629037212846093,62.13194815258355,53.912352620823285,91.31785501850622,51.717554280341886,47.33376696507702,-4.184832049614046,57.1111230801188,51.47574904838234,65.79703231300422,47.88759092928921,95.35318830374791,96.4416711774337,94.4306473210405,27.33357250608378,10.514862555727646,70.7646712701934,77.81811268379641,90.92522751755124,103.40679412824517,63.192656748133516,47.97857272620449,82.2905518142,6.950507670707362,40.37002805359729,25.917175990391442,30.941972912931327,89.41380977970334,56.84779997146258,65.61540028870692,82.5048804233831,32.47338365006736,57.559694212495,93.70130588137519,57.30013441807711,-8.417331912584032,39.67840621833857,26.710359487089804,32.43662583768937,100.26917026595504,85.36825273885916,95.01267348063729,59.112614257743786,37.950618296602535,58.50837432590369,30.711220562563895,-14.5618189113582,80.65829929582699,86.5875582167778,0.42035126240209664,53.75196681035978,80.4153913560743,-5.276916698629854,36.065324863725245,76.27552193709249,35.53487497073678,37.395080848581095,95.65865138853084,24.098936343163285,
+-----
+49.62824974575342,50.68112793149038,57.416329994032395,32.81360138800534,103.4985898814446,75.5279798282923,85.93133010227714,71.25964939566995,95.76718743776969,24.26927711701342,35.536436015866826,15.395634847890271,85.00005655214815,65.38380468889382,5.543324493818449,29.12786819005685,99.21361860093735,72.47819799620578,54.93091209669903,35.87192676470843,68.40209294202296,79.7083478912901,30.40852111613431,12.172339387975612,57.01704329645351,73.41142673438779,14.70028256850464,84.81586008573572,10.89717222712035,52.494666012997726,87.61724783331482,99.60366332739284,-7.1637468598582625,13.356050574146796,44.0806500970691,55.15564832215627,43.7800853643635,16.500525958119205,84.46177310725697,-1.6011532424030799,69.05432544561462,4.933490768096881,68.48731775359359,29.629037212846093,62.13194815258355,53.912352620823285,91.31785501850622,51.717554280341886,47.33376696507702,-4.184832049614046,57.1111230801188,51.47574904838234,65.79703231300422,47.88759092928921,95.35318830374791,96.4416711774337,94.4306473210405,27.33357250608378,10.514862555727646,70.7646712701934,41.740973388187165,80.15234596996291,-1.4845564595086351,40.97508706680792,47.97857272620449,82.2905518142,6.950507670707362,40.37002805359729,25.917175990391442,30.941972912931327,89.41380977970334,56.84779997146258,65.61540028870692,82.5048804233831,32.47338365006736,57.559694212495,93.70130588137519,57.30013441807711,-8.417331912584032,39.67840621833857,26.710359487089804,32.43662583768937,100.26917026595504,85.36825273885916,95.01267348063729,59.112614257743786,37.950618296602535,58.50837432590369,30.711220562563895,-14.5618189113582,80.65829929582699,86.5875582167778,0.42035126240209664,53.75196681035978,80.4153913560743,-5.276916698629854,36.065324863725245,76.27552193709249,35.53487497073678,37.395080848581095,95.65865138853084,24.098936343163285,35.61357881908579,15.521779872867356,40.2726797523806,26.7683337203567,69.38357725958768,74.01781925807953,52.088412910512744,22.658742535365988,51.08961521127219,20.110085032419196,43.71990246469879,15.897411607944214,77.61677382732107,31.279230498663736,52.77225623372272,21.184820089223578,51.73104069053133,58.25271125979863,17.055141289577843,100.50919669676908,33.997563235426476,54.156584741432454,12.113968889502232,39.187810177988574,94.83541583189002,59.84027957410336,27.77545049202319,30.18631416605121,57.0086472634809,25.60464909706506,36.409312272053135,7.911987139038491,53.42928735999454,76.66566305222102,6.167698286021061,-11.15576815067859,38.72068925757295,32.14251068513845,1.886386197513314,61.675115918351395,71.05432927599149,26.729138018247376,50.972099561225235,81.41392042113168,16.271584975578286,106.81513231955007,79.77259257697784,30.812067265513093,11.264500445176358,20.651792686188525,-0.7924852506040274,48.12423069483159,60.59174316570386,95.07041783038609,79.59920520216187,38.88286919144324,43.65772201789514,29.76348052322175,77.81811268379641,90.92522751755124,103.40679412824517,63.192656748133516,47.97857272620449,82.2905518142,6.950507670707362,40.37002805359729,25.917175990391442,30.941972912931327,89.41380977970334,56.84779997146258,65.61540028870692,82.5048804233831,32.47338365006736,57.559694212495,93.70130588137519,57.30013441807711,-8.417331912584032,39.67840621833857,26.710359487089804,32.43662583768937,100.26917026595504,85.36825273885916,95.01267348063729,59.112614257743786,18.087367264703104,48.9267778638172,80.1420367265371,64.08930766564976,86.86664902381327,85.51294595992155,-3.84827196075209,61.42940936630646,26.776577391711662,92.70984740202536,83.7286673516168,90.27868223267049,27.680260195603996,-6.135511839837367,
+-----
+83.7286673516168,90.27868223267049,57.01704329645351,73.41142673438779,44.083366880397136,33.24281937165599,57.0086472634809,25.60464909706506,23.190865472287875,-0.44041564481285533,10.89717222712035,52.494666012997726,41.740973388187165,80.15234596996291,86.86664902381327,85.51294595992155,43.71990246469879,15.897411607944214,27.77545049202319,30.18631416605121,50.972099561225235,81.41392042113168,103.40679412824517,63.192656748133516,-8.417331912584032,39.67840621833857,26.776577391711662,92.70984740202536,71.23603494837366,15.1860239699643,44.79911120134365,55.31483944339777,70.7767015616727,72.20474566335972,5.543324493818449,29.12786819005685,47.33376696507702,-4.184832049614046,43.81187600235182,64.64774631090225,52.088412910512744,22.658742535365988,12.113968889502232,39.187810177988574,50.972099561225235,81.41392042113168,77.81811268379641,90.92522751755124,93.70130588137519,57.30013441807711,-3.84827196075209,61.42940936630646,103.4985898814446,75.5279798282923,95.76718743776969,24.26927711701342,85.00005655214815,65.38380468889382,99.21361860093735,72.47819799620578,68.40209294202296,79.7083478912901,57.01704329645351,73.41142673438779,10.89717222712035,52.494666012997726,-7.1637468598582625,13.356050574146796,43.7800853643635,16.500525958119205,69.05432544561462,4.933490768096881,62.13194815258355,53.912352620823285,47.33376696507702,-4.184832049614046,65.79703231300422,47.88759092928921,94.4306473210405,27.33357250608378,77.81811268379641,90.92522751755124,47.97857272620449,82.2905518142,25.917175990391442,30.941972912931327,65.61540028870692,82.5048804233831,93.70130588137519,57.30013441807711,26.710359487089804,32.43662583768937,95.01267348063729,59.112614257743786,30.711220562563895,-14.5618189113582,0.42035126240209664,53.75196681035978,36.065324863725245,76.27552193709249,95.65865138853084,24.098936343163285,57.416329994032395,32.81360138800534,85.93133010227714,71.25964939566995,35.536436015866826,15.395634847890271,5.543324493818449,29.12786819005685,54.93091209669903,35.87192676470843,30.40852111613431,12.172339387975612,14.70028256850464,84.81586008573572,87.61724783331482,99.60366332739284,44.0806500970691,55.15564832215627,38.72068925757295,32.14251068513845,71.05432927599149,26.729138018247376,16.271584975578286,106.81513231955007,11.264500445176358,20.651792686188525,60.59174316570386,95.07041783038609,43.65772201789514,29.76348052322175,49.62824974575342,50.68112793149038,54.71528884919159,53.724044569057696,35.18967718636904,44.47055416538255,87.4605146412825,65.44951129248044,43.81187600235182,64.64774631090225,59.31622064266014,21.552062985307387,18.087367264703104,48.9267778638172,86.86664902381327,85.51294595992155,26.776577391711662,92.70984740202536,94.83541583189002,59.84027957410336,85.00005655214815,65.38380468889382,10.89717222712035,52.494666012997726,62.13194815258355,53.912352620823285,41.740973388187165,80.15234596996291,93.70130588137519,57.30013441807711,0.42035126240209664,53.75196681035978,34.7597028499612,10.161914847083686,31.271493940905543,81.66216448267329,86.86664902381327,85.51294595992155,77.74176483653883,51.54383193638908,35.4276861658494,56.69075775313749,50.15013767439486,93.64432829045053,52.088412910512744,22.658742535365988,52.77225623372272,21.184820089223578,12.113968889502232,39.187810177988574,36.409312272053135,7.911987139038491,68.48731775359359,29.629037212846093,57.1111230801188,51.47574904838234,10.514862555727646,70.7646712701934,74.54568579081676,22.312901190876346,58.80876155035558,95.27027374268889,28.52829963238485,91.13948143808518,80.1420367265371,64.08930766564976,83.7286673516168,90.27868223267049,
+-----
+43.65772201789514,29.76348052322175,57.01704329645351,73.41142673438779,76.21441819066382,67.86989115494585,25.535032092086652,106.99470755488149,51.971182416707514,16.60007000191669,44.083366880397136,33.24281937165599,38.14831588265926,13.935328783204273,44.9062212852345,-7.381939425613708,33.20133938759498,38.835064050909594,57.0086472634809,25.60464909706506,36.73694435980996,46.64693416218668,3.103058899498719,117.57472294317941,12.180040039744268,73.27844708505725,23.190865472287875,-0.44041564481285533,57.416329994032395,32.81360138800534,35.536436015866826,15.395634847890271,54.93091209669903,35.87192676470843,10.89717222712035,52.494666012997726,43.7800853643635,16.500525958119205,62.13194815258355,53.912352620823285,65.79703231300422,47.88759092928921,41.740973388187165,80.15234596996291,54.71528884919159,53.724044569057696,87.4605146412825,65.44951129248044,59.31622064266014,21.552062985307387,86.86664902381327,85.51294595992155,27.680260195603996,-6.135511839837367,40.2726797523806,26.7683337203567,52.088412910512744,22.658742535365988,43.71990246469879,15.897411607944214,52.77225623372272,21.184820089223578,17.055141289577843,100.50919669676908,12.113968889502232,39.187810177988574,27.77545049202319,30.18631416605121,36.409312272053135,7.911987139038491,6.167698286021061,-11.15576815067859,1.886386197513314,61.675115918351395,50.972099561225235,81.41392042113168,79.77259257697784,30.812067265513093,-0.7924852506040274,48.12423069483159,79.59920520216187,38.88286919144324,103.40679412824517,63.192656748133516,6.950507670707362,40.37002805359729,89.41380977970334,56.84779997146258,32.47338365006736,57.559694212495,-8.417331912584032,39.67840621833857,100.26917026595504,85.36825273885916,18.087367264703104,48.9267778638172,86.86664902381327,85.51294595992155,26.776577391711662,92.70984740202536,27.680260195603996,-6.135511839837367,22.702241116616527,53.37283154299948,93.84125245423839,97.6401981238782,71.23603494837366,15.1860239699643,14.70696139852172,57.27049673384825,59.72886393406298,26.93222201496527,2.9060956526550434,55.69625885804583,44.79911120134365,55.31483944339777,27.77545049202319,30.18631416605121,96.7283770131288,38.32368654294925,13.333230753957933,30.822830246517228,70.7767015616727,72.20474566335972,91.59968028512978,45.50554143974771,44.5757800405209,69.54954924973075,85.93133010227714,71.25964939566995,5.543324493818449,29.12786819005685,30.40852111613431,12.172339387975612,-7.1637468598582625,13.356050574146796,69.05432544561462,4.933490768096881,47.33376696507702,-4.184832049614046,94.4306473210405,27.33357250608378,49.62824974575342,50.68112793149038,35.18967718636904,44.47055416538255,43.81187600235182,64.64774631090225,86.86664902381327,85.51294595992155,27.680260195603996,-6.135511839837367,40.2726797523806,26.7683337203567,52.088412910512744,22.658742535365988,43.71990246469879,15.897411607944214,52.77225623372272,21.184820089223578,17.055141289577843,100.50919669676908,12.113968889502232,39.187810177988574,27.77545049202319,30.18631416605121,36.409312272053135,7.911987139038491,6.167698286021061,-11.15576815067859,1.886386197513314,61.675115918351395,50.972099561225235,81.41392042113168,79.77259257697784,30.812067265513093,-0.7924852506040274,48.12423069483159,79.59920520216187,38.88286919144324,77.81811268379641,90.92522751755124,47.97857272620449,82.2905518142,25.917175990391442,30.941972912931327,65.61540028870692,82.5048804233831,93.70130588137519,57.30013441807711,26.710359487089804,32.43662583768937,95.01267348063729,59.112614257743786,80.1420367265371,64.08930766564976,-3.84827196075209,61.42940936630646,83.7286673516168,90.27868223267049,
+-----
+57.416329994032395,32.81360138800534,35.61357881908579,15.521779872867356,103.4985898814446,75.5279798282923,40.2726797523806,26.7683337203567,85.93133010227714,71.25964939566995,69.38357725958768,74.01781925807953,95.76718743776969,24.26927711701342,52.088412910512744,22.658742535365988,35.536436015866826,15.395634847890271,51.08961521127219,20.110085032419196,85.00005655214815,65.38380468889382,43.71990246469879,15.897411607944214,5.543324493818449,29.12786819005685,77.61677382732107,31.279230498663736,99.21361860093735,72.47819799620578,52.77225623372272,21.184820089223578,54.93091209669903,35.87192676470843,51.73104069053133,58.25271125979863,68.40209294202296,79.7083478912901,17.055141289577843,100.50919669676908,30.40852111613431,12.172339387975612,33.997563235426476,54.156584741432454,57.01704329645351,73.41142673438779,12.113968889502232,39.187810177988574,14.70028256850464,84.81586008573572,94.83541583189002,59.84027957410336,10.89717222712035,52.494666012997726,27.77545049202319,30.18631416605121,87.61724783331482,99.60366332739284,57.0086472634809,25.60464909706506,-7.1637468598582625,13.356050574146796,36.409312272053135,7.911987139038491,44.0806500970691,55.15564832215627,53.42928735999454,76.66566305222102,43.7800853643635,16.500525958119205,6.167698286021061,-11.15576815067859,84.46177310725697,-1.6011532424030799,38.72068925757295,32.14251068513845,69.05432544561462,4.933490768096881,1.886386197513314,61.675115918351395,68.48731775359359,29.629037212846093,71.05432927599149,26.729138018247376,62.13194815258355,53.912352620823285,50.972099561225235,81.41392042113168,91.31785501850622,51.717554280341886,16.271584975578286,106.81513231955007,47.33376696507702,-4.184832049614046,79.77259257697784,30.812067265513093,57.1111230801188,51.47574904838234,11.264500445176358,20.651792686188525,65.79703231300422,47.88759092928921,-0.7924852506040274,48.12423069483159,95.35318830374791,96.4416711774337,60.59174316570386,95.07041783038609,94.4306473210405,27.33357250608378,79.59920520216187,38.88286919144324,10.514862555727646,70.7646712701934,43.65772201789514,29.76348052322175,41.740973388187165,80.15234596996291,77.81811268379641,90.92522751755124,-1.4845564595086351,40.97508706680792,103.40679412824517,63.192656748133516,49.62824974575342,50.68112793149038,47.97857272620449,82.2905518142,74.54568579081676,22.312901190876346,6.950507670707362,40.37002805359729,54.71528884919159,53.724044569057696,25.917175990391442,30.941972912931327,80.27615250810383,75.1990975249143,89.41380977970334,56.84779997146258,35.18967718636904,44.47055416538255,65.61540028870692,82.5048804233831,58.80876155035558,95.27027374268889,32.47338365006736,57.559694212495,87.4605146412825,65.44951129248044,93.70130588137519,57.30013441807711,72.55971742374915,19.337138766206863,-8.417331912584032,39.67840621833857,43.81187600235182,64.64774631090225,26.710359487089804,32.43662583768937,28.52829963238485,91.13948143808518,100.26917026595504,85.36825273885916,59.31622064266014,21.552062985307387,95.01267348063729,59.112614257743786,41.07780832325054,77.82409067398702,37.950618296602535,58.50837432590369,18.087367264703104,48.9267778638172,30.711220562563895,-14.5618189113582,80.1420367265371,64.08930766564976,80.65829929582699,86.5875582167778,86.86664902381327,85.51294595992155,0.42035126240209664,53.75196681035978,-3.84827196075209,61.42940936630646,80.4153913560743,-5.276916698629854,26.776577391711662,92.70984740202536,36.065324863725245,76.27552193709249,83.7286673516168,90.27868223267049,35.53487497073678,37.395080848581095,27.680260195603996,-6.135511839837367,95.65865138853084,24.098936343163285,
+-----
+77.81811268379641,90.92522751755124,57.416329994032395,32.81360138800534,103.4985898814446,75.5279798282923,85.93133010227714,71.25964939566995,95.76718743776969,24.26927711701342,35.536436015866826,15.395634847890271,85.00005655214815,65.38380468889382,5.543324493818449,29.12786819005685,99.21361860093735,72.47819799620578,54.93091209669903,35.87192676470843,68.40209294202296,79.7083478912901,30.40852111613431,12.172339387975612,57.01704329645351,73.41142673438779,14.70028256850464,84.81586008573572,10.89717222712035,52.494666012997726,87.61724783331482,99.60366332739284,-7.1637468598582625,13.356050574146796,44.0806500970691,55.15564832215627,6.167698286021061,-11.15576815067859,38.72068925757295,32.14251068513845,1.886386197513314,61.675115918351395,71.05432927599149,26.729138018247376,50.972099561225235,81.41392042113168,16.271584975578286,106.81513231955007,79.77259257697784,30.812067265513093,11.264500445176358,20.651792686188525,-0.7924852506040274,48.12423069483159,60.59174316570386,95.07041783038609,79.59920520216187,38.88286919144324,43.65772201789514,29.76348052322175,-1.4845564595086351,40.97508706680792,49.62824974575342,50.68112793149038,74.54568579081676,22.312901190876346,54.71528884919159,53.724044569057696,80.27615250810383,75.1990975249143,35.18967718636904,44.47055416538255,58.80876155035558,95.27027374268889,87.4605146412825,65.44951129248044,72.55971742374915,19.337138766206863,43.81187600235182,64.64774631090225,28.52829963238485,91.13948143808518,59.31622064266014,21.552062985307387,41.07780832325054,77.82409067398702,18.087367264703104,48.9267778638172,80.1420367265371,64.08930766564976,86.86664902381327,85.51294595992155,-3.84827196075209,61.42940936630646,26.776577391711662,92.70984740202536,83.7286673516168,90.27868223267049,27.680260195603996,-6.135511839837367,94.83541583189002,59.84027957410336,103.4985898814446,75.5279798282923,85.00005655214815,65.38380468889382,68.40209294202296,79.7083478912901,10.89717222712035,52.494666012997726,43.7800853643635,16.500525958119205,62.13194815258355,53.912352620823285,65.79703231300422,47.88759092928921,41.740973388187165,80.15234596996291,25.917175990391442,30.941972912931327,93.70130588137519,57.30013441807711,95.01267348063729,59.112614257743786,0.42035126240209664,53.75196681035978,95.65865138853084,24.098936343163285,34.7597028499612,10.161914847083686,95.28794069759776,24.7551628370571,31.271493940905543,81.66216448267329,57.04578906899903,67.84474964601765,86.86664902381327,85.51294595992155,3.5925508217489295,-8.064438147581537,45.421922793383196,62.389138950041186,77.74176483653883,51.54383193638908,90.1680262253975,22.42012352063621,35.4276861658494,56.69075775313749,46.91355218277763,75.07540046644125,50.15013767439486,93.64432829045053,40.2726797523806,26.7683337203567,52.088412910512744,22.658742535365988,43.71990246469879,15.897411607944214,52.77225623372272,21.184820089223578,17.055141289577843,100.50919669676908,12.113968889502232,39.187810177988574,27.77545049202319,30.18631416605121,36.409312272053135,7.911987139038491,6.167698286021061,-11.15576815067859,68.48731775359359,29.629037212846093,91.31785501850622,51.717554280341886,57.1111230801188,51.47574904838234,95.35318830374791,96.4416711774337,10.514862555727646,70.7646712701934,-1.4845564595086351,40.97508706680792,74.54568579081676,22.312901190876346,80.27615250810383,75.1990975249143,58.80876155035558,95.27027374268889,72.55971742374915,19.337138766206863,28.52829963238485,91.13948143808518,41.07780832325054,77.82409067398702,80.1420367265371,64.08930766564976,-3.84827196075209,61.42940936630646,83.7286673516168,90.27868223267049,
+-----
+45.421922793383196,62.389138950041186,57.416329994032395,32.81360138800534,85.93133010227714,71.25964939566995,35.536436015866826,15.395634847890271,5.543324493818449,29.12786819005685,54.93091209669903,35.87192676470843,30.40852111613431,12.172339387975612,14.70028256850464,84.81586008573572,87.61724783331482,99.60366332739284,44.0806500970691,55.15564832215627,84.46177310725697,-1.6011532424030799,68.48731775359359,29.629037212846093,91.31785501850622,51.717554280341886,57.1111230801188,51.47574904838234,95.35318830374791,96.4416711774337,10.514862555727646,70.7646712701934,-1.4845564595086351,40.97508706680792,6.950507670707362,40.37002805359729,89.41380977970334,56.84779997146258,32.47338365006736,57.559694212495,-8.417331912584032,39.67840621833857,100.26917026595504,85.36825273885916,37.950618296602535,58.50837432590369,80.65829929582699,86.5875582167778,80.4153913560743,-5.276916698629854,35.53487497073678,37.395080848581095,35.61357881908579,15.521779872867356,69.38357725958768,74.01781925807953,51.08961521127219,20.110085032419196,77.61677382732107,31.279230498663736,51.73104069053133,58.25271125979863,33.997563235426476,54.156584741432454,94.83541583189002,59.84027957410336,57.0086472634809,25.60464909706506,53.42928735999454,76.66566305222102,38.72068925757295,32.14251068513845,71.05432927599149,26.729138018247376,16.271584975578286,106.81513231955007,11.264500445176358,20.651792686188525,60.59174316570386,95.07041783038609,43.65772201789514,29.76348052322175,103.40679412824517,63.192656748133516,6.950507670707362,40.37002805359729,89.41380977970334,56.84779997146258,32.47338365006736,57.559694212495,-8.417331912584032,39.67840621833857,100.26917026595504,85.36825273885916,18.087367264703104,48.9267778638172,86.86664902381327,85.51294595992155,26.776577391711662,92.70984740202536,27.680260195603996,-6.135511839837367,103.4985898814446,75.5279798282923,95.76718743776969,24.26927711701342,85.00005655214815,65.38380468889382,99.21361860093735,72.47819799620578,68.40209294202296,79.7083478912901,57.01704329645351,73.41142673438779,10.89717222712035,52.494666012997726,-7.1637468598582625,13.356050574146796,6.167698286021061,-11.15576815067859,1.886386197513314,61.675115918351395,50.972099561225235,81.41392042113168,79.77259257697784,30.812067265513093,-0.7924852506040274,48.12423069483159,79.59920520216187,38.88286919144324,-1.4845564595086351,40.97508706680792,74.54568579081676,22.312901190876346,80.27615250810383,75.1990975249143,58.80876155035558,95.27027374268889,72.55971742374915,19.337138766206863,28.52829963238485,91.13948143808518,41.07780832325054,77.82409067398702,80.1420367265371,64.08930766564976,-3.84827196075209,61.42940936630646,83.7286673516168,90.27868223267049,94.83541583189002,59.84027957410336,85.00005655214815,65.38380468889382,10.89717222712035,52.494666012997726,62.13194815258355,53.912352620823285,41.740973388187165,80.15234596996291,93.70130588137519,57.30013441807711,0.42035126240209664,53.75196681035978,34.7597028499612,10.161914847083686,31.271493940905543,81.66216448267329,86.86664902381327,85.51294595992155,77.74176483653883,51.54383193638908,35.4276861658494,56.69075775313749,50.15013767439486,93.64432829045053,52.088412910512744,22.658742535365988,52.77225623372272,21.184820089223578,12.113968889502232,39.187810177988574,36.409312272053135,7.911987139038491,68.48731775359359,29.629037212846093,57.1111230801188,51.47574904838234,10.514862555727646,70.7646712701934,74.54568579081676,22.312901190876346,58.80876155035558,95.27027374268889,28.52829963238485,91.13948143808518,80.1420367265371,64.08930766564976,83.7286673516168,90.27868223267049,
+-----
+38.72068925757295,32.14251068513845,57.416329994032395,32.81360138800534,85.93133010227714,71.25964939566995,35.536436015866826,15.395634847890271,5.543324493818449,29.12786819005685,54.93091209669903,35.87192676470843,30.40852111613431,12.172339387975612,14.70028256850464,84.81586008573572,87.61724783331482,99.60366332739284,44.0806500970691,55.15564832215627,84.46177310725697,-1.6011532424030799,68.48731775359359,29.629037212846093,91.31785501850622,51.717554280341886,57.1111230801188,51.47574904838234,95.35318830374791,96.4416711774337,10.514862555727646,70.7646712701934,-1.4845564595086351,40.97508706680792,6.950507670707362,40.37002805359729,89.41380977970334,56.84779997146258,32.47338365006736,57.559694212495,-8.417331912584032,39.67840621833857,100.26917026595504,85.36825273885916,37.950618296602535,58.50837432590369,80.65829929582699,86.5875582167778,80.4153913560743,-5.276916698629854,35.53487497073678,37.395080848581095,35.61357881908579,15.521779872867356,69.38357725958768,74.01781925807953,51.08961521127219,20.110085032419196,77.61677382732107,31.279230498663736,51.73104069053133,58.25271125979863,33.997563235426476,54.156584741432454,94.83541583189002,59.84027957410336,57.0086472634809,25.60464909706506,53.42928735999454,76.66566305222102,1.886386197513314,61.675115918351395,50.972099561225235,81.41392042113168,79.77259257697784,30.812067265513093,-0.7924852506040274,48.12423069483159,79.59920520216187,38.88286919144324,77.81811268379641,90.92522751755124,47.97857272620449,82.2905518142,25.917175990391442,30.941972912931327,65.61540028870692,82.5048804233831,93.70130588137519,57.30013441807711,26.710359487089804,32.43662583768937,95.01267348063729,59.112614257743786,80.1420367265371,64.08930766564976,-3.84827196075209,61.42940936630646,83.7286673516168,90.27868223267049,60.29564988678692,5.7758879712962266,85.93133010227714,71.25964939566995,5.543324493818449,29.12786819005685,30.40852111613431,12.172339387975612,87.61724783331482,99.60366332739284,84.46177310725697,-1.6011532424030799,91.31785501850622,51.717554280341886,95.35318830374791,96.4416711774337,-1.4845564595086351,40.97508706680792,89.41380977970334,56.84779997146258,-8.417331912584032,39.67840621833857,37.950618296602535,58.50837432590369,80.4153913560743,-5.276916698629854,57.74825446998735,8.839728579546144,43.772812485717,14.096242337266041,8.375992843549675,26.262155284807417,33.858997748716014,1.0114104899027798,18.087367264703104,48.9267778638172,26.776577391711662,92.70984740202536,42.11324902996447,79.79578276621437,25.857782762107515,6.150635311425063,48.681528372686365,87.01478485098885,71.11614598567982,53.08086487740691,47.14018792047867,4.665064780163987,60.98487789934421,44.60320203656379,57.01704329645351,73.41142673438779,44.083366880397136,33.24281937165599,57.0086472634809,25.60464909706506,23.190865472287875,-0.44041564481285533,10.89717222712035,52.494666012997726,41.740973388187165,80.15234596996291,86.86664902381327,85.51294595992155,43.71990246469879,15.897411607944214,27.77545049202319,30.18631416605121,50.972099561225235,81.41392042113168,103.40679412824517,63.192656748133516,-8.417331912584032,39.67840621833857,22.702241116616527,53.37283154299948,59.72886393406298,26.93222201496527,96.7283770131288,38.32368654294925,44.5757800405209,69.54954924973075,-7.1637468598582625,13.356050574146796,49.62824974575342,50.68112793149038,27.680260195603996,-6.135511839837367,52.77225623372272,21.184820089223578,36.409312272053135,7.911987139038491,79.77259257697784,30.812067265513093,47.97857272620449,82.2905518142,26.710359487089804,32.43662583768937,83.7286673516168,90.27868223267049,
+-----
+43.71990246469879,15.897411607944214,57.01704329645351,73.41142673438779,44.083366880397136,33.24281937165599,57.0086472634809,25.60464909706506,23.190865472287875,-0.44041564481285533,10.89717222712035,52.494666012997726,41.740973388187165,80.15234596996291,86.86664902381327,85.51294595992155,43.71990246469879,15.897411607944214,27.77545049202319,30.18631416605121,50.972099561225235,81.41392042113168,103.40679412824517,63.192656748133516,-8.417331912584032,39.67840621833857,26.776577391711662,92.70984740202536,71.23603494837366,15.1860239699643,44.79911120134365,55.31483944339777,44.5757800405209,69.54954924973075,-7.1637468598582625,13.356050574146796,49.62824974575342,50.68112793149038,27.680260195603996,-6.135511839837367,52.77225623372272,21.184820089223578,6.167698286021061,-11.15576815067859,-0.7924852506040274,48.12423069483159,25.917175990391442,30.941972912931327,95.01267348063729,59.112614257743786,57.416329994032395,32.81360138800534,85.93133010227714,71.25964939566995,35.536436015866826,15.395634847890271,5.543324493818449,29.12786819005685,54.93091209669903,35.87192676470843,30.40852111613431,12.172339387975612,14.70028256850464,84.81586008573572,87.61724783331482,99.60366332739284,44.0806500970691,55.15564832215627,84.46177310725697,-1.6011532424030799,68.48731775359359,29.629037212846093,91.31785501850622,51.717554280341886,57.1111230801188,51.47574904838234,95.35318830374791,96.4416711774337,10.514862555727646,70.7646712701934,103.40679412824517,63.192656748133516,6.950507670707362,40.37002805359729,89.41380977970334,56.84779997146258,32.47338365006736,57.559694212495,-8.417331912584032,39.67840621833857,100.26917026595504,85.36825273885916,37.950618296602535,58.50837432590369,80.65829929582699,86.5875582167778,80.4153913560743,-5.276916698629854,35.53487497073678,37.395080848581095,43.65772201789514,29.76348052322175,76.21441819066382,67.86989115494585,51.971182416707514,16.60007000191669,38.14831588265926,13.935328783204273,33.20133938759498,38.835064050909594,36.73694435980996,46.64693416218668,12.180040039744268,73.27844708505725,57.416329994032395,32.81360138800534,54.93091209669903,35.87192676470843,43.7800853643635,16.500525958119205,65.79703231300422,47.88759092928921,54.71528884919159,53.724044569057696,59.31622064266014,21.552062985307387,27.680260195603996,-6.135511839837367,52.088412910512744,22.658742535365988,52.77225623372272,21.184820089223578,12.113968889502232,39.187810177988574,36.409312272053135,7.911987139038491,1.886386197513314,61.675115918351395,79.77259257697784,30.812067265513093,79.59920520216187,38.88286919144324,6.950507670707362,40.37002805359729,32.47338365006736,57.559694212495,100.26917026595504,85.36825273885916,86.86664902381327,85.51294595992155,27.680260195603996,-6.135511839837367,93.84125245423839,97.6401981238782,14.70696139852172,57.27049673384825,2.9060956526550434,55.69625885804583,27.77545049202319,30.18631416605121,13.333230753957933,30.822830246517228,91.59968028512978,45.50554143974771,85.93133010227714,71.25964939566995,30.40852111613431,12.172339387975612,69.05432544561462,4.933490768096881,94.4306473210405,27.33357250608378,35.18967718636904,44.47055416538255,86.86664902381327,85.51294595992155,40.2726797523806,26.7683337203567,52.77225623372272,21.184820089223578,12.113968889502232,39.187810177988574,36.409312272053135,7.911987139038491,1.886386197513314,61.675115918351395,79.77259257697784,30.812067265513093,79.59920520216187,38.88286919144324,47.97857272620449,82.2905518142,65.61540028870692,82.5048804233831,26.710359487089804,32.43662583768937,80.1420367265371,64.08930766564976,83.7286673516168,90.27868223267049,
+-----
+85.00005655214815,65.38380468889382,49.62824974575342,50.68112793149038,103.4985898814446,75.5279798282923,95.76718743776969,24.26927711701342,5.543324493818449,29.12786819005685,54.93091209669903,35.87192676470843,30.40852111613431,12.172339387975612,14.70028256850464,84.81586008573572,87.61724783331482,99.60366332739284,44.0806500970691,55.15564832215627,84.46177310725697,-1.6011532424030799,68.48731775359359,29.629037212846093,91.31785501850622,51.717554280341886,57.1111230801188,51.47574904838234,95.35318830374791,96.4416711774337,10.514862555727646,70.7646712701934,-1.4845564595086351,40.97508706680792,6.950507670707362,40.37002805359729,89.41380977970334,56.84779997146258,32.47338365006736,57.559694212495,-8.417331912584032,39.67840621833857,100.26917026595504,85.36825273885916,37.950618296602535,58.50837432590369,80.65829929582699,86.5875582167778,80.4153913560743,-5.276916698629854,35.53487497073678,37.395080848581095,35.61357881908579,15.521779872867356,69.38357725958768,74.01781925807953,51.08961521127219,20.110085032419196,77.61677382732107,31.279230498663736,51.73104069053133,58.25271125979863,33.997563235426476,54.156584741432454,94.83541583189002,59.84027957410336,57.0086472634809,25.60464909706506,53.42928735999454,76.66566305222102,38.72068925757295,32.14251068513845,71.05432927599149,26.729138018247376,16.271584975578286,106.81513231955007,11.264500445176358,20.651792686188525,60.59174316570386,95.07041783038609,43.65772201789514,29.76348052322175,103.40679412824517,63.192656748133516,6.950507670707362,40.37002805359729,89.41380977970334,56.84779997146258,32.47338365006736,57.559694212495,-8.417331912584032,39.67840621833857,100.26917026595504,85.36825273885916,18.087367264703104,48.9267778638172,86.86664902381327,85.51294595992155,26.776577391711662,92.70984740202536,27.680260195603996,-6.135511839837367,57.01704329645351,73.41142673438779,57.0086472634809,25.60464909706506,10.89717222712035,52.494666012997726,86.86664902381327,85.51294595992155,27.77545049202319,30.18631416605121,103.40679412824517,63.192656748133516,26.776577391711662,92.70984740202536,44.79911120134365,55.31483944339777,5.543324493818449,29.12786819005685,43.81187600235182,64.64774631090225,12.113968889502232,39.187810177988574,77.81811268379641,90.92522751755124,-3.84827196075209,61.42940936630646,95.76718743776969,24.26927711701342,99.21361860093735,72.47819799620578,57.01704329645351,73.41142673438779,-7.1637468598582625,13.356050574146796,69.05432544561462,4.933490768096881,47.33376696507702,-4.184832049614046,94.4306473210405,27.33357250608378,47.97857272620449,82.2905518142,65.61540028870692,82.5048804233831,26.710359487089804,32.43662583768937,30.711220562563895,-14.5618189113582,36.065324863725245,76.27552193709249,57.416329994032395,32.81360138800534,35.536436015866826,15.395634847890271,54.93091209669903,35.87192676470843,14.70028256850464,84.81586008573572,44.0806500970691,55.15564832215627,71.05432927599149,26.729138018247376,11.264500445176358,20.651792686188525,43.65772201789514,29.76348052322175,54.71528884919159,53.724044569057696,87.4605146412825,65.44951129248044,59.31622064266014,21.552062985307387,26.776577391711662,92.70984740202536,85.00005655214815,65.38380468889382,62.13194815258355,53.912352620823285,93.70130588137519,57.30013441807711,34.7597028499612,10.161914847083686,86.86664902381327,85.51294595992155,35.4276861658494,56.69075775313749,52.088412910512744,22.658742535365988,12.113968889502232,39.187810177988574,68.48731775359359,29.629037212846093,10.514862555727646,70.7646712701934,58.80876155035558,95.27027374268889,80.1420367265371,64.08930766564976,
