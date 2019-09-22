@@ -9,6 +9,9 @@ Raymond Habis - a1631834 - raymond.habis@student.adelaide.edu.au             par
 Matthew Durflinger - a1669837 - matthew.durflinger@student.adelaide.edu.au   part 3
 Patrick Ellway - a1717790 - patrick.ellway@student.adelaide.edu.au           part 3
 
+### Running the code
+
+compile - javac *.java
 
 ### Running Part 1
 
@@ -27,6 +30,7 @@ a = 2
 
 b : 1 = fastNova mutator and Mean crossover
     2 = superNova mutator and Mean crossover
+    3 = Offset mutator and schoolyard crossover
 
 c = integer for number of cities
 
