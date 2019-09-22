@@ -138,7 +138,7 @@ public class Main
                     alg.evolutionaryAlgorithm(population, fitness, novaMutator, meanCrossover);
                     break;
                 case 3:
-                    OffsetMutation offsetMutator = new OffsetMutation(0, 0, 100, 100);
+                    OffsetMutation offsetMutator = new OffsetMutation();
                     SchoolyardTeamsTSPCrossover schoolCrossover = new SchoolyardTeamsTSPCrossover();
                     
                     alg.evolutionaryAlgorithm(population, fitness, offsetMutator, schoolCrossover);
@@ -189,7 +189,7 @@ public class Main
                 perform.fitnessPairTwoOptAlg2(Integer.parseInt(args[2]), Integer.parseInt(args[3]));
             }
         }
-        if (args[0].equals("4"))
+        else if (args[0].equals("4"))
         {
             // Exercise 1 requires a number of cities. 
             if (args.length != 2)
@@ -213,6 +213,7 @@ public class Main
             TSP_Instance tsp2 = new TSP_Instance(numberCities, 0, 50);
             ExtremistEA extremist = new ExtremistEA();
             extremist.EvolutionaryAlgorithm(tsp2);
+        }
         else
         {
             System.out.println("Error: Invalid exercise number: " + args[0] + ". Must be 1, 2 or 3");
