@@ -17,7 +17,7 @@ compile - javac *.java
 
 java Main a b
 
-a = 1
+a = 1\
 b = integer for number of cities
 
 Example : java Main 1 50  - will run part 1 for 50 points
@@ -28,8 +28,8 @@ java Main a b c
 
 a = 2
 
-b : 1 = fastNova mutator and Mean crossover
-    2 = superNova mutator and Mean crossover
+b : 1 = fastNova mutator and Mean crossover\
+    2 = superNova mutator and Mean crossover\
     3 = Offset mutator and schoolyard crossover
 
 c = integer for number of cities
@@ -48,13 +48,13 @@ b: 1 = Inver - TwoOp\
    3 = Inver - Genetic Algorithm\
    4 = Inver / Genetic Algorithm\
    5 = TwoOpt - Genetic Algorithm\
-   6 = TwoOpt / Genetic Algorithm\
+   6 = TwoOpt / Genetic Algorithm
 
-c: 1 = Mean Crossover
+c: 1 = Mean Crossover\
    2 = schoolyard Teams Crossover
 
-d: 1 = SuperNova Mutator
-   2 = FastNova Mutator
+d: 1 = SuperNova Mutator\
+   2 = FastNova Mutator\
    3 = Offset Mutator
 
 f: enter a positive integer - this will set the number of generations
@@ -67,7 +67,7 @@ This will run Inver-Genetic Algorithm with the Mean Crossover and SuperNova Muta
 
 java Main a b
 
-a = 4
+a = 4\
 b = integer number for number of cities
 
 Example : java Main 4 50 - will run extremistEA for intances of 50 points
